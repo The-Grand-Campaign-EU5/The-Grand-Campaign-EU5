@@ -128,15 +128,6 @@ MZK = {
 
 }
 
-ANT = {
-	color = rgb { 8 86 149 }
-	color2 = rgb { 8 86 149 }
-
-	culture_definition = albanian
-	religion_definition = catholic 
-
-}
-
 MTR = {
 	color = rgb { 75 110 50 }
 	color2 = rgb { 75 110 50 }
@@ -197,13 +188,6 @@ BOD = {
 	color = rgb { 72 204 63 }
 	
 	culture_definition = venetian
-	religion_definition = catholic
-}
-
-ARO = {
-	color = hsv360 { 239 70 61 }
-	
-	culture_definition = french
 	religion_definition = catholic
 }
 

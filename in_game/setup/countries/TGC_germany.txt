@@ -1,4 +1,4 @@
-PRU = {
+﻿PRU = {
 	color = map_PRU
 	color2 = rgb { 16 41 202 }
 	
@@ -491,6 +491,13 @@ GEL = {
 
 OLD = {
 	color = rgb { 147 130 118 }
+
+	culture_definition = lower_saxon
+	religion_definition = catholic
+}
+
+KNP = {
+	color = rgb { 130  150  125 }
 
 	culture_definition = lower_saxon
 	religion_definition = catholic

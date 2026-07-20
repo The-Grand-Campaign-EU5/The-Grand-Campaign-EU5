@@ -1,4 +1,4 @@
-NET = {
+﻿NED = {
 	color = map_HOL
 	color2 = rgb { 16 41 202 }
 	
@@ -57,5 +57,19 @@ MRT = {
 	color = rgb { 135 180 230 }
 
 	culture_definition = frisian
+	religion_definition = catholic
+}
+
+LIM = {
+	color = rgb { 246  197  10 }
+
+	culture_definition = walloon
+	religion_definition = catholic
+}
+
+ANT = {
+	color = rgb { 188 39 39 }
+
+	culture_definition = walloon
 	religion_definition = catholic
 }
