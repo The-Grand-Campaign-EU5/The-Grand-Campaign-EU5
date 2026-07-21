@@ -48,13 +48,6 @@ countries = {
          own_control_core = {
             sukhumi anacopia lata_georgia pitsunda bedia
          }
-
-         
-         
-
-         
-
-         
       }
       ABU = {
          include = "expl_whole_world"
@@ -66,13 +59,6 @@ countries = {
          own_control_core = {
             abu_dhabi dubai
          }
-
-         
-         
-
-         
-
-         
       }
       ADH = {
          include = "expl_whole_world"
@@ -106,13 +92,6 @@ countries = {
          own_control_core = {
             andkhoy
          }
-
-         
-         
-
-         
-
-         
       }
       AGH = {
          include = "expl_whole_world"
@@ -136,13 +115,6 @@ countries = {
          own_control_core = {
             ballenstedt bernburg hecklingen hohenerxleben gross_muhlingen coswig
          }
-
-         
-         
-         
-         
-
-         
       }
       AHD = {
          include = "expl_whole_world"
@@ -156,13 +128,6 @@ countries = {
          own_control_core = {
             zerbst sandersleben grobzig dessau godnitz barenthoren gross_alsleben
          }
-
-         
-         
-         
-         
-
-         
       }
       AHK = {
          include = "expl_whole_world"
@@ -176,13 +141,6 @@ countries = {
          own_control_core = {
             kothen gusten diesdorf rosslau lindau dornburg
          }
-
-         
-         
-         
-         
-
-         
       }
       AHO = {
          include = "expl_whole_world"
@@ -193,13 +151,6 @@ countries = {
          own_control_core = {
             charaideo charagua namrup noadihang konwargaon lakhimpur itanagar nakshaparvat morangi dergaon
          }
-
-         
-         
-
-         
-
-         
       }
       ALE = {
          include = "expl_whole_world"
@@ -211,13 +162,6 @@ countries = {
          own_control_core = {
             anew tejend
          }
-
-         
-         
-
-         
-
-         
       }
       ALG = {
          include = "expl_whole_world"
@@ -244,13 +188,6 @@ countries = {
          own_control_core = {
             bayhan markha nisab jurrah shuqra ahwar
          }
-
-         
-         
-
-         
-
-         
       }
       ALR = {
          include = "expl_whole_world"
@@ -271,22 +208,12 @@ countries = {
          own_control_core = {
             mayma altayskoye onguday ust_koksa altay_mountains tsagaan_usun
          }
-
-         
-
-         
       }
       ALU = {
          include = "expl_whole_world"
          
          capital = kasaragod
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       ANK = {
          include = "expl_whole_world"
@@ -308,11 +235,6 @@ countries = {
          own_control_core = {
             andorra_la_vella
          }
-
-         
-         
-
-         
       }
       ARD = {
          include = "expl_whole_world"
@@ -325,11 +247,6 @@ countries = {
             zagros_mountains3 zagros_mountains10 sanandaj hawraman marivan javanrud sahrazur mawet sardasht santeh
             divandarreh bijar bashqurtaran ghorveh dehgolan asadabad sonqor kamyaran muchesh
          }
-
-         
-         
-
-         
       }
       ARG = {
          include = "expl_whole_world"
@@ -355,24 +272,12 @@ countries = {
             jaurua millcayac ullum sankancete zonda quines popopis atuel viluco mamull_mapu
             rankulche vuta_chadihue quemu_quemu chapaleufu chical_co lewfuko
          }
-
-         
-
-         
-
-         
       }
       ARK = {
          include = "expl_whole_world"
          
          capital = launggyet
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       ARO = {
          include = "expl_whole_world"
@@ -396,13 +301,6 @@ countries = {
          own_control_core = {
             sadah shaharah
          }
-
-         
-         
-
-         
-
-         
       }
       ARU = {
          include = "expl_whole_world"
@@ -417,15 +315,6 @@ countries = {
             rokan tambusai tanah_putih siak bengkalis buantan dumai sakai_riau senapelan pangkalan_kerinci
             gunung_sahilan kampar pelalawan singingi
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       ASH = {
          include = "expl_whole_world"
@@ -459,13 +348,6 @@ countries = {
          own_control_core = {
             rijal_almaa abha al_harjah dhahran jazan al_haqu al_khosuf farasan sabt_bani_bishr sabya
          }
-
-         
-         
-
-         
-
-         
       }
       ATB = {
          include = "expl_whole_world"
@@ -477,13 +359,6 @@ countries = {
          own_control_core = {
             mubarakabad incheh_borun nardin gorgan maraveh
          }
-
-         
-         
-
-         
-
-         
       }
       ATH = {
          include = "expl_whole_world"
@@ -498,17 +373,6 @@ countries = {
          own_control_core = {
             mount_athos
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       ATJ = {
          include = "expl_whole_world"
@@ -522,13 +386,6 @@ countries = {
          own_control_core = {
             bandar_aceh daya calang meulaboh susoh tapaktuan
          }
-
-         
-         
-         
-         
-
-         
       }
       AWS = {
          include = "expl_whole_world"
@@ -550,13 +407,6 @@ countries = {
          own_control_core = {
             sulaymaniyah qaladiza chamchamal
          }
-
-         
-         
-
-         
-
-         
       }
       BAC = {
          include = "expl_whole_world"
@@ -568,12 +418,6 @@ countries = {
          own_control_core = {
             amassing
          }
-
-         
-         
-         
-
-         
       }
       BAD = {
          include = "expl_whole_world"
@@ -585,11 +429,6 @@ countries = {
          own_control_core = {
             baud athmallik phulbani udayagiri_kotagad sonepur redhakhol kunjabangarh
          }
-
-         
-         
-
-         
       }
       BAI = {
          include = "expl_whole_world"
@@ -601,14 +440,6 @@ countries = {
          own_control_core = {
             banggai gori_gori bulakan lingketeng
          }
-
-         
-         
-         
-
-         
-
-         
       }
       BAS = {
          include = "expl_whole_world"
@@ -661,15 +492,6 @@ countries = {
             neustadt schwabach kulmbach nuremberg oettingen aschaffenburg miltenberg aschach lohr leuchtenberg
             tirschenreuth schesslitz weissenburg dinkelsbuhl uffenheim kitzingen rothenburg meisenheim
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       BBK = {
          include = "expl_whole_world"
@@ -694,15 +516,6 @@ countries = {
             baden durlach oberkirch offenburg freiburg mullheim bonndorf villingen waldshut stockach
             konstanz heidelberg bruchsal sinsheim mosbach buchen tauberbischofsheim hachberg furstenberg uberlingen
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       BDS = {
          include = "expl_whole_world"
@@ -714,13 +527,6 @@ countries = {
          own_control_core = {
             ragh shiveh ishkashim zebak fayzabad jurm sar_sang pamir3 hindu_kush3
          }
-
-         
-         
-
-         
-
-         
       }
       BEI = {
          include = "expl_whole_world"
@@ -736,18 +542,9 @@ countries = {
          own_control_integrated = {
             hulu_limbang hulu_padas trusan
          }
-
-         
-         
-         
-
          accepted_cultures = {
             dusun_culture
          }
-
-         
-
-         
       }
       BEL = {
          include = "expl_whole_world"
@@ -765,14 +562,6 @@ countries = {
             orchimont la_roche arlon bouillon stavelot luxembourg vianden maastricht roermond venlo new2
             weert
          }
-
-         
-         
-         
-
-         
-
-         
       }
       BEM = {
          include = "expl_whole_world"
@@ -794,13 +583,6 @@ countries = {
          own_control_core = {
             benin uromi ugbodu uzea owo ughoton akure
          }
-
-         
-         
-
-         
-
-         
       }
       BES = {
          include = "expl_whole_world"
@@ -811,12 +593,6 @@ countries = {
          own_control_core = {
             beruas
          }
-
-         
-
-         
-
-         
       }
       BGG = {
          include = "expl_whole_world"
@@ -828,12 +604,6 @@ countries = {
          own_control_core = {
             sigi
          }
-
-         
-         
-         
-
-         
       }
       BGI = {
          include = "expl_whole_world"
@@ -855,13 +625,6 @@ countries = {
          own_control_core = {
             bandogarh rewa nagod ramnagar beohari madwas chitrakuta panna bhatta sohagpur
          }
-
-         
-         
-
-         
-
-         
       }
       BGL = {
          include = "expl_whole_world"
@@ -872,13 +635,6 @@ countries = {
          own_control_core = {
             mayuragiri salagiri dang
          }
-
-         
-         
-
-         
-
-         
       }
       BGR = {
          include = "expl_whole_world"
@@ -889,11 +645,6 @@ countries = {
          own_control_core = {
             bandhugara dongartal katol
          }
-
-         
-         
-
-         
       }
       BGT = {
          include = "expl_whole_world"
@@ -905,13 +656,6 @@ countries = {
          own_control_core = {
             dera_bugti sui_pakistan
          }
-
-         
-         
-
-         
-
-         
       }
       BHA = {
          include = "expl_whole_world"
@@ -919,12 +663,6 @@ countries = {
          country_rank = rank_county
 
          #Subdued by Delhi in 1331 with Bhairu, a son of the old ruler, in charge. Bersi had converted to Islam
-         
-         
-
-         
-
-         
       }
       BHD = {
          include = "expl_whole_world"
@@ -939,11 +677,6 @@ countries = {
          our_cores_conquered_by_others = {
             dwarka chhaya
          }
-
-         
-         
-
-         
       }
       BHM = {
          include = "expl_whole_world"
@@ -954,12 +687,6 @@ countries = {
          own_control_core = {
             manmaw shwegu
          }
-
-         
-
-         
-
-         
       }
       BHP = {
          include = "expl_whole_world"
@@ -972,13 +699,6 @@ countries = {
             bishnupur bankura barabhum chandrakona hijli madaran raipur_bengal tamluk ghatsila chaibasa
             kharsawan
          }
-
-         
-         
-
-         
-
-         
       }
       BHR = {
          include = "expl_whole_world"
@@ -990,13 +710,6 @@ countries = {
          own_control_core = {
             manama
          }
-
-         
-         
-
-         
-
-         
       }
       BHT = {
          include = "expl_whole_world"
@@ -1007,13 +720,6 @@ countries = {
          own_control_core = {
             eruh sirnak east_taurus_7
          }
-
-         
-         
-
-         
-
-         
       }
       BHV = {
          include = "expl_whole_world"
@@ -1067,12 +773,6 @@ countries = {
          own_control_core = {
             bima
          }
-
-         
-         
-         
-
-         
       }
       BIT = {
          include = "expl_whole_world"
@@ -1084,13 +784,6 @@ countries = {
          own_control_core = {
             bitlis tatvan hizan suphan_mountains east_taurus_3
          }
-
-         
-         
-
-         
-
-         
       }
       BKH = {
          include = "expl_whole_world"
@@ -1104,13 +797,6 @@ countries = {
             alat paykend vardanzi bukhara tim_samarkand nurota ishtixon karmana primkent yangirabod
             samarkand dimishk panjakent jizzakh hissar_mountains3
          }
-
-         
-         
-
-         
-
-         
       }
       BLI = {
          include = "expl_whole_world"
@@ -1122,12 +808,6 @@ countries = {
          own_control_core = {
             samprangan melara julah
          }
-
-         
-         
-         
-
-         
       }
       BLJ = {
          include = "expl_whole_world"
@@ -1139,13 +819,6 @@ countries = {
          own_control_core = {
             wesgird munk
          }
-
-         
-         
-
-         
-
-         
       }
       BLK = {
          include = "expl_whole_world"
@@ -1157,13 +830,6 @@ countries = {
          own_control_core = {
             zadian khamyab termez boyena_qara
          }
-
-         
-         
-
-         
-
-         
       }
       BLN = {
          include = "expl_whole_world"
@@ -1175,14 +841,6 @@ countries = {
          own_control_core = {
             belang solimandungan amurang
          }
-
-         
-         
-         
-
-         
-
-         
       }
       BMG = {
          include = "expl_whole_world"
@@ -1203,13 +861,6 @@ countries = {
          own_control_core = {
             bonaigarh badamgarh
          }
-
-         
-         
-
-         
-
-         
       }
       BND = {
          include = "expl_whole_world"
@@ -1220,13 +871,6 @@ countries = {
          own_control_core = {
             orchha kundar tehri irij chhatarpur rahatgarh khajuraho banda rath jhansi
          }
-
-         
-         
-
-         
-
-         
       }
       BNE = {
          include = "expl_whole_world"
@@ -1238,12 +882,6 @@ countries = {
          own_control_core = {
             bone
          }
-
-         
-         
-         
-
-         
       }
       BNK = {
          include = "expl_whole_world"
@@ -1256,13 +894,6 @@ countries = {
          own_control_core = {
             sayhat al_uqayr al_ahsa al_jafurah1 al_hunayy al_mashqar
          }
-
-         
-         
-
-         
-
-         
       }
       BNY = {
          include = "expl_whole_world"
@@ -1304,12 +935,6 @@ countries = {
             chuwi mizque sachchaa_mukku arque incarraqay kabishi kuruminaka paikoneka saraveka otuke
             koraveka bia_mbya mbia guarayo cayuvava yuracare
          }
-
-         
-
-         
-
-         
       }
       BOO = {
          include = "expl_whole_world"
@@ -1321,12 +946,6 @@ countries = {
          own_control_core = {
             bool talibon
          }
-
-         
-         
-         
-
-         
       }
       BOR = {
          include = "expl_whole_world"
@@ -1344,12 +963,6 @@ countries = {
          capital = manado
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
       }
       BPD = {
          include = "expl_whole_world"
@@ -1370,10 +983,6 @@ countries = {
          own_control_core = {
             pyay paungde tharrawaddy
          }
-
-         
-
-         
       }
       BRD = {
          include = "expl_whole_world"
@@ -1395,14 +1004,6 @@ countries = {
          own_control_core = {
             bremen bremervorde
          }
-
-         
-         
-         
-
-         
-
-         
       }
       BRS = {
          include = "expl_whole_world"
@@ -1478,12 +1079,6 @@ countries = {
             corumba cayapo javaes goroti_kumrenhtx araripocone iranmranhre utugo_kuri_doge morrinhos guaiana imbau
             jataizinho apucarana itarare bororos uberaba bagagem aratu pium_i
          }
-
-         
-
-         
-
-         
       }
       BSG = {
          include = "expl_whole_world"
@@ -1504,13 +1099,6 @@ countries = {
          own_control_core = {
             kahlur
          }
-
-         
-         
-
-         
-
-         
       }
       BSR = {
          include = "expl_whole_world"
@@ -1522,13 +1110,6 @@ countries = {
          own_control_core = {
             khormoj reyshahr bandar_rig bandar_deylam
          }
-
-         
-         
-
-         
-
-         
       }
       BST = {
          include = "expl_whole_world"
@@ -1541,12 +1122,6 @@ countries = {
          }
 
          #Ruler: Annan Deo (1324-1369)
-         
-         
-
-         
-
-         
       }
       BSW = {
          include = "expl_whole_world"
@@ -1560,13 +1135,6 @@ countries = {
          own_control_core = {
             brunswick helmstedt holzminden gandersheim goslar blankenburg wolfenbuttel calvorde
          }
-
-         
-         
-         
-         
-
-         
       }
       BTE = {
          include = "expl_whole_world"
@@ -1574,12 +1142,6 @@ countries = {
          capital = bantayan
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
       }
       BTL = {
          include = "expl_whole_world"
@@ -1593,13 +1155,6 @@ countries = {
             karkevand fereydunshahr golpayegan khomeyn dorud aligurdaz borborud sibak somaleh masjed_soleyman
             zagros_mountains12
          }
-
-         
-         
-
-         
-
-         
       }
       BTN = {
          include = "expl_whole_world"
@@ -1611,12 +1166,6 @@ countries = {
          own_control_core = {
             butung
          }
-
-         
-         
-         
-
-         
       }
       BTO = {
          include = "expl_whole_world"
@@ -1643,14 +1192,6 @@ countries = {
          own_control_integrated = {
             cantilan langan cabadbaran surigao talacogon
          }
-
-         
-         
-         
-
-         
-
-         
       }
       BTW = {
          include = "expl_whole_world"
@@ -1672,11 +1213,6 @@ countries = {
          own_control_core = {
             buganda buddu rubaga mubemde bigo_bya_mugenyi north_buganda
          }
-
-         
-         
-
-         
       }
       BUN = {
          include = "expl_whole_world"
@@ -1694,14 +1230,6 @@ countries = {
          capital = barus
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
-
-         
       }
       BUU = {
          include = "expl_whole_world"
@@ -1718,13 +1246,6 @@ countries = {
          
          capital = rawatsar
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       BYD = {
          include = "expl_whole_world"
@@ -1736,24 +1257,12 @@ countries = {
          own_control_core = {
             bayazit karakilise karasu_aras_mountains tutak aladag_mountains bargiri hosap
          }
-
-         
-         
-
-         
-
-         
       }
       CAB = {
          include = "expl_whole_world"
          
          capital = chamba_india
          country_rank = rank_county
-
-         
-         
-
-         
       }
       CBK = {
          include = "expl_whole_world"
@@ -1764,25 +1273,12 @@ countries = {
          own_control_core = {
             thuan_chau muong_cha muong_luan son_la mang_viet lai_chau thuy_vi van_ban quy_hoa
          }
-
-         
-
-         
-
-         
       }
       CDD = {
          include = "expl_whole_world"
          
          capital = chaudandi
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       CDM = {
          include = "expl_whole_world"
@@ -1804,14 +1300,6 @@ countries = {
          own_control_core = {
             singhapala kangdaya tanjay
          }
-
-         
-         
-         
-
-         
-
-         
       }
       CER = {
          include = "expl_whole_world"
@@ -1822,13 +1310,6 @@ countries = {
          own_control_core = {
             rohtas chatra tarhasi untari
          }
-
-         
-         
-
-         
-
-         
       }
       CHD = {
          include = "expl_whole_world"
@@ -1839,13 +1320,6 @@ countries = {
          own_control_core = {
             ballarpur bramhapuri gadchiroli aheri
          }
-
-         
-         
-
-         
-
-         
       }
       CHI = {
          include = "expl_whole_world"
@@ -2057,22 +1531,10 @@ countries = {
          own_control_integrated = {
             lingfang xuanhua_nanning ningpu
          }
-
-         
-         
-         
-         
-         
-         
-
          accepted_cultures = {
             jilu_culture zhongyuan_culture qin_culture jianghuai_culture liang_culture huaihai_culture tongtai_culture
             chu_culture changde_culture
          }
-
-         
-
-         
       }
       CHL = {
          include = "expl_whole_world"
@@ -2089,12 +1551,6 @@ countries = {
             chillan perquilauquen puchacay biobio lafkenmapu lelbunmapu wenteche inapiremapu pebuenmapu pikunwijimapu
             caurakawin ancud quiquilhue quellon piren
          }
-
-         
-
-         
-
-         
       }
       CHO = {
          include = "expl_whole_world"
@@ -2117,12 +1573,6 @@ countries = {
          own_control_core = {
             tosora
          }
-
-         
-         
-         
-
-         
       }
       CIR = {
          include = "expl_whole_world"
@@ -2135,13 +1585,6 @@ countries = {
             mapa taman shanjir siba_circassia khadyzhi susaco maykop belorechensk moschevo kuzhyb
             shkhancheriekhabl costa tuapse armavir adyukh chatyun arkhyz khumar greater_caucasus_mountains1
          }
-
-         
-         
-
-         
-
-         
       }
       CMN = {
          include = "expl_whole_world"
@@ -2152,13 +1595,6 @@ countries = {
          own_control_core = {
             champaner baria mohan jabhua
          }
-
-         
-         
-
-         
-
-         
       }
       CNT = {
          include = "expl_whole_world"
@@ -2170,12 +1606,6 @@ countries = {
          own_control_core = {
             kainta
          }
-
-         
-         
-         
-
-         
       }
       COL = {
          include = "expl_whole_world"
@@ -2202,12 +1632,6 @@ countries = {
             otun tulua baudo choco quibdo gioro tatama noanama tado_colombia novita
             acanti curiche kuna murri catios bojaya amaga xundabe ebejico
          }
-
-         
-
-         
-
-         
       }
       CPL = {
          include = "expl_whole_world"
@@ -2261,13 +1685,6 @@ countries = {
          own_control_core = {
             hindu_kush7 sarhad hindu_kush8 chitral mulkhow yarkhun mastuj phander yasin ishkoman
          }
-
-         
-         
-
-         
-
-         
       }
       CUO = {
          include = "expl_whole_world"
@@ -2281,15 +1698,6 @@ countries = {
          own_control_core = {
             ginzo_de_limia
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       CUT = {
          include = "expl_whole_world"
@@ -2300,13 +1708,6 @@ countries = {
          own_control_core = {
             sadiya gomsi tengapani malinithan dibang bengmara dibrugarh
          }
-
-         
-         
-
-         
-
-         
       }
       DAG = {
          include = "expl_whole_world"
@@ -2321,13 +1722,6 @@ countries = {
             argun targim alkhan_kala nazran greater_caucasus_mountains10 greater_caucasus_mountains8 greater_caucasus_mountains7 greater_caucasus_mountains9 greater_caucasus_mountains6 omalo
             greater_caucasus_mountains5 shatili
          }
-
-         
-         
-
-         
-
-         
       }
       DAH = {
          include = "expl_whole_world"
@@ -2356,12 +1750,6 @@ countries = {
             simhapura kon_klor ia bang_keng or_keo phsar_dek srok_khleang kramuon_sa pouthi_loeu toek_khmau
             kampong_roessei prey_nokor tuol_ta_mouk prasat_pram_lovet chhmuoh_thmei rong_damrel
          }
-
-         
-
-         
-
-         
       }
       DAN = {
          include = "expl_whole_world"
@@ -2386,13 +1774,6 @@ countries = {
             hvalsey einarsfjord vatnahverfi herjolfsnes petursvik lundey altafjord ketilsfjord siglufjord ayay
             akropong keta
          }
-
-         
-         
-
-         
-
-         
       }
       DFR = {
          include = "expl_whole_world"
@@ -2425,10 +1806,6 @@ countries = {
          own_control_core = {
             male_atoll addu_atoll nilandhe_atoll thiladhunmathi_atoll
          }
-
-         
-
-         
       }
       DGR = {
          include = "expl_whole_world"
@@ -2439,11 +1816,6 @@ countries = {
          own_control_core = {
             dungarpur banswara
          }
-
-         
-         
-
-         
       }
       DHF = {
          include = "expl_whole_world"
@@ -2456,13 +1828,6 @@ countries = {
          own_control_core = {
             dhufar mirbat raysut
          }
-
-         
-         
-
-         
-
-         
       }
       DHU = {
          include = "expl_whole_world"
@@ -2473,13 +1838,6 @@ countries = {
          own_control_core = {
             amber_loc malpura dausa manoharpur
          }
-
-         
-         
-
-         
-
-         
       }
       DIM = {
          include = "expl_whole_world"
@@ -2490,13 +1848,6 @@ countries = {
          own_control_core = {
             dimapur dhansiri diphu
          }
-
-         
-         
-
-         
-
-         
       }
       DIR = {
          include = "expl_whole_world"
@@ -2509,13 +1860,6 @@ countries = {
             bajaur malakand baligram agror kalam_swat timergara jijial kandia dasu tangir
             urtsun dir hindu_kush9
          }
-
-         
-         
-
-         
-
-         
       }
       DND = {
          include = "expl_whole_world"
@@ -2539,13 +1883,6 @@ countries = {
             poonch pir_panjal_range pir_panjal_range_3 pir_panjal_range_2 paddar pangi kishtwar marwah chamba_india barmaur
             koksar keylong himalayas_chanda_3 himalayas_chanda_2 kashmiri_himalayas himalayas_chanda
          }
-
-         
-         
-
-         
-
-         
       }
       DOM = {
          include = "expl_whole_world"
@@ -2557,12 +1894,6 @@ countries = {
          own_control_core = {
             dompu
          }
-
-         
-         
-         
-
-         
       }
       DOU = {
          include = "expl_whole_world"
@@ -2583,13 +1914,6 @@ countries = {
          own_control_core = {
             dharampur
          }
-
-         
-         
-
-         
-
-         
       }
       DRV = {
          include = "expl_whole_world"
@@ -2601,13 +1925,6 @@ countries = {
          own_control_core = {
             gharm sangvor kham_bahar qalai_khumb pamir5 pamir4
          }
-
-         
-         
-
-         
-
-         
       }
       DRW = {
          include = "expl_whole_world"
@@ -2618,26 +1935,12 @@ countries = {
          own_control_core = {
             jhunjhunu
          }
-
-         
-         
-
-         
-
-         
       }
       DTI = {
          include = "expl_whole_world"
          
          capital = dipayal
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       DUMMY = {
          
@@ -2663,12 +1966,6 @@ countries = {
          own_control_colony = {
             isabela_island santiago_islands santa_cruz_islands
          }
-
-         
-
-         
-
-         
       }
       EGB = {
          include = "expl_whole_world"
@@ -2721,14 +2018,6 @@ countries = {
          own_control_conquered = {
             iskenderun
          }
-
-         
-         
-         
-
-         
-
-         
       }
       EKT = {
          include = "expl_whole_world"
@@ -2745,11 +2034,6 @@ countries = {
          
          capital = kottarakkara
          country_rank = rank_county
-
-         
-         
-
-         
       }
       ESH = {
          include = "expl_whole_world"
@@ -2783,13 +2067,6 @@ countries = {
          own_control_core = {
             al_qara lawdar zinjibar
          }
-
-         
-         
-
-         
-
-         
       }
       FIN = {
          include = "expl_whole_world"
@@ -2811,11 +2088,6 @@ countries = {
             kurkijoki konevets joensuu sordavala vartsila ilomantsi lieksa juuka salmi loimola
             mohko suojarvi kasivarren
          }
-
-         
-         
-
-         
       }
       FMB = {
          include = "expl_whole_world"
@@ -2901,13 +2173,6 @@ countries = {
             iguanacaera miquelon brashk bejaia annaba ndar beer_dun reunion thalassery karaikal
             pondicherry
          }
-
-         
-         
-
-         
-
-         
       }
       FRN = {
          include = "expl_whole_world"
@@ -2919,12 +2184,6 @@ countries = {
          own_control_core = {
             frankfurt
          }
-
-         
-         
-         
-
-         
       }
       GAB = {
          include = "expl_whole_world"
@@ -3012,10 +2271,6 @@ countries = {
             kelantan pulai kampung_buloh dungun paka singgora bujang kedah malacca natuna_islands
             anambas_islands daik temasek tanjungpinang
          }
-
-         
-         
-
          accepted_cultures = {
             northumbrian
          }
@@ -3038,13 +2293,6 @@ countries = {
          own_control_core = {
             sikar
          }
-
-         
-         
-
-         
-
-         
       }
       GHA = {
          include = "expl_whole_world"
@@ -3053,17 +2301,9 @@ countries = {
          religious_school = maliki_school
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-
          accepted_cultures = {
             mandinka
          }
-
-         
-
-         
       }
       GHL = {
          include = "expl_whole_world"
@@ -3074,10 +2314,6 @@ countries = {
          own_control_core = {
             sihor danduka
          }
-
-         
-
-         
       }
       GHR = {
          include = "expl_whole_world"
@@ -3088,13 +2324,6 @@ countries = {
          own_control_core = {
             garha mandla amarkantak ghansor ramgad nainpur chauragarh tendukheda murwara
          }
-
-         
-         
-
-         
-
-         
       }
       GJJ = {
          include = "expl_whole_world"
@@ -3130,12 +2359,6 @@ countries = {
 
          #Ruler: Rau Sau Malik II
          #Dynasty: Trakhan
-         
-         
-
-         
-
-         
       }
       GNJ = {
          include = "expl_whole_world"
@@ -3152,13 +2375,6 @@ countries = {
          
          capital = goa
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       GOB = {
          include = "expl_whole_world"
@@ -3186,12 +2402,6 @@ countries = {
          capital = gowa
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
       }
       GRE = {
          include = "expl_whole_world"
@@ -3209,30 +2419,12 @@ countries = {
             karystos kymi oreos eretreia monemvasia mystras oitylo leuktron astros andros
             mykonos amorgos naxos kythnos milos sporades
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       GRL = {
          include = "expl_whole_world"
          
          capital = gardr
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       GRM = {
          include = "expl_whole_world"
@@ -3245,13 +2437,6 @@ countries = {
          own_control_core = {
             al_mukalla al_shihr sayun tarim arrayda dha_sohis al_khuraybah rub_al_khali2
          }
-
-         
-         
-
-         
-
-         
       }
       GRQ = {
          include = "expl_whole_world"
@@ -3273,14 +2458,6 @@ countries = {
          own_control_core = {
             gorontalo atinggola boalemo guamonial paguat
          }
-
-         
-         
-         
-
-         
-
-         
       }
       GUL = {
          include = "expl_whole_world"
@@ -3302,11 +2479,6 @@ countries = {
          own_control_core = {
             gwalior narwar datia
          }
-
-         
-         
-
-         
       }
       GWI = {
          include = "expl_whole_world"
@@ -3328,13 +2500,6 @@ countries = {
          own_control_core = {
             chandpur_garhi badrinath devprayag gangadvara srinagar_garhwal thalisain uttarkashi
          }
-
-         
-         
-
-         
-
-         
       }
       GYA = {
          include = "expl_whole_world"
@@ -3421,14 +2586,6 @@ countries = {
             krosno lesko zhydachiv bolekhiv dolyna chioggia venice mestre pola rovinj
             pag zadar split brac
          }
-
-         
-         
-         
-
-         
-
-         
       }
       HAD = {
          include = "expl_whole_world"
@@ -3439,13 +2596,6 @@ countries = {
          own_control_core = {
             bundi kota mangrol
          }
-
-         
-         
-
-         
-
-         
       }
       HAI = {
          include = "expl_whole_world"
@@ -3460,14 +2610,6 @@ countries = {
             ciguayo cotui marien iguamuco guahaba tortuga baynoa jaragua cayguani baoruco
             guanabo cahay guacayakima haniguayagua yaquimo yaguana baoruco_mountains neiba_mountains
          }
-
-         
-         
-         
-
-         
-
-         
       }
       HAL = {
          include = "expl_whole_world"
@@ -3483,13 +2625,6 @@ countries = {
             as_suwaydirah al_hinakiyah medina al_thamad al_aythamah an_nuqrah an_nuhaytiyyah al_ghazalah ar_rawdah as_sulaymi
             an_nakhil
          }
-
-         
-         
-
-         
-
-         
       }
       HAM = {
          include = "expl_whole_world"
@@ -3501,14 +2636,6 @@ countries = {
          own_control_core = {
             hamburg warendorf
          }
-
-         
-         
-         
-
-         
-
-         
       }
       HAN = {
          include = "expl_whole_world"
@@ -3526,15 +2653,6 @@ countries = {
             verden soltau lingen hoya nienburg diepholz einbeck duderstadt herzberg wernigerode
             hildesheim alfeld burgdorf meinersen gifhorn polle
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       HAR = {
          include = "expl_whole_world"
@@ -3568,13 +2686,6 @@ countries = {
          own_control_core = {
             hunfeld alsfeld
          }
-
-         
-         
-         
-         
-
-         
       }
       HHP = {
          include = "expl_whole_world"
@@ -3604,13 +2715,6 @@ countries = {
          own_control_core = {
             hakkari semdinli bahcesaray baskale catak east_taurus_5 east_taurus_4
          }
-
-         
-         
-
-         
-
-         
       }
       HKM = {
          include = "expl_whole_world"
@@ -3621,12 +2725,6 @@ countries = {
          own_control_core = {
             putao suamprabon injangyang
          }
-
-         
-
-         
-
-         
       }
       HLG = {
          include = "expl_whole_world"
@@ -3637,14 +2735,6 @@ countries = {
          court_language = persian_language
          country_rank = rank_kingdom
          starting_technology_level = 3
-
-         
-         
-         
-
-         
-
-         
       }
       HLR = {
          include = "expl_whole_world"
@@ -3662,12 +2752,6 @@ countries = {
          capital = honnavara
          religious_school = maliki_school
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       HNZ = {
          include = "expl_whole_world"
@@ -3679,13 +2763,6 @@ countries = {
          own_control_core = {
             passu misgar
          }
-
-         
-         
-
-         
-
-         
       }
       HOH = {
          include = "expl_whole_world"
@@ -3697,13 +2774,6 @@ countries = {
          own_control_core = {
             balingen
          }
-
-         
-         
-         
-         
-
-         
       }
       HOS = {
          include = "expl_whole_world"
@@ -3715,13 +2785,6 @@ countries = {
          own_control_core = {
             sigmaringen dettingen melchingen langenenslingen beuron thalheim
          }
-
-         
-         
-         
-         
-
-         
       }
       HRB = {
          include = "expl_whole_world"
@@ -3745,11 +2808,6 @@ countries = {
             farah anardara shahr_sabz lash_joveyn qarnin karokh pushang herat awbeh chishti_sarif
             kusk kusk_kohneh adraskan khaysar shindand paropamisus_mountains7 dasht_khaf2 dasht_khaf1
          }
-
-         
-         
-
-         
       }
       HSD = {
          include = "expl_whole_world"
@@ -3761,13 +2819,6 @@ countries = {
          own_control_core = {
             darmstadt bensheim offenbach erbach friedberg_hesse marburg nidda lauterbach worms oppenheim vohl
          }
-
-         
-         
-         
-         
-
-         
       }
       HSE = {
          include = "expl_whole_world"
@@ -3778,12 +2829,6 @@ countries = {
          own_control_core = {
             hsenwi kehsi lai_hka lashio mong_yai mongkung mongnawng monghsu muse namhsan
          }
-
-         
-
-         
-
-         
       }
       HSI = {
          include = "expl_whole_world"
@@ -3794,12 +2839,6 @@ countries = {
          own_control_core = {
             hsipaw kyaukme lawksawk monglong
          }
-
-         
-
-         
-
-         
       }
       HSK = {
          include = "expl_whole_world"
@@ -3814,28 +2853,12 @@ countries = {
             hofgeismar kassel rotenburg eschwege melsungen hanau budingen fulda hersfeld ziegenhain
             schmalkalden giessen frankenberg
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       HSL = {
          include = "expl_whole_world"
          
          capital = tiruvannamalai
          country_rank = rank_kingdom
-
-         
-         
-
-         
-
-         
       }
       HSR = {
          include = "expl_whole_world"
@@ -3847,13 +2870,6 @@ countries = {
          own_control_core = {
             hissar darzanji denov hissar_mountains1
          }
-
-         
-         
-
-         
-
-         
       }
       HYD = {
          include = "expl_whole_world"
@@ -3893,13 +2909,6 @@ countries = {
          own_control_core = {
             deh_kundi kajran istalif yakawlang paropamisus_mountains5
          }
-
-         
-         
-
-         
-
-         
       }
       IBL = {
          include = "expl_whole_world"
@@ -3911,25 +2920,12 @@ countries = {
          own_control_core = {
             ibalong binawangan daet naga_bikol sawangan vidak
          }
-
-         
-         
-         
-
-         
-
-         
       }
       ICE = {
          include = "expl_whole_world"
          
          capital = thingvellir
          country_rank = rank_county
-
-         
-         
-
-         
       }
       IDR = {
          include = "expl_whole_world"
@@ -3940,11 +2936,6 @@ countries = {
          own_control_core = {
             idar
          }
-
-         
-         
-
-         
       }
       IGL = {
          include = "expl_whole_world"
@@ -3987,10 +2978,6 @@ countries = {
             aerzhai otog tongwancheng bayannur uraqai xinhure jingzhou_dorbod bathahalak chahar ulan_hua
             ulanchab erenkhot avga baganuur khobootsar shuluun_khoboot_tsagaan sonod
          }
-
-         
-
-         
       }
       IMO = {
          include = "expl_whole_world"
@@ -4002,13 +2989,6 @@ countries = {
          own_control_core = {
             nizwa bahla ibri izki sinaw
          }
-
-         
-         
-
-         
-
-         
       }
       INR = {
          include = "expl_whole_world"
@@ -4020,14 +3000,6 @@ countries = {
          own_control_core = {
             rengat baru kuantan_riau peranap talang_mamak kuala_kampar
          }
-
-         
-         
-         
-
-         
-
-         
       }
       ION = {
          include = "expl_whole_world"
@@ -4042,17 +3014,6 @@ countries = {
          own_control_core = {
             zakynthos leukas cephalonia corfu kythira
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       IRA = {
          include = "expl_whole_world"
@@ -4094,14 +3055,6 @@ countries = {
             heris sarab tufarqan ahar aslanduz kaleybar khiyav mardanaqom qahqaheh hadishahr
             marand khameneh miyaneh aghkand zanjan mahneshan sarcham sojas sohrevard yasukand
          }
-
-         
-         
-         
-
-         
-
-         
       }
       IRQ = {
          include = "expl_whole_world"
@@ -4114,13 +3067,6 @@ countries = {
             bakusaya badra mandali khalis samarra tharthar ukbara baghdad an_nil dayr_aqul
             balad_ruz baqubah
          }
-
-         
-         
-
-         
-
-         
       }
       ISQ = {
          include = "expl_whole_world"
@@ -4142,14 +3088,6 @@ countries = {
          own_control_core = {
             jan_mayen bear_island
          }
-
-         
-         
-         
-
-         
-
-         
       }
       JAP = {
          include = "expl_whole_world"
@@ -4226,11 +3164,6 @@ countries = {
          own_control_core = {
             soonpur hanol
          }
-
-         
-         
-
-         
       }
       JEL = {
          include = "expl_whole_world"
@@ -4242,26 +3175,12 @@ countries = {
          own_control_core = {
             qarahziaoddin east_taurus_6
          }
-
-         
-         
-
-         
-
-         
       }
       JHI = {
          include = "expl_whole_world"
          
          capital = suratgarh #Bhurupal
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       JJK = {
          include = "expl_whole_world"
@@ -4272,11 +3191,6 @@ countries = {
          own_control_core = {
             kalinjar mahoba
          }
-
-         
-         
-
-         
       }
       JLN = {
          include = "expl_whole_world"
@@ -4298,14 +3212,6 @@ countries = {
          own_control_core = {
             jailolo wasilei maba_celebes gane weda
          }
-
-         
-         
-         
-
-         
-
-         
       }
       JLR = {
          include = "expl_whole_world"
@@ -4319,13 +3225,6 @@ countries = {
          own_control_core = {
             sirohi palanpur
          }
-
-         
-         
-
-         
-
-         
       }
       JLW = {
          include = "expl_whole_world"
@@ -4336,11 +3235,6 @@ countries = {
          own_control_core = {
             limbdi dhrangadhra
          }
-
-         
-         
-
-         
       }
       JLY = {
          include = "expl_whole_world"
@@ -4352,13 +3246,6 @@ countries = {
          own_control_core = {
             abiward kalat_nader
          }
-
-         
-         
-
-         
-
-         
       }
       JMB = {
          include = "expl_whole_world"
@@ -4374,14 +3261,6 @@ countries = {
          own_control_integrated = {
             karang_brahi sungai_penuh tembesi
          }
-
-         
-         
-         
-
-         
-
-         
       }
       JNG = {
          include = "expl_whole_world"
@@ -4392,10 +3271,6 @@ countries = {
          own_control_core = {
             junagarh somnath diu
          }
-
-         
-
-         
       }
       JNT = {
          include = "expl_whole_world"
@@ -4406,13 +3281,6 @@ countries = {
          own_control_core = {
             jaintiapur sutnga maibong lanka daboka
          }
-
-         
-         
-
-         
-
-         
       }
       JOD = {
          include = "expl_whole_world"
@@ -4433,13 +3301,6 @@ countries = {
          dynasty = ndiaye_dynasty
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-
-         
-
-         
       }
       JPO = {
          include = "expl_whole_world"
@@ -4450,13 +3311,6 @@ countries = {
          own_control_core = {
             nandapur kotpad rayagada kotagad gunupur malkangiri nilakamberu bissam_cuttack kasipur nowrangapur
          }
-
-         
-         
-
-         
-
-         
       }
       JSD = {
          include = "expl_whole_world"
@@ -4468,13 +3322,6 @@ countries = {
          own_control_core = {
             jawand qala_kohistan qala_naw marv_al_rudh
          }
-
-         
-         
-
-         
-
-         
       }
       JSL = {
          include = "expl_whole_world"
@@ -4485,13 +3332,6 @@ countries = {
          own_control_core = {
             jaisalmer ludrava pokhran ramgar thar_desert_2 thar_desert thar_desert_bikaner phalvardhika
          }
-
-         
-         
-
-         
-
-         
       }
       JWR = {
          include = "expl_whole_world"
@@ -4502,13 +3342,6 @@ countries = {
          own_control_core = {
             jawhar
          }
-
-         
-         
-
-         
-
-         
       }
       KAL = {
          include = "expl_whole_world"
@@ -4519,12 +3352,6 @@ countries = {
          own_control_core = {
             kale
          }
-
-         
-
-         
-
-         
       }
       KAM = {
          include = "expl_whole_world"
@@ -4532,11 +3359,6 @@ countries = {
          capital = kaimana
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-
-         
       }
       KAR = {
          include = "expl_whole_world"
@@ -4569,13 +3391,6 @@ countries = {
          own_control_core = {
             qubodijon aiwanj
          }
-
-         
-         
-
-         
-
-         
       }
       KBH = {
          include = "expl_whole_world"
@@ -4600,13 +3415,6 @@ countries = {
             nawah wazakhwa zarghun_shahr maruf qalat_ghilji duki rakni zhob lorelai urgun
             daraban khost peshawar kabul charikar bamyan kahmard logar chak
          }
-
-         
-         
-
-         
-
-         
       }
       KBO = {
          include = "expl_whole_world"
@@ -4622,13 +3430,6 @@ countries = {
             ngazargamu yo marte gubio gambaru goure goudooumaria nguru garun_gabas garandoili
             biriri konduga daima mandaragirau dikwa damaturu daniski potiskum mirriah guidimouni
          }
-
-         
-         
-
-         
-
-         
       }
       KDG = {
          include = "expl_whole_world"
@@ -4645,11 +3446,6 @@ countries = {
          
          capital = kodungallur
          country_rank = rank_county
-
-         
-         
-
-         
       }
       KDZ = {
          include = "expl_whole_world"
@@ -4661,13 +3457,6 @@ countries = {
          own_control_core = {
             hindu_kush2 farkhor arkhan baghlan kunduz andarab ashkamesh taleqan kishim araska
          }
-
-         
-         
-
-         
-
-         
       }
       KEB = {
          include = "expl_whole_world"
@@ -4689,12 +3478,6 @@ countries = {
          own_control_core = {
             perlis
          }
-
-         
-         
-         
-
-         
       }
       KFR = {
          include = "expl_whole_world"
@@ -4706,13 +3489,6 @@ countries = {
          own_control_core = {
             alishang parun asadabad_kunar hajiabad hindu_kush4
          }
-
-         
-         
-
-         
-
-         
       }
       KGD = {
          include = "expl_whole_world"
@@ -4724,13 +3500,6 @@ countries = {
          own_control_core = {
             bandar_e_anzali dulab elburz_mountains1
          }
-
-         
-         
-
-         
-
-         
       }
       KGN = {
          include = "expl_whole_world"
@@ -4742,13 +3511,6 @@ countries = {
          own_control_core = {
             siraf kish
          }
-
-         
-         
-
-         
-
-         
       }
       KHF = {
          include = "expl_whole_world"
@@ -4761,13 +3523,6 @@ countries = {
          own_control_core = {
             salameh khargerd zozan
          }
-
-         
-         
-
-         
-
-         
       }
       KHI = {
          include = "expl_whole_world"
@@ -4780,13 +3535,6 @@ countries = {
             orta_kuyu talaikhan_ata daya_kathyn merv karakum_desert1 pulzhai qonirat shimbay xojeli khurgancha
             kath vezir urgench khiva kyat_kala nyzvar darganata hazarasp
          }
-
-         
-         
-
-         
-
-         
       }
       KHL = {
          include = "expl_whole_world"
@@ -4813,12 +3561,6 @@ countries = {
             preah_vihear pursat rattanaburi sampheak_borak samxay sandan sangkha savannakhet sdok_kok_thom sepon
             song_be srey_sarchhor stung_treng suwannaphum tboung_khmum thuan_binh tonle_kong thung_samrit vat_phou vyadhapura
          }
-
-         
-
-         
-
-         
       }
       KHN = {
          include = "expl_whole_world"
@@ -4832,13 +3574,6 @@ countries = {
          own_control_core = {
             kharan besima washuk nagh mashkai
          }
-
-         
-         
-
-         
-
-         
       }
       KHP = {
          include = "expl_whole_world"
@@ -4860,13 +3595,6 @@ countries = {
          own_control_core = {
             kherla devgarh
          }
-
-         
-         
-
-         
-
-         
       }
       KHS = {
          include = "expl_whole_world"
@@ -4879,15 +3607,6 @@ countries = {
             bampur bazman dalgan espakeh fahrej karvandar rameshk shahabad_kerman rigan dowzdab
             ladiz khash jaleq dasht_lut2
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       KHT = {
          include = "expl_whole_world"
@@ -4902,13 +3621,6 @@ countries = {
             roshtkhar zaveh gonabad salameh mashhad_rizeh qaen abiz shahrakht tabas_al_unnab yazduye
             zohan zozan khargerd nehbandan shusef doroh sarbisheh
          }
-
-         
-         
-
-         
-
-         
       }
       KHZ = {
          include = "expl_whole_world"
@@ -4921,13 +3633,6 @@ countries = {
             hendijan machul khalafabad quban dezful shush shushtar hamidiyeh hoveyzeh ahvaz
             dowraq mosharahat
          }
-
-         
-         
-
-         
-
-         
       }
       KIM = {
          include = "expl_whole_world"
@@ -4943,14 +3648,6 @@ countries = {
          own_control_integrated = {
             sarangani
          }
-
-         
-         
-         
-
-         
-
-         
       }
       KJA = {
          include = "expl_whole_world"
@@ -4961,13 +3658,6 @@ countries = {
          own_control_core = {
             keonjhar khiching ghasipura jyotipur ghatgaon
          }
-
-         
-         
-
-         
-
-         
       }
       KKG = {
          include = "expl_whole_world"
@@ -4979,12 +3669,6 @@ countries = {
          own_control_core = {
             kutai_lama jembayan
          }
-
-         
-         
-         
-
-         
       }
       KKN = {
          include = "expl_whole_world"
@@ -5005,13 +3689,6 @@ countries = {
          own_control_core = {
             khukhragarh ranchi ichagarh porahat jashpur_nagar birugarh
          }
-
-         
-         
-
-         
-
-         
       }
       KLA = {
          include = "expl_whole_world"
@@ -5027,11 +3704,6 @@ countries = {
             surab kalat quetta mastung dhadar mithri khuzdar lakhsar nal wadh
             lahri bab_kot jhatpat jhal kirtar_range kirtar_range_2 jhao gandava
          }
-
-         
-         
-
-         
       }
       KLB = {
          include = "expl_whole_world"
@@ -5044,11 +3716,6 @@ countries = {
          own_control_core = {
             kulob hulbuk
          }
-
-         
-         
-
-         
       }
       KLH = {
          include = "expl_whole_world"
@@ -5059,13 +3726,6 @@ countries = {
          own_control_core = {
             jajjaldeypur kalahandinagara raighar belkhandi
          }
-
-         
-         
-
-         
-
-         
       }
       KLI = {
          include = "expl_whole_world"
@@ -5083,11 +3743,6 @@ countries = {
          our_cores_conquered_by_others = {
             dholpur sabalgarh bayana
          }
-
-         
-         
-
-         
       }
       KLS = {
          include = "expl_whole_world"
@@ -5099,23 +3754,12 @@ countries = {
          own_control_core = {
             kalisusu
          }
-
-         
-         
-         
-
-         
       }
       KLT = {
          include = "expl_whole_world"
          
          capital = kannur
          country_rank = rank_county
-
-         
-         
-
-         
       }
       KLU = {
          include = "expl_whole_world"
@@ -5130,10 +3774,6 @@ countries = {
          #Ruler: Keral
          #Counted backwards from 1418 when Urdhan Pal ruled, before him came Madan Pal, Agast Pal, Hans Pal and his predecessor was Keral Pal. No dates are known, only the order.
          #dynasty = pal dynasty_dynasty
-         
-         
-
-         
       }
       KMA = {
          include = "expl_whole_world"
@@ -5148,13 +3788,6 @@ countries = {
          own_control_integrated = {
             birpara koch_bihar bordowa tezpur rowta guwahati
          }
-
-         
-         
-
-         
-
-         
       }
       KMD = {
          include = "expl_whole_world"
@@ -5176,12 +3809,6 @@ countries = {
          own_control_core = {
             lamitan
          }
-
-         
-         
-         
-
-         
       }
       KMN = {
          include = "expl_whole_world"
@@ -5193,13 +3820,6 @@ countries = {
          own_control_core = {
             champavati almora askot baijnath dwarahat kashipur nainital rudrapur_kumaon
          }
-
-         
-         
-
-         
-
-         
       }
       KND = {
          include = "expl_whole_world"
@@ -5214,13 +3834,6 @@ countries = {
             banader khanashin pangvay bost gereshk mashkel kharan_desert2 kharan_desert3 naalbandin chagai
             nushki
          }
-
-         
-         
-
-         
-
-         
       }
       KNG = {
          include = "expl_whole_world"
@@ -5228,13 +3841,6 @@ countries = {
          capital = kong
          country_rank = rank_county
          starting_technology_level = 1
-
-         
-         
-
-         
-
-         
       }
       KNK = {
          include = "expl_whole_world"
@@ -5245,13 +3851,6 @@ countries = {
          own_control_core = {
             kanker paralkot
          }
-
-         
-         
-
-         
-
-         
       }
       KNM = {
          include = "expl_whole_world"
@@ -5273,14 +3872,6 @@ countries = {
          own_control_core = {
             unaaha andolo kendari sambandete
          }
-
-         
-         
-         
-
-         
-
-         
       }
       KOK = {
          include = "expl_whole_world"
@@ -5297,13 +3888,6 @@ countries = {
             asht karasuu kasan kerben pop_fargana fergana marghinan osh quva rishton
             andijan arslanbob gulcha jalalabad_fergana uzkand
          }
-
-         
-         
-
-         
-
-         
       }
       KON = {
          include = "expl_whole_world"
@@ -5354,10 +3938,6 @@ countries = {
             unju huicheon seongcheon myeongju uljin samcheok jeongseon goseong tongcheon ingnyeong
             western_korean_mountains1 eastern_korean_mountains3 western_korean_mountains2 eastern_korean_mountains2 eastern_korean_mountains4
          }
-
-         
-
-         
       }
       KOY = {
          include = "expl_whole_world"
@@ -5380,11 +3960,6 @@ countries = {
          own_control_core = {
             krakow chrzanow
          }
-
-         
-         
-
-         
       }
       KRG = {
          include = "expl_whole_world"
@@ -5396,13 +3971,6 @@ countries = {
          own_control_core = {
             vakhs shuman
          }
-
-         
-         
-
-         
-
-         
       }
       KRP = {
          include = "expl_whole_world"
@@ -5414,14 +3982,6 @@ countries = {
          own_control_core = {
             kuripan kahayan mendawai kahayan_hilir sabangau tanjungpuri barito karau
          }
-
-         
-         
-         
-
-         
-
-         
       }
       KRT = {
          include = "expl_whole_world"
@@ -5433,13 +3993,6 @@ countries = {
          own_control_core = {
             muksu vanch hissar_mountains2
          }
-
-         
-         
-
-         
-
-         
       }
       KRW = {
          include = "expl_whole_world"
@@ -5462,26 +4015,12 @@ countries = {
          own_control_core = {
             birali hajar shibam huraydah rakhyah
          }
-
-         
-         
-
-         
-
-         
       }
       KSH = {
          include = "expl_whole_world"
          
          capital = srinagar
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       KSJ = {
          include = "expl_whole_world"
@@ -5500,12 +4039,6 @@ countries = {
          country_rank = rank_county
 
          #Dynasty: Sen
-         
-         
-
-         
-
-         
       }
       KTG = {
          include = "expl_whole_world"
@@ -5516,36 +4049,18 @@ countries = {
          own_control_core = {
             kengtung mongping
          }
-
-         
-
-         
-
-         
       }
       KTN = {
          include = "expl_whole_world"
          
          capital = ponnani
          country_rank = rank_county
-
-         
-         
-
-         
       }
       KTU = {
          include = "expl_whole_world"
          
          capital = kathmandu
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       KTW = {
          include = "expl_whole_world"
@@ -5586,13 +4101,6 @@ countries = {
          own_control_core = {
             kapilkot lakhiyarvira lakhpat kantha little_rann_of_kutch great_rann_of_kutch
          }
-
-         
-         
-
-         
-
-         
       }
       KWT = {
          include = "expl_whole_world"
@@ -5604,13 +4112,6 @@ countries = {
          own_control_core = {
             abadan zuwayr kazimah
          }
-
-         
-         
-
-         
-
-         
       }
       KWW = {
          include = "expl_whole_world"
@@ -5627,11 +4128,6 @@ countries = {
          
          capital = wayanad
          country_rank = rank_county
-
-         
-         
-
-         
       }
       KZB = {
          include = "expl_whole_world"
@@ -5656,13 +4152,6 @@ countries = {
          own_control_core = {
             hillah kufa qadisiyyah karbala ayn_tamr al_anbar haditha numaniyyah hit ar_rabb
          }
-
-         
-         
-
-         
-
-         
       }
       LAS = {
          include = "expl_whole_world"
@@ -5674,13 +4163,6 @@ countries = {
          own_control_core = {
             ormara sonamiani bela manora sehwan
          }
-
-         
-         
-
-         
-
-         
       }
       LAU = {
          include = "expl_whole_world"
@@ -5694,14 +4176,6 @@ countries = {
          own_control_core = {
             lauenburg
          }
-
-         
-         
-         
-
-         
-
-         
       }
       LAV = {
          include = "expl_whole_world"
@@ -5722,10 +4196,6 @@ countries = {
          accepted_cultures = {
             mon_culture
          }
-
-         
-
-         
       }
       LBA = {
          include = "expl_whole_world"
@@ -5767,10 +4237,6 @@ countries = {
             megantic maskikogamak coaticook memphremagog wigwomadenek wagowategok ekwentondie yamachiche shawinigan mekinac
             matawin nagatinong weskarini okaisipi quyon nichabau
          }
-
-         
-
-         
       }
       LEQ = {
          include = "expl_whole_world"
@@ -5794,13 +4260,6 @@ countries = {
          own_control_core = {
             linge gayo_lues
          }
-
-         
-         
-         
-         
-
-         
       }
       LGK = {
          include = "expl_whole_world"
@@ -5811,12 +4270,6 @@ countries = {
          own_control_integrated = {
             gerik
          }
-
-         
-
-         
-
-         
       }
       LHJ = {
          include = "expl_whole_world"
@@ -5829,26 +4282,12 @@ countries = {
          own_control_core = {
             yahr adan al_arah al_mafalis lahj al_mandab
          }
-
-         
-         
-
-         
-
-         
       }
       LHL = {
          include = "expl_whole_world"
          
          capital = keylong
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       LIB = {
          include = "expl_whole_world"
@@ -5870,12 +4309,6 @@ countries = {
             thammarat chaiya ko_samui kraburi krabi mardelong prasong sichon takua_pa tha_tong
             thalang trang wiang_sa satingpura
          }
-
-         
-
-         
-
-         
       }
       LIP = {
          include = "expl_whole_world"
@@ -5927,10 +4360,6 @@ countries = {
          own_control_core = {
             paro daga jabar_goemba punakha thimpu wangdue zhemgang trongsa bumthang
          }
-
-         
-
-         
       }
       LNA = {
          include = "expl_whole_world"
@@ -5949,10 +4378,6 @@ countries = {
          accepted_cultures = {
             lawa_culture
          }
-
-         
-
-         
       }
       LNK = {
          include = "expl_whole_world"
@@ -5964,12 +4389,6 @@ countries = {
          own_control_core = {
             ngabang
          }
-
-         
-         
-         
-
-         
       }
       LNO = {
          include = "expl_whole_world"
@@ -5981,14 +4400,6 @@ countries = {
          own_control_core = {
             malabang tukuran initao
          }
-
-         
-         
-         
-
-         
-
-         
       }
       LOA = {
          include = "expl_whole_world"
@@ -6011,12 +4422,6 @@ countries = {
          own_control_core = {
             loloda
          }
-
-         
-         
-         
-
-         
       }
       LPP = {
          include = "expl_whole_world"
@@ -6030,13 +4435,6 @@ countries = {
          own_control_core = {
             detmold
          }
-
-         
-         
-         
-         
-
-         
       }
       LRT = {
          include = "expl_whole_world"
@@ -6048,12 +4446,6 @@ countries = {
          own_control_core = {
             larantuka lamakera
          }
-
-         
-         
-         
-
-         
       }
       LTS = {
          include = "expl_whole_world"
@@ -6067,15 +4459,6 @@ countries = {
          own_control_core = {
             feldkirch
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       LUB = {
          include = "expl_whole_world"
@@ -6087,13 +4470,6 @@ countries = {
          own_control_core = {
             lubeck
          }
-
-         
-         
-
-         
-
-         
       }
       LUC = {
          include = "expl_whole_world"
@@ -6105,17 +4481,6 @@ countries = {
          own_control_core = {
             lucca montignoso gallicano castiglione minucchiano 
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       LUN = {
          include = "expl_whole_world"
@@ -6141,13 +4506,6 @@ countries = {
          own_control_core = {
             nabagram dura chisobibra lyngngam ruga sohra
          }
-
-         
-         
-
-         
-
-         
       }
       LUW = {
          include = "expl_whole_world"
@@ -6163,14 +4521,6 @@ countries = {
          own_control_integrated = {
             bungku mori_celebes tojo loree poso kulawi managalang una_una
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MAA = {
          include = "expl_whole_world"
@@ -6188,11 +4538,6 @@ countries = {
          capital = trowulan
          country_rank = rank_kingdom
          starting_technology_level = 3
-
-         
-         
-         
-
          accepted_cultures = {
             madurese_culture
          }
@@ -6209,13 +4554,6 @@ countries = {
          own_control_core = {
             siah_cheshmeh khor_virap maku
          }
-
-         
-         
-
-         
-
-         
       }
       MAL = {
          include = "expl_whole_world"
@@ -6232,10 +4570,6 @@ countries = {
          accepted_cultures = {
             soninke
          }
-
-         
-
-         
       }
       MAS = {
          include = "expl_whole_world"
@@ -6257,11 +4591,6 @@ countries = {
          own_control_core = {
             mauganj
          }
-
-         
-         
-
-         
       }
       MBT = {
          include = "expl_whole_world"
@@ -6269,12 +4598,6 @@ countries = {
          capital = mbanza_mbata
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-
-         
-
-         
       }
       MBU = {
          include = "expl_whole_world"
@@ -6322,10 +4645,6 @@ countries = {
             lahasusu futi nuoluo shuangyashan tulguur kaiyuan_warka anju_nurgan nogule shili yongmingcheng
             huncun kahari tulazi duse_alin bureya yam_alin eastern_korean_mountains1
          }
-
-         
-
-         
       }
       MCR = {
          include = "expl_whole_world"
@@ -6337,15 +4656,6 @@ countries = {
          own_control_core = {
             massa villafranca_lugiana arpiola_pianfurcano rochetta_di_vara treschietto north_apennines
          }
-
-         
-         
-         
-         
-         
-         
-
-         
       }
       MDR = {
          include = "expl_whole_world"
@@ -6367,12 +4677,6 @@ countries = {
          own_control_core = {
             aklan irong_irong batan araut malandog bago_negros binalbagan ilog
          }
-
-         
-         
-         
-
-         
       }
       MEC = {
          include = "expl_whole_world"
@@ -6391,13 +4695,6 @@ countries = {
             al_qunfudhah al_shuqayq al_sirrayn bariq dhi_ain muhayil khulays al_abwa al_juhfah al_muthainiyah
             asfan qudayd
          }
-
-         
-         
-
-         
-
-         
       }
       MEW = {
          include = "expl_whole_world"
@@ -6408,13 +4705,6 @@ countries = {
          own_control_core = {
             nagahrada amet chittor chavand salumbar kanthal
          }
-
-         
-         
-
-         
-
-         
       }
       MEX = {
          include = "expl_whole_world"
@@ -6525,14 +4815,6 @@ countries = {
          own_control_integrated = {
             kabacan kalalaw kalamansig minduso
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MGE = {
          include = "expl_whole_world"
@@ -6556,10 +4838,6 @@ countries = {
             khadat ukhaa_khudag khalzan_shireg baidrag biger boontsagaan khangal naran orog tuin
             tost_uul gaxun_gobi shargyn_gobi shira_qulusun khasagt_khairkhan gobi_altay khangain_mountains targavatai_mountains
          }
-
-         
-
-         
       }
       MGL = {
          include = "expl_whole_world"
@@ -6572,13 +4850,6 @@ countries = {
             anaklia lesser_caucasus_mountains1 ozurgeti poti_caucasus tsalenjikha akhaltsikhe kutaisi skande shorapani tsageri
             tsesi vartsikhe
          }
-
-         
-         
-
-         
-
-         
       }
       MGT = {
          include = "expl_whole_world"
@@ -6589,12 +4860,6 @@ countries = {
          own_control_core = {
             mongmit mabein namhkan
          }
-
-         
-
-         
-
-         
       }
       MHD = {
          include = "expl_whole_world"
@@ -6617,13 +4882,6 @@ countries = {
          own_control_core = {
             qishn khalfut hadibu qulensya abdalkuri_island khayrij
          }
-
-         
-         
-
-         
-
-         
       }
       MIR = {
          include = "expl_whole_world"
@@ -6658,13 +4916,6 @@ countries = {
          own_control_core = {
             nilagiri baripada rairangpur
          }
-
-         
-         
-
-         
-
-         
       }
       MJZ = {
          include = "expl_whole_world"
@@ -6680,13 +4931,6 @@ countries = {
             yegindybulak tengiz kon_tengiz kulanotpes sonaly karasor karkaraly balyktykol shybyndy aybas
             kabyrga karaturgay turgay zhaldama sarykopa karasu saryozen ulkayak shoindykol hunger_steppe
          }
-
-         
-         
-
-         
-
-         
       }
       MKA = {
          include = "expl_whole_world"
@@ -6703,10 +4947,6 @@ countries = {
          accepted_cultures = {
             kado_culture
          }
-
-         
-
-         
       }
       MKG = {
          include = "expl_whole_world"
@@ -6718,12 +4958,6 @@ countries = {
          own_control_core = {
             kolumba
          }
-
-         
-         
-         
-
-         
       }
       MKL = {
          include = "expl_whole_world"
@@ -6738,14 +4972,6 @@ countries = {
             wismar grabow hagenow grevesmuhlen doberan ribnitz rostock schwerin butzow gustrow
             parchim malchow waren malchin
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MKN = {
          include = "expl_whole_world"
@@ -6762,10 +4988,6 @@ countries = {
          accepted_cultures = {
             kado_culture
          }
-
-         
-
-         
       }
       MKR = {
          include = "expl_whole_world"
@@ -6783,13 +5005,6 @@ countries = {
             al_tiz zarabad bent jagin_zir mahgas murt saravan suran bannajbur paroom
             buleda irafshan awaran zik
          }
-
-         
-         
-
-         
-
-         
       }
       MLB = {
          include = "expl_whole_world"
@@ -6800,10 +5015,6 @@ countries = {
          own_control_core = {
             imphal thoubal
          }
-
-         
-
-         
       }
       MLL = {
          include = "expl_whole_world"
@@ -6824,12 +5035,6 @@ countries = {
          own_control_core = {
             mulian mengdong matman pangyang
          }
-
-         
-
-         
-
-         
       }
       MMN = {
          include = "expl_whole_world"
@@ -6841,13 +5046,6 @@ countries = {
          own_control_core = {
             ghormach maymana qaisar
          }
-
-         
-         
-
-         
-
-         
       }
       MNA = {
          include = "expl_whole_world"
@@ -6859,12 +5057,6 @@ countries = {
          own_control_core = {
             maynila
          }
-
-         
-         
-         
-
-         
       }
       MNI = {
          include = "expl_whole_world"
@@ -6875,12 +5067,6 @@ countries = {
          own_control_core = {
             mongnai kengkham kengtawng mawkmai mongtung
          }
-
-         
-
-         
-
-         
       }
       MNJ = {
          include = "expl_whole_world"
@@ -6891,12 +5077,6 @@ countries = {
          own_control_core = {
             manjung klang kajang
          }
-
-         
-
-         
-
-         
       }
       MNU = {
          include = "expl_whole_world"
@@ -6912,14 +5092,6 @@ countries = {
          own_control_integrated = {
             tutong barulo niah
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MNY = {
          include = "expl_whole_world"
@@ -6942,15 +5114,6 @@ countries = {
          own_control_core = {
             frassinoro modena nonantola canossa novellara mirandola reggioem castelnuovo_di_garfagnana
          }
-
-         
-         
-         
-         
-         
-         
-
-         
       }
       MOL = {
          include = "expl_whole_world"
@@ -6965,11 +5128,6 @@ countries = {
             tutova vaslui adjud focsani hangu_romania piatra_lui_craciun targu_neamt targu_trotus tulnici barlad
             cudalbi galati oancea targul_saratii tecuci
          }
-
-         
-         
-
-         
       }
       MOM = {
          include = "expl_whole_world"
@@ -6977,14 +5135,6 @@ countries = {
          capital = ngimbo_amburi
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-
-         
-
-         
-
-         
       }
       MON = {
          include = "expl_whole_world"
@@ -7005,14 +5155,6 @@ countries = {
          own_control_core = {
             moro daratan
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MOR = {
          include = "expl_whole_world"
@@ -7032,13 +5174,6 @@ countries = {
             bzou demnate chichaoua tezerghe sefrou jarawah_abu_al_aysh oujda taourirt echemmaia sidi_bennour
             nedroma tegeget kalaat_sraghna afso rif western_rif south_middle_atlas2 high_atlas2 western_high_atlas2 western_high_atlas1
          }
-
-         
-         
-
-         
-
-         
       }
       MPE = {
          include = "expl_whole_world"
@@ -7046,14 +5181,6 @@ countries = {
          capital = maguela
          country_rank = rank_duchy
          starting_technology_level = 3
-
-         
-
-         
-
-         
-
-         
       }
       MPK = {
          include = "expl_whole_world"
@@ -7084,10 +5211,6 @@ countries = {
          own_control_core = {
             karawala awastara ahuya_yari
          }
-
-         
-
-         
       }
       MRA = {
          include = "expl_whole_world"
@@ -7110,12 +5233,6 @@ countries = {
          own_control_core = {
             taubonto
          }
-
-         
-         
-         
-
-         
       }
       MRP = {
          include = "expl_whole_world"
@@ -7131,14 +5248,6 @@ countries = {
          own_control_integrated = {
             kedang_pahu belayan hulu_mahakam kelinjau
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MRQ = {
          include = "expl_whole_world"
@@ -7150,13 +5259,6 @@ countries = {
          own_control_core = {
             maragheh malekan sain miandoab barza bukan takht_e_soleyman zagros_mountains4
          }
-
-         
-         
-
-         
-
-         
       }
       MRR = {
          include = "expl_whole_world"
@@ -7168,13 +5270,6 @@ countries = {
          own_control_core = {
             kahan suleiman_range_6
          }
-
-         
-         
-
-         
-
-         
       }
       MRT = {
          include = "expl_whole_world"
@@ -7186,11 +5281,6 @@ countries = {
          own_control_core = {
             limbourg
          }
-
-         
-         
-         
-
          accepted_cultures = {
             frisian
          }
@@ -7202,11 +5292,6 @@ countries = {
          
          capital = khed #Or Pali
          country_rank = rank_county
-
-         
-         
-
-         
       }
       MSI = {
          include = "expl_whole_world"
@@ -7224,13 +5309,6 @@ countries = {
          
          capital = warangal
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       MST = {
          include = "expl_whole_world"
@@ -7244,14 +5322,6 @@ countries = {
          own_control_core = {
             strelitz neubrandenburg ratzeburg
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MTB = {
          include = "expl_whole_world"
@@ -7273,10 +5343,6 @@ countries = {
             oceko_sipiy mantago chitek onabeesh tootinaowaziibeeng kinosota kihi sihabi sipiweske waskada
             winnipeg mnisaton mihkwakamiwi_sipiy pikwedina_sagaomam maskwa
          }
-
-         
-
-         
       }
       MTF = {
          include = "expl_whole_world"
@@ -7289,13 +5355,6 @@ countries = {
             samawa nasiriyah rusafa wasit al_tib al_madar muhammerah suq_al_shuyukh basra abdas
             al_qatr
          }
-
-         
-         
-
-         
-
-         
       }
       MTH = {
          include = "expl_whole_world"
@@ -7322,12 +5381,6 @@ countries = {
          own_control_integrated = {
             ban_khon sayniabuli vang_vieng
          }
-
-         
-
-         
-
-         
       }
       MYA = {
          include = "expl_whole_world"
@@ -7357,14 +5410,6 @@ countries = {
          own_control_core = {
             bay kumintang mamburao basud kalapang mangarin
          }
-
-         
-         
-         
-
-         
-
-         
       }
       MYS = {
          include = "expl_whole_world"
@@ -7389,13 +5434,6 @@ countries = {
          own_control_core = {
             omerkot
          }
-
-         
-         
-
-         
-
-         
       }
       MZU = {
          include = "expl_whole_world"
@@ -7412,13 +5450,6 @@ countries = {
          
          capital = nagar
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       NAS = {
          include = "expl_whole_world"
@@ -7430,13 +5461,6 @@ countries = {
          own_control_core = {
             mainz wiesbaden katzenelnbogen diez usingen hadamar dillenburg
          }
-
-         
-         
-         
-         
-
-         
       }
       NBR = {
          include = "expl_whole_world"
@@ -7450,10 +5474,6 @@ countries = {
             siegas menahkwesk mispec kennebecasis washademoak otnabog kcheeminpink canaan_bog nashwaak oromocto
             meductic welamooktook pokiok grand_manan pocologan chamcook magaguadavic allagash aroostook
          }
-
-         
-
-         
       }
       NED = {
          include = "expl_whole_world"
@@ -7472,11 +5492,6 @@ countries = {
          own_control_colony = {
             arubeira curacaute buriari witagron paramaribo pereru_tepu ndyuka iaremappo axim
          }
-
-         
-         
-         
-
          accepted_cultures = {
             frisian
          }
@@ -7495,16 +5510,6 @@ countries = {
          own_control_core = {
             neuchatel
          }
-
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       NGL = {
          include = "expl_whole_world"
@@ -7516,12 +5521,6 @@ countries = {
          own_control_core = {
             sumbawa
          }
-
-         
-         
-         
-
-         
       }
       NJD = {
          include = "expl_whole_world"
@@ -7537,13 +5536,6 @@ countries = {
             ad_dilam naam muzahmiyah dhurma saqra al_majmaah al_ghat az_zilfi udakh al_mithnab
             unaizah an_nabhaniyah thadij at_tarfawi al_laghfiyyah miskah ar_rass
          }
-
-         
-         
-
-         
-
-         
       }
       NJR = {
          include = "expl_whole_world"
@@ -7556,13 +5548,6 @@ countries = {
          own_control_core = {
             al_husayniyah najran suq_al_ghinan
          }
-
-         
-         
-
-         
-
-         
       }
       NKL = {
          include = "expl_whole_world"
@@ -7574,13 +5559,6 @@ countries = {
          own_control_core = {
             ganlygala durun konjikala
          }
-
-         
-         
-
-         
-
-         
       }
       NKO = {
          include = "expl_whole_world"
@@ -7602,13 +5580,6 @@ countries = {
          own_control_core = {
             astara germi varsan ardabil
          }
-
-         
-         
-
-         
-
-         
       }
       NOR = {
          include = "expl_whole_world"
@@ -7634,10 +5605,6 @@ countries = {
          own_control_integrated = {
             varanger alta kirkenes
          }
-
-         
-         
-
          accepted_cultures = {
             norn_culture
          }
@@ -7678,12 +5645,6 @@ countries = {
             chatuza cocamas kachi rupharupha may_ushin kakataibo ashaninka panatahuas yanesha chanchacc
             nomatsigenga
          }
-
-         
-
-         
-
-         
       }
       NRS = {
          include = "expl_whole_world"
@@ -7695,11 +5656,6 @@ countries = {
          own_control_core = {
             narsinghpur
          }
-
-         
-         
-
-         
       }
       NSC = {
          include = "expl_whole_world"
@@ -7713,10 +5669,6 @@ countries = {
             kjipuktuk wetewatoqsik musquedoboit aspotogan esekatik nmejuaqnek nictaux wekwayik chebogue muinawamek
             nisiamk oqumkikiak
          }
-
-         
-
-         
       }
       NSR = {
          include = "expl_whole_world"
@@ -7728,14 +5680,6 @@ countries = {
          own_control_core = {
             banua_lawas banjar martapura muara_bahan nagara_borneo tuyuk
          }
-
-         
-         
-         
-
-         
-
-         
       }
       NSU = {
          include = "expl_whole_world"
@@ -7743,12 +5687,6 @@ countries = {
          capital = masinga
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-
-         
-
-         
       }
       NUP = {
          include = "expl_whole_world"
@@ -7773,10 +5711,6 @@ countries = {
             red_bay ikkatuluk uivvatok natsitok inutsualak tessuialluk aillik kaipokok agvituk ukasikalik
             nunainguk aulatsivik okak napaktok kingmirtok navchak
          }
-
-         
-
-         
       }
       KNP = {
          include = "expl_whole_world"
@@ -7799,13 +5733,6 @@ countries = {
          own_control_core = {
             oldenburg elsfleth delmenhorst birkenfeld cloppenburg friesoythe vechta eutin jever schwartau wilhelmshaven grosswurden
          }
-
-         
-         
-
-         
-
-         
       }
       OMA = {
          include = "expl_whole_world"
@@ -7822,11 +5749,6 @@ countries = {
             zagros_mountains20 kahnuj mardehek qaleh_ganj bashagard bandar_e_jask gwatar gwadar ras_mkumbuu kilwa_kisiwani
             lindi kisimani_mafia songo_mnara zanzibar bagamoyo dar_es_salaam utondwe
          }
-
-         
-         
-
-         
       }
       ONW = {
          include = "expl_whole_world"
@@ -7837,13 +5759,6 @@ countries = {
          own_control_core = {
             madhubani darbhanga jhanjharpur sitamarhi purnia alamganj bihariganj katihar kosi saharsa
          }
-
-         
-         
-
-         
-
-         
       }
       ORU = {
          include = "expl_whole_world"
@@ -7925,14 +5840,6 @@ countries = {
             kahta samsat besni elbistan enguzud goksun afsin kaysun ulnia suakin
             ali_sabieh zeila el_sheikh amud dahlak
          }
-
-         
-         
-         
-
-         
-
-         
       }
       OYO = {
          include = "expl_whole_world"
@@ -7944,11 +5851,6 @@ countries = {
          own_control_core = {
             igboho ikoyi ogbomosho ede tede saki irawo oshogbo iwo
          }
-
-         
-         
-
-         
       }
       PAH = {
          include = "expl_whole_world"
@@ -7959,12 +5861,6 @@ countries = {
          own_control_core = {
             pahang bera gelanggi jerantut johor_lama kuala_lipis kuantan muar rantau_panjang
          }
-
-         
-
-         
-
-         
       }
       PAP = {
          include = "expl_whole_world"
@@ -7981,19 +5877,6 @@ countries = {
             gubbio pesaro marsciano perugia rimini cesena imola ravenna bologna medicina
             vergato comacchio ferrara argenta pontecorvo
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
-
-         
       }
       PAR = {
          include = "expl_whole_world"
@@ -8005,15 +5888,6 @@ countries = {
          own_control_core = {
             parma berceto sandonnino piacenza bardi fiorenzuola bobbio guastalla
          }
-
-         
-         
-         
-         
-         
-         
-
-         
       }
       PDK = {
          include = "expl_whole_world"
@@ -8034,11 +5908,6 @@ countries = {
          own_control_core = {
             kodungallur thrissur
          }
-
-         
-         
-
-         
       }
       PEG = {
          include = "expl_whole_world"
@@ -8051,12 +5920,6 @@ countries = {
             myanaung myaungmya naungyo ngaputaw papun pathein pegu phyu sittaung thanlyin
             twante
          }
-
-         
-
-         
-
-         
       }
       PEI = {
          include = "expl_whole_world"
@@ -8067,23 +5930,12 @@ countries = {
          own_control_core = {
             elsiktuk tignish malpeque tapu_tuitn pukusamkek menageesenog
          }
-
-         
-
-         
       }
       PGL = {
          include = "expl_whole_world"
          
          capital = pugal
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       PGS = {
          include = "expl_whole_world"
@@ -8099,14 +5951,6 @@ countries = {
          own_control_integrated = {
             agoo
          }
-
-         
-         
-         
-
-         
-
-         
       }
       PHY = {
          include = "expl_whole_world"
@@ -8117,10 +5961,6 @@ countries = {
          own_control_core = {
             phayao muang_ngao
          }
-
-         
-
-         
       }
       PIN = {
          include = "expl_whole_world"
@@ -8133,12 +5973,6 @@ countries = {
             ngape nwamethin nyaungyan pagan pakokku pindale pinle pyinmana sagu salay
             salin saw talok taungdwingyi thayet wetwin
          }
-
-         
-
-         
-
-         
       }
       PJT = {
          include = "expl_whole_world"
@@ -8150,14 +5984,6 @@ countries = {
          own_control_core = {
             donggala toli_toli tomini parigi pendau
          }
-
-         
-         
-         
-
-         
-
-         
       }
       PKR = {
          include = "expl_whole_world"
@@ -8169,12 +5995,6 @@ countries = {
          own_control_core = {
             balanipa mamudju
          }
-
-         
-         
-         
-
-         
       }
       PLA = {
          include = "expl_whole_world"
@@ -8185,11 +6005,6 @@ countries = {
          own_control_core = {
             pal_lahara
          }
-
-         
-         
-
-         
       }
       PLB = {
          include = "expl_whole_world"
@@ -8197,14 +6012,6 @@ countries = {
          capital = palembang
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
-
-         
       }
       PLL = {
          include = "expl_whole_world"
@@ -8216,48 +6023,24 @@ countries = {
          own_control_core = {
             pulilu
          }
-
-         
-         
-         
-
-         
       }
       PLT = {
          include = "expl_whole_world"
          
          capital = palitana
          country_rank = rank_county
-
-         
-
-         
       }
       PNA = {
          include = "expl_whole_world"
          
          capital = sidhmukh #Jhansal
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       PNC = {
          include = "expl_whole_world"
          
          capital = poonch
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       PNI = {
          include = "expl_whole_world"
@@ -8269,14 +6052,6 @@ countries = {
          own_control_core = {
             pannai bahal balige bilah kota_pinang kualuh tanjung_balai
          }
-
-         
-         
-         
-
-         
-
-         
       }
       POR = {
          include = "expl_whole_world"
@@ -8304,16 +6079,6 @@ countries = {
             ancuase chiramba chamo mopeia cuama chindre quelimane macuze nacala maputo
             inhambane chongoene likusaen madgaon goa
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
          ai_advance_preference_tags = {
             exploration = 5
          }
@@ -8332,23 +6097,12 @@ countries = {
             nemby kyyindy akaray kaarendy canindeyu takuru_puku ycuamandiyu ayvu_pora pai_tavytera kuarepoti
             curuguaty kaaguy_jehasapa yguazu tsiripa ygana
          }
-
-         
-
-         
-
-         
       }
       PRT = {
          include = "expl_whole_world"
          
          capital = phalvardhika
          country_rank = rank_county
-
-         
-         
-
-         
       }
       PRU = {
          include = "expl_whole_world"
@@ -8384,14 +6138,6 @@ countries = {
             tuchola bialobork czluchow nowe swiecie bytow lebork stettin ueckermunde gryfow
             pyrzyce demmin anklam aschersleben lobnitz repau posigk schierau walternienburg
          }
-
-         
-         
-         
-
-         
-
-         
       }
       PRZ = {
          include = "expl_whole_world"
@@ -8415,15 +6161,6 @@ countries = {
          own_control_core = {
             pasai peureulak semerlanga sigli tamiang
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       PST = {
          include = "expl_whole_world"
@@ -8435,13 +6172,6 @@ countries = {
          own_control_core = {
             abdanan arkvaz dehloran meymeh ilam
          }
-
-         
-         
-
-         
-
-         
       }
       PTC = {
          include = "expl_whole_world"
@@ -8458,10 +6188,6 @@ countries = {
          accepted_cultures = {
             mon_culture
          }
-
-         
-
-         
       }
       PTE = {
          include = "expl_whole_world"
@@ -8483,13 +6209,6 @@ countries = {
             patna_garjat khariar balangir saintala paikmal basna bargarh sambalpur debagarh samasingha
             kuchinda
          }
-
-         
-         
-
-         
-
-         
       }
       PUA = {
          include = "expl_whole_world"
@@ -8500,10 +6219,6 @@ countries = {
          own_control_core = {
             pua nan
          }
-
-         
-
-         
       }
       PZN = {
          include = "expl_whole_world"
@@ -8516,10 +6231,6 @@ countries = {
             poznan buk czarnkow miedzyrzecz oborniki skwierzyna szamotuly wielen pyzdry kozmin
             sroda_wielkopolska koscian babimost grodzisk_wielkopolski rawicz srem wschowa ostrow_wielkopolski pleszew ostrzeszow
          }
-
-         
-
-         
       }
       QAT = {
          include = "expl_whole_world"
@@ -8531,13 +6242,6 @@ countries = {
          own_control_core = {
             eglat_faisal zubarah al_bidda al_huwaila
          }
-
-         
-         
-
-         
-
-         
       }
       QSM = {
          include = "expl_whole_world"
@@ -8549,13 +6253,6 @@ countries = {
          own_control_core = {
             sharjah al_dhaid khor_fakkan bandar_charak bandar_lengeh
          }
-
-         
-         
-
-         
-
-         
       }
       RAC = {
          include = "expl_whole_world"
@@ -8571,11 +6268,6 @@ countries = {
             qawalangin niigugis naahmigus qaxun sasignan kasukuak su_naq agw_aneq igiugig kenai
             kachemak nanwalek caniqaq xunaa shee_t_ika kashaya
          }
-
-         
-         
-
-         
       }
       RAF = {
          include = "expl_whole_world"
@@ -8658,27 +6350,12 @@ countries = {
          own_control_core = {
             schleiz remptendorf zeulenroda mehla
          }
-
-         
-         
-         
-
-         
-
-         
       }
       RCH = {
          include = "expl_whole_world"
          
          capital = golconda #Amangal / Amanugallu
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       RJI = {
          include = "expl_whole_world"
@@ -8689,13 +6366,6 @@ countries = {
          own_control_core = {
             nandod
          }
-
-         
-         
-
-         
-
-         
       }
       RJL = {
          include = "expl_whole_world"
@@ -8707,14 +6377,6 @@ countries = {
          own_control_core = {
             naumburg langenwetzendorf new1
          }
-
-         
-         
-         
-
-         
-
-         
       }
       RJR = {
          include = "expl_whole_world"
@@ -8724,11 +6386,6 @@ countries = {
          country_rank = rank_county
 
          #Ruler: Sirdar Khan / Ratan Singh
-         
-
-         
-
-         
       }
       RKS = {
          include = "expl_whole_world"
@@ -8739,13 +6396,6 @@ countries = {
          own_control_core = {
             palamau ambikapur ramkola ramgiri garhwa sonhat janakpur
          }
-
-         
-         
-
-         
-
-         
       }
       RNP = {
          include = "expl_whole_world"
@@ -8756,11 +6406,6 @@ countries = {
          own_control_core = {
             ranpur
          }
-
-         
-         
-
-         
       }
       RPL = {
          include = "expl_whole_world"
@@ -8812,10 +6457,6 @@ countries = {
             thutade tse_khene takla hominka ingenika mesilinka tsekani sekani_forest ediziza_forest s_shuswap_mtns
             e_shuswap_mtns n_shuswap_mtns sinixt_range mostoos_upland mid_boreal_upland porcupine_hills
          }
-
-         
-
-         
       }
       RRU = {
          include = "expl_whole_world"
@@ -8827,12 +6468,6 @@ countries = {
          own_control_core = {
             barru tinco
          }
-
-         
-         
-         
-
-         
       }
       RSH = {
          include = "expl_whole_world"
@@ -8844,13 +6479,6 @@ countries = {
          own_control_core = {
             vamar
          }
-
-         
-         
-
-         
-
-         
       }
       RTP = {
          include = "expl_whole_world"
@@ -8862,13 +6490,6 @@ countries = {
             ratnapura tummana kenda chaiturgarh tilda raipur sripura nawagarh durg dhamtari
             nandgram ambagarh rajim kawardha khairagarh bemetara deori pendra
          }
-
-         
-         
-
-         
-
-         
       }
       RUS = {
          include = "expl_whole_world"
@@ -9141,13 +6762,6 @@ countries = {
             machevna tyulene valkall_an rykuul ugolnye nyerpicha konchalyt gytgomkyvamm tadlyeoan unazigmit
             anadyr_trail krasnyano tavayveem v_enyn tumanskaya y_lkytveem gacgatagyn
          }
-
-         
-         
-
-         
-
-         
       }
       RWA = {
          include = "expl_whole_world"
@@ -9168,10 +6782,6 @@ countries = {
          own_control_core = {
             urasoe nakijin oozato
          }
-
-         
-
-         
       }
       RZQ = {
          include = "expl_whole_world"
@@ -9208,13 +6818,6 @@ countries = {
          own_control_core = {
             altenburg eisenberg
          }
-
-         
-         
-         
-         
-
-         
       }
       SAG = {
          include = "expl_whole_world"
@@ -9225,10 +6828,6 @@ countries = {
          own_control_core = {
             sagaing amyint butalin dhipaesyin moksobo myedu ngasingu takawng
          }
-
-         
-
-         
       }
       SAX = {
          include = "expl_whole_world"
@@ -9243,13 +6842,6 @@ countries = {
             meissen sayda freiberg dresden pirna annaburg zwickau rochlitz grimma leipzig
             chemnitz bautzen marienstern plauen glauchau wurzen zittau
          }
-
-         
-         
-         
-         
-
-         
       }
       SBG = {
          include = "expl_whole_world"
@@ -9261,14 +6853,6 @@ countries = {
          own_control_core = {
             santubong samarahan saribas sebuyau tandang_sari
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SBU = {
          include = "expl_whole_world"
@@ -9280,12 +6864,6 @@ countries = {
          own_control_core = {
             selimbau jongkong
          }
-
-         
-         
-         
-
-         
       }
       SCG = {
          include = "expl_whole_world"
@@ -9297,14 +6875,6 @@ countries = {
          own_control_core = {
             coburg gotha ohrdruf volkenroda
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SDR = {
          include = "expl_whole_world"
@@ -9316,12 +6886,6 @@ countries = {
          own_control_core = {
             sidenreng
          }
-
-         
-         
-         
-
-         
       }
       SEG = {
          include = "expl_whole_world"
@@ -9348,13 +6912,6 @@ countries = {
             belgrad debrc sabac krusevac kucevo branicevo rudnik smederevo krupanj valjevo
             uzice stalac arilje jagodina ravno gradac zica kozelj svrljig visesav
          }
-
-         
-         
-
-         
-
-         
       }
       SGH = {
          include = "expl_whole_world"
@@ -9366,13 +6923,6 @@ countries = {
          own_control_core = {
             sheberghan aqca
          }
-
-         
-         
-
-         
-
-         
       }
       SGN = {
          include = "expl_whole_world"
@@ -9384,13 +6934,6 @@ countries = {
          own_control_core = {
             shighnan hindu_kush5 roshtqala
          }
-
-         
-         
-
-         
-
-         
       }
       SGT = {
          include = "expl_whole_world"
@@ -9398,12 +6941,6 @@ countries = {
          capital = dharmasraya
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
       }
       SGU = {
          include = "expl_whole_world"
@@ -9415,14 +6952,6 @@ countries = {
          own_control_core = {
             sanggau sekayam sekadau
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SHD = {
          include = "expl_whole_world"
@@ -9434,13 +6963,6 @@ countries = {
          own_control_core = {
             jargalan bojnord samalqan raz jajarm shoqan esfarayen
          }
-
-         
-         
-
-         
-
-         
       }
       SHK = {
          include = "expl_whole_world"
@@ -9452,13 +6974,6 @@ countries = {
          own_control_core = {
             mahabad zagros_mountains1
          }
-
-         
-         
-
-         
-
-         
       }
       SHL = {
          include = "expl_whole_world"
@@ -9472,28 +6987,12 @@ countries = {
          own_control_core = {
             kiel heiligenhafen plon stormarn segeberg rendsburg steinburg pinneberg heide ahrensbok
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       SHR = {
          include = "expl_whole_world"
          
          capital = churu
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       SIG = {
          include = "expl_whole_world"
@@ -9501,12 +7000,6 @@ countries = {
          capital = sengkae
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
       }
       SIK = {
          include = "expl_whole_world"
@@ -9542,13 +7035,6 @@ countries = {
             dzhulsub sarvaslyk tekabket yangi zherkorgan tamdy akkesene baba_ata nurlykent saudakent
             shavgar sholakkorgan moiynkum_desert taukum_desert saryesik_atyrau_desert
          }
-
-         
-         
-
-         
-
-         
       }
       SKH = {
          include = "expl_whole_world"
@@ -9568,13 +7054,6 @@ countries = {
             isakhel attock gujrat busal bhera lalian shahpur sillanwali pindi_bhattian shorkot
             dijkot thal_desert thal_desert_2 salt_range_3 salt_range
          }
-
-         
-         
-
-         
-
-         
       }
       SKK = {
          include = "expl_whole_world"
@@ -9585,10 +7064,6 @@ countries = {
          own_control_core = {
             yuksom dalingkot gangtok tsunthang
          }
-
-         
-
-         
       }
       SKO = {
          include = "expl_whole_world"
@@ -9613,13 +7088,6 @@ countries = {
          own_control_core = {
             suket mandi sarahan
          }
-
-         
-         
-
-         
-
-         
       }
       SLA = {
          include = "expl_whole_world"
@@ -9631,14 +7099,6 @@ countries = {
          own_control_core = {
             silat bunut
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SLM = {
          include = "expl_whole_world"
@@ -9660,12 +7120,6 @@ countries = {
          own_control_core = {
             sasak lombok
          }
-
-         
-         
-         
-
-         
       }
       SLR = {
          include = "expl_whole_world"
@@ -9677,13 +7131,6 @@ countries = {
          own_control_core = {
             barkdiz pandjih qasr_ahnaf karakum_desert4
          }
-
-         
-         
-
-         
-
-         
       }
       SLW = {
          include = "expl_whole_world"
@@ -9697,14 +7144,6 @@ countries = {
          own_control_core = {
             amrum_island_wasteland eckernforde slesvig flensburg aabenraa haderslev ribe tonder husum
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SMA = {
          include = "expl_whole_world"
@@ -9712,12 +7151,6 @@ countries = {
          capital = sehwan
          religious_school = hanafi_school
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       SMB = {
          include = "expl_whole_world"
@@ -9729,14 +7162,6 @@ countries = {
          own_control_core = {
             sambas hulu_sambas mandor mempawah monterado
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SML = {
          include = "expl_whole_world"
@@ -9750,13 +7175,6 @@ countries = {
          own_control_core = {
             buckeburg
          }
-
-         
-         
-         
-         
-
-         
       }
       SMN = {
          include = "expl_whole_world"
@@ -9770,15 +7188,6 @@ countries = {
          own_control_core = {
             meiningen hildburghausen sonneberg saalfeld kranichfeld camburg oberellen
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       SMR = {
          include = "expl_whole_world"
@@ -9792,15 +7201,6 @@ countries = {
          own_control_core = {
             faenza
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       SND = {
          include = "expl_whole_world"
@@ -9808,24 +7208,12 @@ countries = {
          capital = umarkot
          religious_school = ismaili_school
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       SNG = {
          include = "expl_whole_world"
          
          capital = temasek
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       SNL = {
          include = "expl_whole_world"
@@ -9837,14 +7225,6 @@ countries = {
          own_control_core = {
             samboangan dapitan panaon sibugay sindangan siocon
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SOA = {
          include = "expl_whole_world"
@@ -9866,13 +7246,6 @@ countries = {
          own_control_core = {
             al_ayn shinas suhar saham
          }
-
-         
-         
-
-         
-
-         
       }
       SPA = {
          include = "expl_whole_world"
@@ -9929,14 +7302,6 @@ countries = {
             macaca jiguani cueiba maguanes bani_cuba lora cayaguayo yateras bayaquitiri mayari
             guantanamo baracoa sagua barajagua guaynabo guaraca guaynia guama arasibo ayamaco
          }
-
-         
-         
-         
-         
-         
-         
-
          accepted_cultures = {
             leonese galician basque
          }
@@ -9959,13 +7324,6 @@ countries = {
          own_control_core = {
             dawlat_abad sangcharak sar_pol balkh paropamisus_mountains1
          }
-
-         
-         
-
-         
-
-         
       }
       SPN = {
          include = "expl_whole_world"
@@ -9982,10 +7340,6 @@ countries = {
          accepted_cultures = {
             mon_culture
          }
-
-         
-
-         
       }
       SPR = {
          include = "expl_whole_world"
@@ -10006,12 +7360,6 @@ countries = {
             kanamarca achachiwa uyo_uyo pampa chumbivilcas maukallaqta waqrapukara pikillaqta qusqu pisaq
             paucartambo urupampa quillarumiyoc yanatile yunca ullantaytampu picchu willka_pampa
          }
-
-         
-
-         
-
-         
       }
       SRG = {
          include = "expl_whole_world"
@@ -10028,13 +7376,6 @@ countries = {
          own_control_integrated = {
             sundergarh
          }
-
-         
-         
-
-         
-
-         
       }
       SRM = {
          include = "expl_whole_world"
@@ -10045,13 +7386,6 @@ countries = {
          own_control_core = {
             kalsi nahan
          }
-
-         
-         
-
-         
-
-         
       }
       SRN = {
          include = "expl_whole_world"
@@ -10066,13 +7400,6 @@ countries = {
             khanaqin zagros_mountains2 rawanduz erbil akre duhok balad mosul qayyarah barqaid
             bara_iraq nusaybin midyat mardin dunaysir diyarbekir ergani karacadag
          }
-
-         
-         
-
-         
-
-         
       }
       PIE = {
          include = "expl_whole_world"
@@ -10091,13 +7418,6 @@ countries = {
             saluzzo carmagnola chieri cuneo cottian_alps2 
             lomello voghera
          }
-
-         
-         
-
-         
-
-         
       }
 
       SAR = {
@@ -10221,13 +7541,6 @@ countries = {
          own_control_core = {
             guzor chiroqchi kish_shahrisabz koson
          }
-
-         
-         
-
-         
-
-         
       }
       STN = {
          include = "expl_whole_world"
@@ -10239,26 +7552,12 @@ countries = {
          own_control_core = {
             khash_sistan qala_fateh zaranj zabol chehl_dokhtaran dasht_khash
          }
-
-         
-         
-
-         
-
-         
       }
       STR = {
          include = "expl_whole_world"
          
          capital = karkala
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       SUK = {
          include = "expl_whole_world"
@@ -10276,10 +7575,6 @@ countries = {
          accepted_cultures = {
             lawa_culture
          }
-
-         
-
-         
       }
       SUL = {
          include = "expl_whole_world"
@@ -10291,14 +7586,6 @@ countries = {
          own_control_core = {
             maimbung bongao sibumbong balabak
          }
-
-         
-         
-         
-
-         
-
-         
       }
       SUN = {
          include = "expl_whole_world"
@@ -10306,14 +7593,6 @@ countries = {
          capital = kawali
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
-
-         
       }
       SUS = {
          include = "expl_whole_world"
@@ -10335,13 +7614,6 @@ countries = {
          own_control_core = {
             lentekhi ushguli greater_caucasus_mountains3
          }
-
-         
-         
-
-         
-
-         
       }
       SWE = {
          include = "expl_whole_world"
@@ -10372,17 +7644,9 @@ countries = {
             ronneby bregne solvesborg gladsax osby helsingborg lund malmo konghalla stromstad
             uddevalla hornborg hammerdal offerdal berg froso ragunda oviken
          }
-
-         
-         
-
          accepted_cultures = {
             finnish gutnish
          }
-
-         
-
-         
       }
       SWI = {
          include = "expl_whole_world"
@@ -10399,12 +7663,6 @@ countries = {
             schwyz toggenburg davos st_gallen altdorf disentis bellinzona locarno mesocco chur
             zuoz tarasp werdenberg lugano
          }
-
-         
-         
-         
-
-         
       }
       SWM = {
          include = "expl_whole_world"
@@ -10418,13 +7676,6 @@ countries = {
          own_control_core = {
             weimar gera eisenach ostheim allstedt oldisleben
          }
-
-         
-         
-         
-         
-
-         
       }
       SWZ = {
          include = "expl_whole_world"
@@ -10448,15 +7699,6 @@ countries = {
          own_control_core = {
             rudolstadt leutenberg beichlingen angelroda weisbach immenrode schlotheim
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       SZS = {
          include = "expl_whole_world"
@@ -10470,13 +7712,6 @@ countries = {
          own_control_core = {
             sondershausen arnstadt gehren geschwenda
          }
-
-         
-         
-         
-         
-
-         
       }
       TAM = {
          include = "expl_whole_world"
@@ -10495,13 +7730,6 @@ countries = {
          religious_school = maliki_school
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-
-         
-
-         
       }
       TBR = {
          include = "expl_whole_world"
@@ -10530,13 +7758,6 @@ countries = {
             bodbe khornabuji qakh telavi alaverdi dusheti gremi rustavi tbilisi gori
             kasriskari kvenipnevi mtskheta tsagvli greater_caucasus_mountains4
          }
-
-         
-         
-
-         
-
-         
       }
       TDG = {
          include = "expl_whole_world"
@@ -10554,14 +7775,6 @@ countries = {
             kudat kota_marudu hulu_labuk sandakan sugut kinabatangan hulu_segama kuamut lahad_datu lokan
             tong_talun
          }
-
-         
-         
-         
-
-         
-
-         
       }
       TDO = {
          include = "expl_whole_world"
@@ -10573,14 +7786,6 @@ countries = {
          own_control_core = {
             tondo botolan hubek pulilan magalo
          }
-
-         
-         
-         
-
-         
-
-         
       }
       TEK = {
          include = "expl_whole_world"
@@ -10592,13 +7797,6 @@ countries = {
          own_control_core = {
             karakum_desert3 karakum_desert2
          }
-
-         
-         
-
-         
-
-         
       }
       TEN = {
          include = "expl_whole_world"
@@ -10620,12 +7818,6 @@ countries = {
          own_control_core = {
             ternate
          }
-
-         
-         
-         
-
-         
       }
       TEX = {
          include = "expl_whole_world"
@@ -10644,12 +7836,6 @@ countries = {
             patiri ishak han orcoquisac caux toyal pachina palaquechare mayeye yojuane
             cantona toho ajehuac_yana sana_tx tza_wan_pupako tickanwatic
          }
-
-         
-
-         
-
-         
       }
       TGT = {
          include = "expl_whole_world"
@@ -10662,13 +7848,6 @@ countries = {
          own_control_core = {
             touggourt asuf tamacine ouargla ngoussa grand_erg_occidental_east2 debila madila bades
          }
-
-         
-         
-
-         
-
-         
       }
       TIB = {
          include = "expl_whole_world"
@@ -10692,10 +7871,6 @@ countries = {
             tsaidam yuka yalingkuo jingyu kumkol serzhik shantsa zangdan mendong samten
             selephu phari tsherlung ormogang
          }
-
-         
-
-         
       }
       TID = {
          include = "expl_whole_world"
@@ -10707,12 +7882,6 @@ countries = {
          own_control_core = {
             tidore
          }
-
-         
-         
-         
-
-         
       }
       TIG = {
          include = "expl_whole_world"
@@ -10747,13 +7916,6 @@ countries = {
          own_control_core = {
             sarakhs karakum_desert6
          }
-
-         
-         
-
-         
-
-         
       }
       TJP = {
          include = "expl_whole_world"
@@ -10770,14 +7932,6 @@ countries = {
          own_control_integrated = {
             seruyan sampit
          }
-
-         
-         
-         
-
-         
-
-         
       }
       TKA = {
          include = "expl_whole_world"
@@ -10795,11 +7949,6 @@ countries = {
          
          capital = manikandapuram
          country_rank = rank_county
-
-         
-         
-
-         
       }
       TLE = {
          include = "expl_whole_world"
@@ -10810,13 +7959,6 @@ countries = {
          dynasty = zayyanid_dynasty
          country_rank = rank_kingdom
          starting_technology_level = 3
-
-         
-         
-
-         
-
-         
       }
       TLW = {
          include = "expl_whole_world"
@@ -10828,12 +7970,6 @@ countries = {
          own_control_core = {
             taliwang
          }
-
-         
-         
-         
-
-         
       }
       TMB = {
          include = "expl_whole_world"
@@ -10870,10 +8006,6 @@ countries = {
          own_control_core = {
             taungoo thandaunggyi
          }
-
-         
-
-         
       }
       TNT = {
          include = "expl_whole_world"
@@ -10885,10 +8017,6 @@ countries = {
             buren_khem tes balyktyg western_sayan_mountains tannu_ola_mountains1 tannu_ola_mountains2 den_terek khemchik ulug bii
             choigan systyg
          }
-
-         
-
-         
       }
       TOO = {
          include = "expl_whole_world"
@@ -10921,12 +8049,6 @@ countries = {
          own_control_core = {
             laskarpur baniachang sylhet khaliajuri khaspur patharkandi rajnagar shaharpara
          }
-
-         
-
-         
-
-         
       }
       TRI = {
          include = "expl_whole_world"
@@ -10993,17 +8115,6 @@ countries = {
             rossano caserta gaeta naples nola piedimonte sora venafro campagna salacon
             salerno vallo ariano avellino santangelo
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       TSK = {
          include = "expl_whole_world"
@@ -11015,25 +8126,12 @@ countries = {
          own_control_core = {
             khulm mazar_i_sharif samangan
          }
-
-         
-         
-
-         
-
-         
       }
       TSM = {
          include = "expl_whole_world"
          
          capital = tenasserim
          country_rank = rank_county
-
-         
-
-         
-
-         
       }
       TUN = {
          include = "expl_whole_world"
@@ -11051,13 +8149,6 @@ countries = {
             tebourba el_fahs zaghouan nabeul kelibia hammamet kesra jama_TUN el_ksour medjez_el_bab
             sbikha gafsa kebili feriana gabes medenine ajim
          }
-
-         
-         
-
-         
-
-         
       }
       TUS = {
          include = "expl_whole_world"
@@ -11071,17 +8162,6 @@ countries = {
             chiusi montalcino siena grosseto volterra cortona pistoia prato pitigliano sansepolcro
             modigliana ficarolo pescia barga fosdinovo calice_e_albiano bagnone pontremoli coloretta
          }
-
-         
-         
-         
-         
-         
-         
-
-         
-
-         
       }
       TWI = {
          include = "expl_whole_world"
@@ -11092,13 +8172,6 @@ countries = {
          own_control_core = {
             kailashahar pilak karpus_mahal
          }
-
-         
-         
-
-         
-
-         
       }
       TYM = {
          include = "expl_whole_world"
@@ -11110,13 +8183,6 @@ countries = {
          own_control_core = {
             azab firuzkuh_afghanistan firozkoh tulak chiras paropamisus_mountains2
          }
-
-         
-         
-
-         
-
-         
       }
       TYY = {
          include = "expl_whole_world"
@@ -11128,14 +8194,6 @@ countries = {
          own_control_core = {
             taytay busuanga
          }
-
-         
-         
-         
-
-         
-
-         
       }
       UBH = {
          include = "expl_whole_world"
@@ -11168,10 +8226,6 @@ countries = {
             bocto nekokiaw garabito uxarraci coctu boruca quepos pacaca dererri tariaca
             kabeka
          }
-
-         
-
-         
       }
       UCN = {
          include = "expl_whole_world"
@@ -11191,10 +8245,6 @@ countries = {
             petawawa napanee ganneious ganaraska quinte otonabee kawartha mazinaw skootamatta kamaniskeg
             catchacoma kashagawigamog
          }
-
-         
-
-         
       }
       UFP = {
          include = "expl_whole_world"
@@ -11235,13 +8285,6 @@ countries = {
          own_control_core = {
             buxar arrah ballia jaund sasaram
          }
-
-         
-         
-
-         
-
-         
       }
       URM = {
          include = "expl_whole_world"
@@ -11253,13 +8296,6 @@ countries = {
          own_control_core = {
             salmas urmia osnavieh
          }
-
-         
-         
-
-         
-
-         
       }
       URU = {
          include = "expl_whole_world"
@@ -11273,12 +8309,6 @@ countries = {
             charrua araicuahita yi hum arachan guenoa ita_cuara ybiti yacegua cangucu
             chuy jaguarao ombu yaros bohan cuareim
          }
-
-         
-
-         
-
-         
       }
       USA = {
          include = "expl_whole_world"
@@ -11386,11 +8416,6 @@ countries = {
             pikwedina kimodakiwi ajawewesitagun manomin gawakomitigweia mustinka tewaukon maitomoni_ohe mekinock pembina
             minnewaukan mirixubaash saakak_hukaahaanu metigoshe itscheabine
          }
-
-         
-
-         
-
          ai_advance_preference_tags = {
             exploration = 5
          }
@@ -11437,49 +8462,24 @@ countries = {
          own_control_core = {
             ayni pishagar ura_tyube zomin
          }
-
-         
-         
-
-         
-
-         
       }
       VDK = {
          include = "expl_whole_world"
          
          capital = karikkode
          country_rank = rank_county
-
-         
-         
-
-         
       }
       VIJ = {
          include = "expl_whole_world"
          
          capital = vijayanagar
          country_rank = rank_kingdom
-
-         
-
-         
-
-         
       }
       VLD = {
          include = "expl_whole_world"
          
          capital = palghat
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       VNA = {
          include = "expl_whole_world"
@@ -11487,25 +8487,12 @@ countries = {
          capital = mbanza_kongo
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-
-         
-
-         
       }
       VND = {
          include = "expl_whole_world"
          
          capital = kollam
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       VNZ = {
          include = "expl_whole_world"
@@ -11524,12 +8511,6 @@ countries = {
             parepona aro kai_kara cachamay tumeremo ingariko apure guajobos arechuna sarare
             suripa caparo tachira cania guanare guaritico barinas tampacal hacarigua tapo
          }
-
-         
-
-         
-
-         
       }
       VOC = {
          include = "expl_whole_world"
@@ -11568,12 +8549,6 @@ countries = {
          own_control_integrated = {
             muang_khemarat yasothon roi_et chaiyaphum kaset_sombun khon_san mancha_khiri
          }
-
-         
-
-         
-
-         
       }
       VUN = {
          include = "expl_whole_world"
@@ -11581,14 +8556,6 @@ countries = {
          capital = bungu_kongo
          country_rank = rank_duchy
          starting_technology_level = 3
-
-         
-
-         
-
-         
-
-         
       }
       WAA = {
          include = "expl_whole_world"
@@ -11626,11 +8593,6 @@ countries = {
             radovanu plenita cozia glavacioc gratia pitesti poenari bukov cegani cetateni
             gaiseni meteleu parscov slanic slobozia viziru
          }
-
-         
-         
-
-         
       }
       WAR = {
          include = "expl_whole_world"
@@ -11643,11 +8605,6 @@ countries = {
          own_control_core = {
             haylan erigavo bosaso el_ayum las_khorey maduna
          }
-
-         
-         
-
-         
       }
       WDE = {
          include = "expl_whole_world"
@@ -11659,15 +8616,6 @@ countries = {
          own_control_core = {
             korbach hoxter
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       WHD = {
          include = "expl_whole_world"
@@ -11680,13 +8628,6 @@ countries = {
          own_control_core = {
             shabwa azzan balhaf habban
          }
-
-         
-         
-
-         
-
-         
       }
       WHL = {
          include = "expl_whole_world"
@@ -11694,14 +8635,6 @@ countries = {
          capital = laran
          country_rank = rank_county
          starting_technology_level = 3
-
-         
-         
-         
-
-         
-
-         
       }
       WKH = {
          include = "expl_whole_world"
@@ -11713,13 +8646,6 @@ countries = {
          own_control_core = {
             qila_panjeh hindu_kush6
          }
-
-         
-         
-
-         
-
-         
       }
       WLF = {
          include = "expl_whole_world"
@@ -11741,11 +8667,6 @@ countries = {
          own_control_core = {
             mumias
          }
-
-         
-         
-
-         
       }
       WNT = {
          include = "expl_whole_world"
@@ -11756,12 +8677,6 @@ countries = {
          own_control_core = {
             wuntho htigyaing
          }
-
-         
-
-         
-
-         
       }
       WOL = {
          include = "expl_whole_world"
@@ -11786,13 +8701,6 @@ countries = {
          own_control_integrated = {
             chhaparagarh
          }
-
-         
-         
-
-         
-
-         
       }
       WRI = {
          include = "expl_whole_world"
@@ -11824,12 +8732,6 @@ countries = {
          own_control_core = {
             kotano_muna
          }
-
-         
-         
-         
-
-         
       }
       WUR = {
          include = "expl_whole_world"
@@ -11845,15 +8747,6 @@ countries = {
             tubingen waldsee saulgau heilbronn vaihingen crailsheim ohringen mergentheim hall ellwangen
             heidenheim helfenstein ulm erbach_swabia biberach waldburg ravensburg horb magerkingen
          }
-
-         
-         
-         
-         
-
-         
-
-         
       }
       WZR = {
          include = "expl_whole_world"
@@ -11865,13 +8758,6 @@ countries = {
          own_control_core = {
             bannu tank wana
          }
-
-         
-         
-
-         
-
-         
       }
       XAA = {
          include = "expl_whole_world"
@@ -11915,10 +8801,6 @@ countries = {
             dunla guchung mori dashahai bailongdui miran loulan kumux yuanhu nazhi
             hami geziyandun
          }
-
-         
-
-         
       }
       YAK = {
          include = "expl_whole_world"
@@ -11945,13 +8827,6 @@ countries = {
          
          capital = tirupati
          country_rank = rank_county
-
-         
-         
-
-         
-
-         
       }
       YMD = {
          include = "expl_whole_world"
@@ -11963,13 +8838,6 @@ countries = {
          own_control_core = {
             etrek faraveh sarlawuk dehistan uzboy small_balkhan
          }
-
-         
-         
-
-         
-
-         
       }
       ZAN = {
          include = "expl_whole_world"
@@ -11983,14 +8851,6 @@ countries = {
          own_control_core = {
             tungi vamizi
          }
-
-         
-         
-         
-
-         
-
-         
       }
       ZEM = {
          include = "expl_whole_world"
@@ -12012,24 +8872,12 @@ countries = {
          own_control_core = {
             khabushan shirvan_iran quchan dargaz radkan bam_esfarayen meshkan_khorasan
          }
-
-         
-         
-
-         
-
-         
       }
       ZMR = {
          include = "expl_whole_world"
          
          capital = kozhikode
          country_rank = rank_county
-
-         
-         
-
-         
       }
       ZMW = {
          include = "expl_whole_world"
@@ -12037,12 +8885,6 @@ countries = {
          capital = great_zimbabwe
          country_rank = rank_kingdom
          starting_technology_level = 3
-
-         
-         
-
-         
-
          government = {
 
             #societal values
@@ -12080,10 +8922,6 @@ countries = {
 				}
 
             capital = lahaina
-
-				
-				
-
 				country_rank = rank_kingdom
 
 				government = { # ALL OF THIS NEEDS TO BE CHANGED
@@ -12097,9 +8935,6 @@ countries = {
 				own_control_core = {
 					tongatapu vauvau haapai niuatoputapu_atoll niuafo_ou eua haapai_atoll tongatapu_atoll
 				}
-
-				
-				
 				government = { # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
@@ -12114,9 +8949,6 @@ countries = {
 					yap ulithi_atoll
 					#faraulep_atoll woleai_atoll lamotrek_atoll
 				}
-
-				
-				
 				government = { # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
@@ -12131,9 +8963,6 @@ countries = {
 				own_control_core = {
 					savaii upolu tutuila
 				}
-
-				
-				
 				government = {
 					ruler = random
 				}
@@ -12147,9 +8976,6 @@ countries = {
 				own_control_core = {
 					mehetia tetiaroa_atoll moorea moorea_atoll tahiti tahiti_atoll
 				}
-
-				
-				
 				government = {  # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
@@ -12162,9 +8988,6 @@ countries = {
 				own_control_core = {
 					pora_pora pora_pora_atoll maupiti_atoll maupihaa_atoll manuae_atoll motu_one_atoll
 				}
-
-				
-				
 				government = {  # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
@@ -12177,9 +9000,6 @@ countries = {
 				own_control_core = {
 					huahine huahine_atoll maiao
 				}
-
-				
-				
 				government = {  # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
@@ -12192,9 +9012,6 @@ countries = {
 				own_control_core = {
 					havaii havaii_atoll 
 				}
-
-				
-				
 				government = {  # ALL OF THIS NEEDS TO BE CHANGED
 					ruler = random
 				}
