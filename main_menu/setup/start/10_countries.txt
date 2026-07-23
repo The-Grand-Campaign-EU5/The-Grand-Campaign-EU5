@@ -4649,12 +4649,12 @@ countries = {
       MCR = {
          include = "expl_whole_world"
          
-         capital = fosdinovo
+         capital = pietrasanta
          country_rank = rank_county
          starting_technology_level = 3
 
          own_control_core = {
-            massa villafranca_lugiana arpiola_pianfurcano rochetta_di_vara treschietto north_apennines
+            massa villafranca_lugiana arpiola_pianfurcano rochetta_di_vara treschietto aulla
          }
       }
       MDR = {
@@ -8160,7 +8160,7 @@ countries = {
          own_control_core = {
             florence mangona poggibonsi sanlorenzo livorno piombino pisa pontedera arezzo massamar
             chiusi montalcino siena grosseto volterra cortona pistoia prato pitigliano sansepolcro
-            modigliana ficarolo pescia barga fosdinovo calice_e_albiano bagnone pontremoli coloretta
+            modigliana fivizziano pescia barga pietrasanta calice_e_albiano bagnone pontremoli coloretta
          }
       }
       TWI = {

@@ -1193,7 +1193,7 @@
 				piacenza_province = { piacenza bardi bobbio fiorenzuola }
 				reggioem_province = { reggioem canossa novellara guastalla }
 				lunigiana_province = {
-					north_apennines barga gallicano castiglione minucchiano bagnone calice_e_albiano pontremoli treschietto rochetta_di_vara villafranca_lugiana arpiola_pianfurcano coloretta castelnuovo_di_garfagnana ficarolo
+					aulla barga gallicano castiglione minucchiano bagnone calice_e_albiano pontremoli treschietto rochetta_di_vara villafranca_lugiana arpiola_pianfurcano coloretta castelnuovo_di_garfagnana fivizziano
 				}
 			}
 			romagna_area = {
@@ -1255,7 +1255,7 @@
 				arezzo_province = { arezzo cortona sansepolcro }
 				florence_province = { florence mangona poggibonsi prato sanlorenzo pistoia modigliana pescia }
 				grosseto_province = { grosseto massamar pitigliano piombino}
-				lucca_province = { lucca massa fosdinovo montignoso }
+				lucca_province = { lucca massa pietrasanta montignoso }
 				pisa_province = { pisa livorno pontedera volterra }
 				siena_province = { siena chiusi montalcino }
 			}

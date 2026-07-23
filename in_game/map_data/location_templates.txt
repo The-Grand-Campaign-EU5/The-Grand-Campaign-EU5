@@ -3095,7 +3095,7 @@ vergato = { topography = hills vegetation = woods climate = oceanic religion = c
 ferrara = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = wheat}
 argenta = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = fiber_crops}
 comacchio = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = salt natural_harbor_suitability = 0.50}
-ficarolo = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = fruit}
+fivizziano = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = fruit}
 rovigo = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = venetian raw_material = livestock}
 lagoon_of_comacchio = { topography = lakes climate = subtropical}
 modena = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = wine}
@@ -3327,9 +3327,9 @@ arpiola_pianfurcano = { topography = mountains vegetation = forest climate = oce
 coloretta = { topography = mountains vegetation = forest climate = oceanic religion = catholic culture = tuscan raw_material = wine }
 pontecorvo = { topography = mountains vegetation = forest climate = oceanic religion = catholic culture = tuscan raw_material = wine }
 castelnuovo_di_garfagnana = { topography = mountains vegetation = forest climate = oceanic religion = catholic culture = tuscan raw_material = wine }
-fosdinovo = { topography = mountains vegetation = forest climate = oceanic religion = catholic culture = emilian raw_material = marble natural_harbor_suitability = 0.00}
+pietrasanta = { topography = mountains vegetation = forest climate = oceanic religion = catholic culture = emilian raw_material = marble natural_harbor_suitability = 0.00}
 pescia = { topography = flatland vegetation = farmland climate = mediterranean religion = catholic culture = tuscan raw_material = cotton}
-north_apennines = { topography = mountain_wasteland vegetation = forest climate = continental}
+aulla = { topography = mountain_wasteland vegetation = forest climate = continental}
 pisa = { topography = flatland vegetation = grasslands climate = mediterranean religion = catholic culture = tuscan raw_material = silk natural_harbor_suitability = 0.50}
 livorno = { topography = wetlands vegetation = farmland climate = mediterranean religion = catholic culture = tuscan raw_material = salt natural_harbor_suitability = 0.25}
 pontedera = { topography = flatland vegetation = grasslands climate = mediterranean religion = catholic culture = tuscan raw_material = wheat}

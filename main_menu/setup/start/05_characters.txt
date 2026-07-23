@@ -36753,7 +36753,7 @@ character_db = {
       religion = catholic
       birth_date = 1112.1.1
       death_date = 1185.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #father = Adalberto Malaspina
       #mother = Adelaida
       dynasty = malaspina_dynasty
@@ -36768,7 +36768,7 @@ character_db = {
       religion = catholic
       birth_date = 1146.1.1
       death_date = 1199.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Maria Bianco
       dynasty = malaspina_dynasty
       tag = MSP
@@ -36782,7 +36782,7 @@ character_db = {
       religion = catholic
       birth_date = 1171.1.1
       death_date = 1220.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = A Frangipani
       dynasty = malaspina_dynasty
       tag = MSP
@@ -36797,7 +36797,7 @@ character_db = {
       religion = catholic
       birth_date = 1195.1.1
       death_date = 1254.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty # Founder of the Spino Fiorito Branch of the House Malaspina
       tag = MSP
    }
@@ -36810,7 +36810,7 @@ character_db = {
       religion = catholic
       birth_date = 1220.1.1
       death_date = 1275.6.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Caterina Cattaneo della Volta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
@@ -36825,7 +36825,7 @@ character_db = {
       religion = catholic
       birth_date = 1251.1.1
       death_date = 1289.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
    }
@@ -36841,7 +36841,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1285.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = PAV
    }
@@ -42025,7 +42025,7 @@ character_db = {
       religion = catholic
       birth_date = 1145.1.1
       death_date = 1193.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Maria Bianco
       dynasty = malaspina_dynasty
       tag = MSP
@@ -42051,7 +42051,7 @@ character_db = {
       religion = catholic
       birth_date = 1180.1.1
       death_date = 1254.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Richelda Frangipani
       dynasty = malaspina_dynasty
       tag = MSP
@@ -42065,7 +42065,7 @@ character_db = {
       religion = catholic
       birth_date = 1221.1.1
       death_date = 1284.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Agnesina
       dynasty = malaspina_dynasty
       tag = MSP
@@ -42078,7 +42078,7 @@ character_db = {
       religion = catholic
       birth_date = 1279.1.1
       death_date = 1320.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Berlenda Grimaldi
       dynasty = malaspina_dynasty
       tag = MSP
@@ -42090,7 +42090,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1299.1.1 # He was the first son
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42107,7 +42107,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1324.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42118,7 +42118,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1303.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42131,7 +42131,7 @@ character_db = {
       religion = catholic
       birth_date = 1227.1.1
       death_date = 1265.1.1 # Between 1264 & 1266
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Agnesina
       dynasty = malaspina_dynasty # Should be malaspina_villafranca # Founder of the Villafranca line of the Spino Secco branch of the House Malaspina
       tag = MSP
@@ -42146,7 +42146,7 @@ character_db = {
       religion = catholic
       birth_date = 1254.1.1
       death_date = 1301.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Agnese del Bosco
       dynasty = malaspina_dynasty # Should be malaspina_villafranca
       tag = MSP
@@ -42160,7 +42160,7 @@ character_db = {
       religion = catholic
       birth_date = 1279.1.1 # Unknown
       death_date = 1321.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Tobia Spinola
       dynasty = malaspina_dynasty # Should be malaspina_villafranca
       tag = MSP
@@ -42175,7 +42175,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1304.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be malaspina_villafranca
       tag = MSP
    }
@@ -42187,7 +42187,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1323.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42199,7 +42199,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1325.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42212,7 +42212,7 @@ character_db = {
        culture = tuscan
       religion = catholic
       birth_date = 1327.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42225,7 +42225,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1329.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42243,7 +42243,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1331.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42259,7 +42259,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1333.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42273,7 +42273,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1335.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty
       tag = MSP
    }
@@ -42287,7 +42287,7 @@ character_db = {
       religion = catholic
       birth_date = 1252.1.1
       death_date = 1309.12.17
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Agnese del Bosco
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_cremolino_dynasty # Founder of the Cremolino line of the Spino Secco branch of the House Malaspina
       tag = ASD
@@ -42334,7 +42334,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1282.3.3
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Unknown
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
@@ -42351,7 +42351,7 @@ character_db = {
       culture = lombard
       religion = catholic
       birth_date = 1280.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = visconti_dynasty
       tag = MSP
    }
@@ -42367,7 +42367,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1312.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = URB
    }
@@ -42384,7 +42384,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1320.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = GEN
    }
@@ -42396,7 +42396,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1284.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Unknown
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_verrucula_dynasty # Founder of the Verrucula line of the Spino Fiorito branch of the House Malaspina
       tag = MSP
@@ -42411,7 +42411,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1308.1.1
-      birth = fosdinovo # Unknown
+      birth = pietrasanta # Unknown
       tag = MSP
    }
    msp_azzolino_ii_malaspina = {
@@ -42423,7 +42423,7 @@ character_db = {
       religion = catholic
       birth_date = 1286.1.1
       death_date = 1327.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       #mother = Unknown
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
@@ -42453,7 +42453,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1311.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
    }
@@ -42469,7 +42469,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1313.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
    }
@@ -42482,7 +42482,7 @@ character_db = {
       culture = tuscan
       religion = catholic
       birth_date = 1315.1.1
-      birth = fosdinovo
+      birth = pietrasanta
       dynasty = malaspina_dynasty # Should be dynasty = malaspina_fiorito_dynasty
       tag = MSP
    }
