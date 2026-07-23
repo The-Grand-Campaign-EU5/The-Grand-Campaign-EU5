@@ -1,4 +1,5 @@
-﻿SRP = {
+﻿#sardinia-piedmont
+SRP = {
 	color = map_SRP_SAV
 	color2 = rgb { 16 41 202 }
 	
@@ -13,6 +14,7 @@
 	difficulty = 3
 }
 
+#sardinia
 SAR = {
 	color = map_SAR
 	color2 = rgb { 16 41 202 }
@@ -28,6 +30,7 @@ SAR = {
 	difficulty = 3
 }
 
+#tuscany
 TUS = {
 	color = map_TUS
 	color2 = rgb { 16 41 202 }
@@ -43,6 +46,7 @@ TUS = {
 	difficulty = 3
 }
 
+#two sicilies
 TSC = {
 	color = map_TSC
 	color2 = rgb { 16 41 202 }
@@ -58,7 +62,8 @@ TSC = {
 	difficulty = 3
 }
 
-PAP	= { #papalstates
+#papal states
+PAP	= {
 	color = map_PAP
 
 	culture_definition = median
@@ -68,14 +73,16 @@ PAP	= { #papalstates
 	difficulty = 3
 }
 
-SIC	= { #sicily
+#sicily
+SIC	= {
 	color = map_SCI
 
 	culture_definition = sicilian
 	religion_definition = catholic
 }
 
-VEN	= { #venice
+#venice
+VEN	= {
 	color = map_venice
 
 	culture_definition = venetian
@@ -85,21 +92,24 @@ VEN	= { #venice
 	difficulty = 3
 }
 
-COR	= { #corsica
+#corsica
+COR	= {
 	color = rgb { 106 178 46 }
 
 	culture_definition = corsican
 	religion_definition = catholic
 }
 
-FER	= { #ferrara
+#ferrara
+FER	= {
 	color = rgb { 97 136 37 }
 
 	culture_definition = emilian
 	religion_definition = catholic
 }
 
-GEN	= { #genoa
+#genoa
+GEN	= {
 	color = rgb { 218 215 56 }
 
 	culture_definition = ligurian
@@ -109,21 +119,24 @@ GEN	= { #genoa
 	difficulty = 3
 }
 
-LUC = { #lucca
+#lucca
+LUC = {
 	color = map_LUC
 
 	culture_definition = tuscan
 	religion_definition = catholic
 }
 
-MOD	= { #modena
+#modena
+MOD	= {
 	color = map_MOD
 
 	culture_definition = emilian
 	religion_definition = catholic
 }
 
-NAP	= { #naples
+#naples
+NAP	= {
 	color = map_NAP
 
 	culture_definition = neapolitan
@@ -133,39 +146,49 @@ NAP	= { #naples
 	difficulty = 2
 }
 
-PAR	= { #parma
+#parma
+PAR	= {
 	color = map_PAR
 
 	culture_definition = emilian
 	religion_definition = catholic
 }
 
-SAV	= { #savoy
+#savoy
+SAV	= {
 	color = map_SRP_SAV
 
 	culture_definition = arpitan
 	religion_definition = catholic
 }
 
-SMR	= { #san marino
+#san marino
+SMR	= {
 	color = map_SMR
 
 	culture_definition = emilian
 	religion_definition = catholic
 }
 
-MCR	= { #Duchy of Massa and Principality of Carrara
+#Massa and Carrara
+MCR	= {
 	color = map_MCR
 
 	culture_definition = tuscan
 	religion_definition = catholic
 }
 
-PIE	= { #Piedmont
+#Piedmont
+PIE	= {
 	color = rgb { 1 255 177 }
 
 	culture_definition = piedmontese
 	religion_definition = catholic
+}
 
-
+#Aosta
+AOS = {
+    color = rgb { 150 100 90 }
+    culture_definition = arpitan
+    religion_definition = catholic
 }

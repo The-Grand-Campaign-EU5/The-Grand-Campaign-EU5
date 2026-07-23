@@ -499,12 +499,6 @@ SGL = {
 	is_historic = yes
 }
 
-AOS = {
-    color = rgb { 150 100 90 }
-    culture_definition = arpitan
-    religion_definition = catholic
-}
-
 
 FLK = {
     color = rgb { 190 130 120 }
