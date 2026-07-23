@@ -170,7 +170,97 @@ namespace = poland
 		}
 	}
 	
-	# TODO: one event for Krakow as base of operations for Polish nationalists if independent and at peace - one event for Marx/Engels and the social character of Krakow for Communist Manifesto chain - one event for supporting Chochołów Uprising
+	# Chochołów Uprising supporting Krakow Uprising
+	poland.7 = {
+		type = country_event
+		title = poland.7.title
+		desc = poland.7.desc
+	
+		trigger = { }
+	
+		fire_only_once = yes
+		orphan = yes
+		
+		option = {
+			name = poland.7.a
+		}
+	}
+	
+	# event for Marx/Engels and the social character of Krakow for Communist Manifesto chain
+	poland.8 = {
+		type = country_event
+		title = poland.8.title
+		desc = poland.8.desc
+	
+		trigger = { }
+	
+		fire_only_once = yes
+		orphan = yes
+	
+		option = {
+			name = poland.8.a
+		}
+	}
+	
+	# event for Krakow as base of operations for Polish nationalists if independent and at peace
+	poland.9 = {
+		type = country_event
+		title = poland.9.title
+		desc = poland.9.desc
+	
+		trigger = { }
+	
+		fire_only_once = yes
+		orphan = yes
+	
+		option = {
+			name = poland.9.a
+		}
+	}
 	
 ## Greater Polish Uprising of 1848 ##
 	
+	# Greater Poland Uprising starting event
+	poland.10 = {
+		type = country_event
+		title = poland.10.title
+		desc = poland.10.desc
+	
+		trigger = { }
+	
+		fire_only_once = yes
+	
+		dynamic_historical_event = {
+			tag = PZN
+			from = 1847.1.1
+			to = 1851.1.1
+			monthly_chance = 100
+		}
+	
+		option = {
+			name = poland.10.a
+	
+			c:PRU = {
+				cancel_subject = c:PZN
+				trigger_event_non_silently = poland.11
+			}
+		}
+	}
+	
+	# Prussian event to crush uprising
+	poland.11 = {
+		type = country_event
+		title = poland.11.title
+		desc = poland.11.desc
+	
+		trigger = { }
+	
+		fire_only_once = yes
+	
+		option = {
+			name = poland.11.a
+	
+			add_casus_belli = { target = c:PZN type = casus_belli:cb_annex }
+			declare_war_with_cb = { target = c:PZN type = casus_belli:cb_annex }
+		}
+	}
