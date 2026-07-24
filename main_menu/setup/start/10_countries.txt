@@ -4654,7 +4654,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            massa villafranca_lugiana arpiola_pianfurcano rochetta_di_vara treschietto aulla
+            massa
          }
       }
       MDR = {
@@ -5112,7 +5112,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            frassinoro modena nonantola canossa novellara mirandola reggioem castelnuovo_di_garfagnana
+            frassinoro modena nonantola canossa novellara mirandola reggioem castelnuovo_di_garfagnana villafranca_lugiana arpiola_pianfurcano rochetta_di_vara treschietto aulla
          }
       }
       MOL = {
