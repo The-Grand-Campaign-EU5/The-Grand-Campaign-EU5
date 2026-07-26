@@ -1,4 +1,17 @@
 character_db = {
+   # 1836
+   pap_gregorio_xvi = {
+      first_name = { name = name_gregory }
+      adm = 50
+      dip = 50
+      mil = 50
+
+       culture = venetian
+      religion = catholic
+      birth_date = 1798.10.2
+      birth = belluno
+      tag = PAP
+   }
    srp_charles_albert = {
       first_name = { name = name_charles.name_albert.north_italian_language }
       adm = 50
@@ -219,6 +232,8 @@ character_db = {
       dynasty = hohenzollern_dynasty
       tag = PRU
    }
+
+   # old eu5 ones
    #
    # Bj?lbo
    #

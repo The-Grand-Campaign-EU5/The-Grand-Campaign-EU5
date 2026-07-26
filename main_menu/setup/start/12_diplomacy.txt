@@ -1,46 +1,57 @@
 diplomacy_manager = {
-    # Germany
-        dependency = { first = PRU second = PZN subject_type = vassal }
+	# Germany
+		dependency = { first = PRU second = PZN subject_type = vassal }
+		dependency = { first = DAN second = SLW subject_type = vassal }
+		dependency = { first = DAN second = SHL subject_type = vassal }
+		dependency = { first = DAN second = LAU subject_type = vassal }
 
-    # Russia
-    dependency = { first = RUS second = CPL subject_type = vassal }
-    dependency = { first = RUS second = FIN subject_type = vassal }
-    dependency = { first = RUS second = KUR subject_type = vassal }
-    dependency = { first = RUS second = LIV subject_type = vassal }
-    dependency = { first = RUS second = ESH subject_type = vassal }
-    dependency = { first = RUS second = TCA subject_type = vassal }
-    dependency = { first = TCA second = ABK subject_type = vassal }
-    dependency = { first = TCA second = SVN subject_type = vassal }
-    dependency = { first = TCA second = MGL subject_type = vassal }
+	# Russia
+		dependency = { first = RUS second = CPL subject_type = vassal }
+		dependency = { first = RUS second = FIN subject_type = vassal }
+		dependency = { first = RUS second = KUR subject_type = vassal }
+		dependency = { first = RUS second = LIV subject_type = vassal }
+		dependency = { first = RUS second = ESH subject_type = vassal }
+		dependency = { first = RUS second = TCA subject_type = vassal }
+		dependency = { first = TCA second = ABK subject_type = vassal }
+		dependency = { first = TCA second = SVN subject_type = vassal }
+		dependency = { first = TCA second = MGL subject_type = vassal }
 
-    # Balkans
-        dependency = { first = OTT second = MOL subject_type = vassal }
-        dependency = { first = OTT second = WAL subject_type = vassal }
-        dependency = { first = OTT second = EGY subject_type = vassal }
+	# Balkans
+		dependency = { first = OTT second = MOL subject_type = vassal }
+		dependency = { first = OTT second = WAL subject_type = vassal }
+		dependency = { first = GBI second = ION subject_type = vassal }
 
-    # Scandinavia
-        dependency = { first = SWE second = NOR subject_type = vassal }
+	# Scandinavia
+		dependency = { first = SWE second = NOR subject_type = vassal }
 
-    # Canada
-        dependency = { first = GBI second = NSC subject_type = vassal }
-        dependency = { first = GBI second = PEI subject_type = vassal }
-        dependency = { first = GBI second = NBR subject_type = vassal }
-        dependency = { first = GBI second = NWF subject_type = vassal }
-        dependency = { first = GBI second = UCN subject_type = vassal }
-        dependency = { first = GBI second = LCN subject_type = vassal }
-        dependency = { first = GBI second = MTC subject_type = vassal }
-        dependency = { first = GBI second = RPL subject_type = vassal }
+	# Canada
+		dependency = { first = GBI second = NSC subject_type = vassal }
+		dependency = { first = GBI second = PEI subject_type = vassal }
+		dependency = { first = GBI second = NBR subject_type = vassal }
+		dependency = { first = GBI second = NWF subject_type = vassal }
+		dependency = { first = GBI second = UCN subject_type = vassal }
+		dependency = { first = GBI second = LCN subject_type = vassal }
+		dependency = { first = GBI second = MTC subject_type = vassal }
+		dependency = { first = GBI second = RPL subject_type = vassal }
 
-    # Austria
-        dependency = { first = HAB second = KRA subject_type = vassal }
+	# Austria
+		dependency = { first = HAB second = KRA subject_type = vassal }
 
-    # Sardinia-Piedmont
-	dependency = { first = SAR second = PIE subject_type = vassal }
-	dependency = { first = SAR second = SAV subject_type = vassal }
-	dependency = { first = SAR second = GEN subject_type = vassal }
-	dependency = { first = SAR second = NIZ subject_type = vassal }
+	# Italy
+		dependency = { first = SAV second = SAR subject_type = vassal }
+		dependency = { first = MOD second = MCR subject_type = vassal }
 
-    # Italy
-        dependency = { first = MOD second = MCR subject_type = vassal }
+	# North Africa
+		dependency = { first = OTT second = EGY subject_type = vassal }
+		dependency = { first = MOR second = TMZ subject_type = vassal }
+
+	# South Arabia
+		dependency = { first = OMA second = IMO subject_type = vassal }
+
+	# Afghan-Punjab
+		dependency = { first = KLA second = KHN subject_type = vassal }
+		dependency = { first = KLA second = LAS subject_type = vassal }
+		dependency = { first = KLA second = MKR subject_type = vassal }
+		dependency = { first = KLA second = KHS subject_type = vassal }
 
 }

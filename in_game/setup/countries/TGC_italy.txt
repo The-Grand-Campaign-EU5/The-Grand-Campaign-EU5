@@ -16,7 +16,7 @@ SRP = {
 
 #sardinia
 SAR = {
-	color = map_SAR
+	color = map_SRP_SAV
 	color2 = rgb { 16 41 202 }
 	
 	unit_color0 = hsv360 {	0 76 53 }
@@ -180,7 +180,7 @@ MCR	= {
 
 #Piedmont
 PIE	= {
-	color = rgb { 1 255 177 }
+	color = map_SRP_SAV
 
 	culture_definition = piedmontese
 	religion_definition = catholic
