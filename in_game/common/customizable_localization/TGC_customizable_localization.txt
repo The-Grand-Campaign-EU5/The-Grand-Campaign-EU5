@@ -1,0 +1,121 @@
+﻿TreatyOfFlorenceOutcome = {
+	type = country
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 1
+			has_global_variable = treaty_florence_rationalized
+		}
+		localization_key = treaty_florence_outcome_1_rationalized
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 1
+			NOT = { has_global_variable = treaty_florence_rationalized }
+		}
+		localization_key = treaty_florence_outcome_1_unrationalized
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 2
+			has_global_variable = treaty_florence_rationalized
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_2_rationalized_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 2
+			has_global_variable = treaty_florence_rationalized
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_2_rationalized_nomod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 2
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_2_unrationalized_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 2
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_2_unrationalized_nomod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			has_global_variable = treaty_florence_rationalized
+			has_global_variable = par_florence_conceded
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_3_rationalized_par_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			has_global_variable = treaty_florence_rationalized
+			has_global_variable = par_florence_conceded
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_3_rationalized_par_nomod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			has_global_variable = treaty_florence_rationalized
+			NOT = { has_global_variable = par_florence_conceded }
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_3_rationalized_nopar_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			has_global_variable = treaty_florence_rationalized
+			NOT = { has_global_variable = par_florence_conceded }
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_3_rationalized_nopar_nomod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			has_global_variable = par_florence_conceded
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_3_unrationalized_par_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			has_global_variable = par_florence_conceded
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_3_unrationalized_par_nomod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			NOT = { has_global_variable = par_florence_conceded }
+			has_global_variable = mod_florence_conceded
+		}
+		localization_key = treaty_florence_outcome_3_unrationalized_nopar_mod
+	}
+	text = {
+		trigger = {
+			global_var:treaty_florence_result = 3
+			NOT = { has_global_variable = treaty_florence_rationalized }
+			NOT = { has_global_variable = par_florence_conceded }
+			NOT = { has_global_variable = mod_florence_conceded }
+		}
+		localization_key = treaty_florence_outcome_3_unrationalized_nopar_nomod
+	}
+}

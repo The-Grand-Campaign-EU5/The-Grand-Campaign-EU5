@@ -1,1 +1,848 @@
 namespace = italy
+
+## Duchy of Massa and Carrara Inheritance ##
+
+# Inheritance #DEVNOTE: earlier, happens in 1829
+italy.1 = {
+	type = country_event
+	title = italy.1.title
+	desc = italy.1.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	dynamic_historical_event = {
+		tag = MCR
+		from = 1825.1.1
+		to = 1831.1.1
+		monthly_chance = 100
+	}
+
+	option = {
+		name = italy.1.a
+
+		ruler = { remove_ruler = root }
+
+		c:MOD = { trigger_event_non_silently = italy.2 }
+	}
+}
+
+# United with Modena 
+italy.2 = {
+	type = country_event
+	title = italy.2.title
+	desc = italy.2.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = {
+		name = italy.2.a
+
+		ruler = { remove_ruler = root }
+
+		c:MAS = {
+			make_subject_of = {
+				target = c:MOD
+				type = subject_type:vassal
+			}
+		}
+	}
+}
+
+# Full integration
+italy.3 = {
+	type = country_event
+	title = italy.3.title
+	desc = italy.3.desc
+
+	trigger = {
+		is_subject_of = c:MOD
+	}
+
+	fire_only_once = yes
+
+	dynamic_historical_event = {
+		tag = MCR
+		from = 1835.1.1
+		to = 1837.1.1
+		monthly_chance = 100
+	}
+
+	option = {
+		name = italy.3.a
+
+		c:MOD = { trigger_event_non_silently = italy.4 }
+	}
+}
+
+# Full integration event for Modena
+italy.4 = {
+	type = country_event
+	title = italy.4.title
+	desc = italy.4.desc
+
+	trigger = {
+
+	}
+
+	fire_only_once = yes
+
+	option = {
+		name = italy.4.a
+
+		annex_country = {
+			country = c:MCR
+		}
+	}
+}
+
+## Treaty of Florence 1844 ##
+
+# Austrian starting event
+italy.5 = {
+	type = country_event
+	title = italy.5.title
+	desc = italy.5.desc
+
+	trigger = {
+		# massa and carrara must be dead
+	}
+
+	fire_only_once = yes
+
+	dynamic_historical_event = {
+		tag = HAB
+		from = 1842.1.1
+		to = 1845.1.1
+		monthly_chance = 100
+	}
+
+	option = {
+		name = italy.5.a
+
+		c:TUS = { trigger_event_non_silently = italy.6 }
+	}
+}
+
+# Tuscan event to push for more land
+italy.6 = {
+	type = country_event
+	title = italy.6.title
+	desc = italy.6.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # push for more land
+		name = italy.6.a
+
+		c:MOD = { trigger_event_non_silently = italy.7 }
+	}
+	
+	option = { # we are fine with 1815
+		name = italy.6.b
+
+		set_global_variable = {
+			name = treaty_florence_result
+			value = 1 # 1815 case
+		}
+
+		c:HAB = { trigger_event_non_silently = italy.12 }
+	}
+}
+
+# Modenese event angry
+italy.7 = {
+	type = country_event
+	title = italy.7.title
+	desc = italy.7.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # protest it
+		name = italy.7.a
+
+		c:TUS = { trigger_event_non_silently = italy.8 }
+	}
+	
+	option = { # accept it
+		name = italy.7.b
+
+		set_global_variable = {
+			name = treaty_florence_result
+			value = 2 # 1815 case but with small tuscan gains in keeping barga and pietrasanta
+		}
+
+		c:HAB = { trigger_event_non_silently = italy.12 }
+	}
+}
+
+# Tuscan event offers remaining exclaves to Parma and Guastalla to Modena
+italy.8 = {
+	type = country_event
+	title = italy.8.title
+	desc = italy.8.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # offer remaining exclaves to Parma and Guastalla to Modena
+		name = italy.8.a
+
+		c:MOD = { trigger_event_non_silently = italy.9 }
+	}
+	
+	option = { # abandon it, go back to 1815
+		name = italy.8.b
+
+		set_global_variable = {
+			name = treaty_florence_result
+			value = 1 # 1815 case
+		}
+
+		c:HAB = { trigger_event_non_silently = italy.12 }
+	}
+}
+
+# Modenese event to accept
+italy.9 = {
+	type = country_event
+	title = italy.9.title
+	desc = italy.9.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # accept
+		name = italy.9.a
+
+		c:PAR = { trigger_event_non_silently = italy.10 }
+	}
+	
+	option = { # reject
+		name = italy.8.b
+
+		c:TUS = { trigger_event_non_silently = italy.11 }
+	}
+}
+
+# Parman event to accept
+italy.10 = {
+	type = country_event
+	title = italy.10.title
+	desc = italy.10.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # accept
+		name = italy.10.a
+
+		set_global_variable = {
+			name = treaty_florence_result
+			value = 3 # historical case
+		}
+
+		c:HAB = { trigger_event_non_silently = italy.12 } # rationalization question
+	}
+	
+	option = { # reject
+		name = italy.10.b
+
+		c:TUS = { trigger_event_non_silently = italy.11 }
+	}
+}
+
+# Tuscan informed of rejection
+italy.11 = {
+	type = country_event
+	title = italy.11.title
+	desc = italy.11.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # sad
+		name = italy.10.a
+
+		set_global_variable = {
+			name = treaty_florence_result
+			value = 1 # 1815 case
+		}
+
+		c:HAB = { trigger_event_non_silently = italy.12 } # rationalization question
+	}
+}
+
+# Austrian event to rationalize or not
+italy.12 = {
+	type = country_event
+	title = italy.12.title
+	desc = italy.12.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+	
+	after = {
+		set_global_variable = treaty_florence_done
+	}
+
+	option = { # yes, we will rationalize
+		name = italy.12.a
+
+		set_global_variable = treaty_florence_rationalized
+	}
+	
+	option = { # nah
+		name = italy.12.b
+	}
+}
+
+## 1847 Enforcement of Treaty of Florence ##
+
+# Parman starting event
+italy.13 = {
+	type = country_event
+	title = italy.13.title
+	desc = italy.13.desc
+
+	trigger = {
+		# has treaty of 
+	}
+
+	fire_only_once = yes
+
+	dynamic_historical_event = {
+		tag = PAR
+		from = 1844.1.1
+		to = 1848.1.1
+		monthly_chance = 100
+	}
+
+	option = {
+		name = italy.13.a
+
+		ruler = { remove_ruler = root }
+
+		c:TUS = { trigger_event_non_silently = italy.14 }
+	}
+}
+
+# Tuscan event
+italy.14 = {
+	type = country_event
+	title = italy.14.title
+	desc = italy.14.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # adhere to treaty
+		name = italy.14.a
+
+		c:PAR = { trigger_event_non_silently = italy.15 }
+		c:MOD = { trigger_event_non_silently = italy.15 }
+
+		trigger_event_non_silently = italy.21
+	}
+
+	option = { # try keep everything
+		name = italy.14.b
+
+		trigger = {
+ 			global_var:treaty_florence_result >= 2
+ 		}
+
+		set_global_variable = {
+			name = tuscan_approval_number
+			value = 0
+		}
+
+		if = {
+			limit = {
+				global_var:treaty_florence_result = 2
+			}
+			c:MOD = { trigger_event_non_silently = italy.16 }
+		}
+		else_if = {
+			limit = {
+				global_var:treaty_florence_result = 3
+			}
+			c:PAR = { trigger_event_non_silently = italy.16 }
+			c:MOD = { trigger_event_non_silently = italy.16 }
+		}
+	}
+}
+
+# Parman + Modenese notif event
+italy.15 = {
+	type = country_event
+	title = italy.15.title
+	desc = italy.15.desc
+
+	trigger = { }
+
+	option = { # acknowlege
+		name = italy.15.a
+	}
+}
+
+# Parman + Modenese event angry
+italy.16 = {
+	type = country_event
+	title = italy.16.title
+	desc = italy.16.desc
+
+	trigger = { }
+
+	option = { # accept
+		name = italy.16.a
+
+		change_global_variable = {
+			name = tuscan_approval_number
+			add = 1
+		}
+
+		if = {
+			limit = {
+				tag = PAR
+			}
+			set_global_variable = par_florence_conceded
+		}
+
+		if = {
+			limit = {
+				tag = MOD
+			}
+			set_global_variable = mod_florence_conceded
+		}
+	}
+	
+	option = { # refuse
+		name = italy.16.b
+
+		save_scope_as = from
+		c:TUS = { trigger_event_non_silently = italy.17 }
+	}
+}
+
+# Tuscan response
+italy.17 = {
+	type = country_event
+	title = italy.17.title
+	desc = italy.17.desc
+
+	trigger = { }
+
+	option = { # offer money
+		name = italy.17.a
+
+		scope:from = { trigger_event_non_silently = italy.18 }
+	}
+	
+	option = { # accept
+		name = italy.17.b
+
+		change_global_variable = {
+			name = tuscan_approval_number
+			add = 1
+		}
+
+		if = {
+			limit = {
+				OR = {
+					AND = {
+						global_var:tuscan_approval_number = 2
+ 						global_var:treaty_florence_result = 3
+					}
+					AND = {
+						global_var:tuscan_approval_number = 1
+ 						global_var:treaty_florence_result = 2
+					}
+				}
+			}
+			trigger_event_non_silently = italy.21
+		}
+	}
+}
+
+# Parma/Modena response
+italy.18 = {
+	type = country_event
+	title = italy.18.title
+	desc = italy.18.desc
+
+	trigger = { }
+
+	option = { # accept money
+		name = italy.18.a
+
+		change_global_variable = {
+			name = tuscan_approval_number
+			add = 1
+		}
+
+		if = {
+			limit = {
+				tag = PAR
+			}
+			set_global_variable = par_florence_conceded
+		}
+
+		if = {
+			limit = {
+				tag = MOD
+			}
+			set_global_variable = mod_florence_conceded
+		}
+
+		c:TUS = { trigger_event_non_silently = italy.19 }
+	}
+	
+	option = { # reject
+		name = italy.18.b
+
+		change_global_variable = {
+			name = tuscan_approval_number
+			add = 1
+		}
+
+		c:TUS = { trigger_event_non_silently = italy.20 }
+	}
+}
+
+# Tuscan notif accepted money
+italy.19 = {
+	type = country_event
+	title = italy.19.title
+	desc = italy.19.desc
+
+	trigger = { }
+
+	option = {
+		name = italy.19.a
+
+		if = {
+			limit = {
+				OR = {
+					AND = {
+						global_var:tuscan_approval_number = 2
+ 						global_var:treaty_florence_result = 3
+					}
+					AND = {
+						global_var:tuscan_approval_number = 1
+ 						global_var:treaty_florence_result = 2
+					}
+				}
+			}
+			trigger_event_non_silently = italy.21
+		}
+	}
+}
+
+# Tuscan notif rejected money
+italy.20 = {
+	type = country_event
+	title = italy.20.title
+	desc = italy.20.desc
+
+	trigger = { }
+
+	option = { # accept the result
+		name = italy.20.a
+
+		if = {
+			limit = {
+				OR = {
+					AND = {
+						global_var:tuscan_approval_number = 2
+ 						global_var:treaty_florence_result = 3
+					}
+					AND = {
+						global_var:tuscan_approval_number = 1
+ 						global_var:treaty_florence_result = 2
+					}
+				}
+			}
+			trigger_event_non_silently = italy.21
+		}
+	}
+
+	option = { # war
+		name = italy.20.b
+
+		add_casus_belli = { target = scope:from type = casus_belli:cb_annex }
+		declare_war_with_cb = { target = scope:from type = casus_belli:cb_annex }
+		random_current_war = {
+			limit = {
+				or = {
+					attacker_leader = c:TUS
+					defender_leader = scope:from
+				}
+			}
+			save_scope_as = tuscan_war
+		}
+		c:HAB = {
+			join_war_with = {
+				target = scope:from
+				war = scope:tuscan_war
+				call_in_subjects = no
+			}
+		}
+	}
+}
+
+# Final treaty
+italy.21 = {
+	type = country_event
+	title = italy.21.title
+	desc = italy.21.desc
+
+	trigger = { }
+
+	fire_only_once = yes
+
+	option = { # treaty
+		name = italy.21.a
+
+		if = { # Congress of Vienna one
+			limit = {
+				global_var:treaty_florence_result = 1
+			}
+			# border changes
+				annex_country = {
+					country = c:LUC
+				}
+				location:barga = {
+					change_location_owner = c:MOD
+				}
+				location:pietrasanta = {
+					change_location_owner = c:MOD
+				}
+				location:fivizziano = {
+					change_location_owner = c:MOD
+				}
+				location:castiglione = {
+					change_location_owner = c:MOD
+				}
+				location:montignoso = {
+					change_location_owner = c:MOD
+				}
+				location:minucchiano = {
+					change_location_owner = c:MOD
+				}
+				location:gallicano = {
+					change_location_owner = c:MOD
+				}
+			if = { # Rationalized
+				limit = {
+					has_global_variable = treaty_florence_rationalized
+				}
+				location:arpiola_pianfurcano = {
+					change_location_owner = c:TUS
+				}
+				location:rochetta_di_vara = {
+					change_location_owner = c:TUS
+				}
+				location:villafranca_lugiana = {
+					change_location_owner = c:TUS
+				}
+				location:bagnone = {
+					change_location_owner = c:MOD
+				}
+				location:calice_e_albiano = {
+					change_location_owner = c:MOD
+				}
+				
+			}
+			# Unrationalized - the effective "else"
+		}
+		else_if = { # Congress of Vienna but small Tuscan gains
+			limit = {
+				global_var:treaty_florence_result = 2
+			}
+			# border changes
+				annex_country = {
+					country = c:LUC
+				}
+				location:fivizziano = {
+					change_location_owner = c:MOD
+				}
+				location:castiglione = {
+					change_location_owner = c:MOD
+				}
+				location:montignoso = {
+					change_location_owner = c:MOD
+				}
+				location:minucchiano = {
+					change_location_owner = c:MOD
+				}
+				location:gallicano = {
+					change_location_owner = c:MOD
+				}
+			if = { # Rationalized
+				limit = {
+					has_global_variable = treaty_florence_rationalized
+				}
+				# border changes
+					location:arpiola_pianfurcano = {
+						change_location_owner = c:TUS
+					}
+					location:rochetta_di_vara = {
+						change_location_owner = c:TUS
+					}
+					location:villafranca_lugiana = {
+						change_location_owner = c:TUS
+					}
+					location:bagnone = {
+						change_location_owner = c:MOD
+					}
+					location:calice_e_albiano = {
+						change_location_owner = c:MOD
+					}
+				if = {
+					limit = {
+						has_global_variable = mod_florence_conceded
+					}
+					location:bagnone = {
+						change_location_owner = c:TUS
+					}
+					location:calice_e_albiano = {
+						change_location_owner = c:TUS
+					}
+					location:fivizziano = {
+						change_location_owner = c:TUS
+					}
+				}
+			}
+			else = { # Not Rationalized
+				if = {
+					limit = {
+						has_global_variable = mod_florence_conceded
+					}
+					location:fivizziano = {
+						change_location_owner = c:TUS
+					}
+				}
+			}
+		}
+		else_if = { # Historical treaty
+			limit = {
+				global_var:treaty_florence_result = 3
+			}
+			# border changes
+				annex_country = {
+					country = c:LUC
+				}
+				location:fivizziano = {
+					change_location_owner = c:MOD
+				}
+				location:castiglione = {
+					change_location_owner = c:MOD
+				}
+				location:montignoso = {
+					change_location_owner = c:MOD
+				}
+				location:minucchiano = {
+					change_location_owner = c:MOD
+				}
+				location:gallicano = {
+					change_location_owner = c:MOD
+				}
+				location:guastalla = {
+					change_location_owner = c:MOD
+				}
+				location:pontremoli = {
+					change_location_owner = c:PAR
+				}
+				location:coloretta = {
+					change_location_owner = c:PAR
+				}
+				location:bagnone = {
+					change_location_owner = c:PAR
+				}
+				location:calice_e_albiano = {
+					change_location_owner = c:PAR
+				}
+			if = {
+				limit = {
+					has_global_variable = treaty_florence_rationalized
+				}
+				# border changes
+					location:coloretta = {
+						change_location_owner = c:MOD
+					}
+					location:bagnone = {
+						change_location_owner = c:MOD
+					}
+					location:calice_e_albiano = {
+						change_location_owner = c:MOD
+					}
+				if = {
+					limit = {
+						has_global_variable = mod_florence_conceded
+					}
+					location:fivizziano = {
+						change_location_owner = c:TUS
+					}
+					location:bagnone = {
+						change_location_owner = c:TUS
+					}
+					location:calice_e_albiano = {
+						change_location_owner = c:TUS
+					}
+					location:coloretta = {
+						change_location_owner = c:TUS
+					}
+				}
+				if = {
+					limit = {
+						has_global_variable = par_florence_conceded
+					}
+					location:pontremoli = {
+						change_location_owner = c:TUS
+					}
+				}
+			}
+			else = {
+				if = {
+					limit = {
+						has_global_variable = mod_florence_conceded
+					}
+					location:fivizziano = {
+						change_location_owner = c:TUS
+					}
+				}
+				if = {
+					limit = {
+						has_global_variable = par_florence_conceded
+					}
+					location:pontremoli = {
+						change_location_owner = c:TUS
+					}
+					location:coloretta = {
+						change_location_owner = c:TUS
+					}
+					location:bagnone = {
+						change_location_owner = c:TUS
+					}
+					location:calice_e_albiano = {
+						change_location_owner = c:TUS
+					}
+				}
+			}
+		}
+	}
+}
