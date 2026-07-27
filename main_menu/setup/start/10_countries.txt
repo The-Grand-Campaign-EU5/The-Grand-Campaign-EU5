@@ -5907,7 +5907,7 @@ countries = {
 				puddokothai
 			}
 
-		 }
+		}
 		PDU = {
 			include = "expl_whole_world"
 			

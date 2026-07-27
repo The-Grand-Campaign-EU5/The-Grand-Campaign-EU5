@@ -5,8 +5,7 @@
 	text = { localization_key = country_history_ARA trigger = { tag = ARA } } # Aragon
 	text = { localization_key = country_history_ARM trigger = { tag = ARM } } # Armenia
 	text = { localization_key = country_history_AZT trigger = { tag = TNC } } # Aztecs
-	text = { localization_key = country_history_BAV trigger = { tag = LBV } } # Lower Bavaria
-	text = { localization_key = country_history_BAV trigger = { tag = UBV } } # Upper Bavaria
+	text = { localization_key = country_history_BAV trigger = { tag = BAV } } # Lower Bavaria
 	text = { localization_key = country_history_BOH trigger = { tag = BOH } } # Bohemia
 	text = { localization_key = country_history_BRA trigger = { tag = BRA } } # Brandenburg
 	text = { localization_key = country_history_BRB trigger = { tag = BRB } } # Brabant
@@ -45,23 +44,7 @@
 	text = { localization_key = country_history_KHM trigger = { tag = KHM } } # Khmer
 	text = { localization_key = country_history_KNI trigger = { tag = KNI } } # Knights Hospitaller
 	text = { localization_key = country_history_KOR trigger = { tag = KOR } } # Korea
-	text = { localization_key = country_history_LAV trigger = { OR = { tag = LAV   tag = ADH   tag = SPN } } } # Lavo/Ayodhya/Shupanburi
-	text = { localization_key = country_history_LIE trigger = { tag = LIE } } # Liege
-	text = { localization_key = country_history_LIT trigger = { tag = LIT } } # Lithuania
-	text = { localization_key = country_history_LUX trigger = { tag = LUX } } # Luxembourg	
-	text = { localization_key = country_history_MAC trigger = { tag = MAC } } # March
-	text = { localization_key = country_history_MAJ trigger = { tag = MAJ } } # Majapahit
-	text = { localization_key = country_history_MAL trigger = { tag = MAL } } # Mali
-	text = { localization_key = country_history_MAM trigger = { tag = MAM } } # Mamluks
-	text = { localization_key = country_history_MEI trigger = { tag = MEI } } # Meissen
-	text = { localization_key = country_history_MLO trigger = { tag = MLO } } # Milan
 	text = { localization_key = country_history_MOR trigger = { tag = MOR } } # Morocco
-	text = { localization_key = country_history_MOS trigger = { tag = MOS } } # Muscovy
-	text = { localization_key = country_history_NAV trigger = { tag = NAV } } # Navarra
-	text = { localization_key = country_history_NAP trigger = { tag = NAP } } # Naples
-	text = { localization_key = country_history_NOV trigger = { tag = NOV } } # Novgorod
-	text = { localization_key = country_history_NTC trigger = { tag = NTC } } # Japanese Northern Court
-	text = { localization_key = country_history_PAL trigger = { tag = PAL } } # Palatinate of the Rhine
 	text = { localization_key = country_history_PAP trigger = { tag = PAP } } # Papal State	
 	text = { localization_key = country_history_PLE trigger = { tag = PLE } } # Pale
 	text = { localization_key = country_history_POL trigger = { tag = POL } } # Poland

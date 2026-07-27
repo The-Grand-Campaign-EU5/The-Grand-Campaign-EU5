@@ -10441,7 +10441,7 @@ character_db = {
       birth_date = 1320.1.1
       birth = helsingor
       dynasty = estrid_dynasty
-      tag = UBV
+      tag = JAN
    }
    dan_helvig = { #Would not marry until 1340 - Mother of Margarete
       first_name = { name = name_helvig }
@@ -23504,7 +23504,7 @@ character_db = {
       death_date = 1313.10.28
       birth = munich
       dynasty = gorz_dynasty
-      tag = UBV
+      tag = JAN
    }
    hab_albrecht_i_habsburg = {
       first_name = { name = name_albert }
@@ -43346,7 +43346,7 @@ character_db = {
       birth_date = 1300.1.1
       birth = verona
       dynasty = nogarola_dynasty
-      tag = LCA
+      tag = JAN
    }
    ver_cagnolo_nogarola = {
       first_name = { name = name_canius }
@@ -43853,7 +43853,7 @@ character_db = {
       birth = milano
       #mother = Agatha of Ginevra
       dynasty = della_torre_dynasty
-      tag = LCA
+      tag = JAN
    }
    mlo_mosca_della_torre = {
       first_name = { name = name_conrad }
@@ -50138,7 +50138,7 @@ character_db = {
       death_date = 1328.1.1
       birth = milano
       dynasty = visconti_dynasty
-      tag = LCA
+      tag = JAN
    }
    mlo_ottone_visconti = {
       first_name = { name = name_otto }
@@ -50530,7 +50530,7 @@ character_db = {
       #father = Ruggero Rusconi
       #mother = Unknown
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_pietro_rusconi = {
       first_name = { name = name_peter }
@@ -50544,7 +50544,7 @@ character_db = {
       birth = como
       #mother = Unknown
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_franchino_i_rusconi = {
       first_name = { name = name_francis }
@@ -50560,7 +50560,7 @@ character_db = {
       birth = como
       #mother = Unknown
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_lotario_rusconi = {
       first_name = { name = name_lothar }
@@ -50573,7 +50573,7 @@ character_db = {
       birth_date = 1315.1.1 # Mother died 1328 & Son born in 1360
       birth = como
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_alberto_rusconi = {
       first_name = { name = name_albert }
@@ -50586,7 +50586,7 @@ character_db = {
       birth_date = 1317.1.1 # First marriage son
       birth = como
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_ottone_rusconi = {
       first_name = { name = name_otto }
@@ -50599,7 +50599,7 @@ character_db = {
       birth_date = 1319.1.1 # First marriage son
       birth = como
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_bonacossa_rusconi = {
       first_name = { name = name_bonacossa }
@@ -50613,7 +50613,7 @@ character_db = {
       birth_date = 1321.1.1 # First marriage daughter
       birth = como
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_matteo_rusconi = {
       first_name = { name = name_matthew }
@@ -50626,7 +50626,7 @@ character_db = {
       birth = como
       #mother = Giacoma Tizzoni
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    lca_angelo_rusconi = {
       first_name = { name = name_angel }
@@ -50642,7 +50642,7 @@ character_db = {
       birth = como
       #mother = Giacoma Tizzoni
       dynasty = rusconi_dynasty
-      tag = LCA
+      tag = JAN
    }
    # MILANESE COURTIERS
    mlo_francesco_pecorari = {
@@ -53126,7 +53126,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = palermo
       dynasty = barcelona_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Duke of Athens & Neopatras & Son of the King of Sicily
    ath_william = {
@@ -81609,7 +81609,7 @@ character_db = {
       birth = padova
       #mother = Kunigunde von Altdorf
       dynasty = welfen_dynasty # Should be dynasty = welfen_altdorf_dynasty # Founder of the Younger Welf Dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    bav_heinrich_ix_altdorf = {
       first_name = { name = name_henry }
@@ -81631,7 +81631,7 @@ character_db = {
       birth = ravensburg
       #mother = Judith of Flanders
       dynasty = welfen_dynasty # Should be dynasty = welfen_altdorf_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    sax_heinrich_the_proud = {
       first_name = { name = name_henry }
@@ -82901,7 +82901,7 @@ character_db = {
       religion = catholic
       birth_date = 1275.1.1
       birth = salzburg
-      tag = SLZ
+      tag = JAN
    }
    #Bamberg
    bam_leopold_ii_von_egloffstein = { #Ruler
@@ -82912,7 +82912,7 @@ character_db = {
       religion = catholic
       birth_date = 1300.1.1
       birth = bamberg
-      tag = BAM
+      tag = JAN
    }
    #Augsburg
    aug_ulrich_von_schonegg = { #Ruler
@@ -82923,7 +82923,7 @@ character_db = {
       religion = catholic
       birth_date = 1287.1.1
       birth = augsburg
-      tag = AUG
+      tag = JAN
    }
    #Askanier
    bra_albrecht_i_askanier = { #"Father" of the Askanier dynasty, created for the whole purpose to make complicated inheritance conflicts in the HRE
@@ -83072,7 +83072,7 @@ character_db = {
       death_date = 1304.12.23
       birth = aarau
       dynasty = habsburg_dynasty
-      tag = UBV
+      tag = JAN
    }
    pal_konrad_hohenstaufen = {
       first_name = { name = name_conrad }
@@ -83086,7 +83086,7 @@ character_db = {
       birth = haguenau
       #mother = Agnes von Saarbrucken
       dynasty = hohenstaufen_dynasty
-      tag = PAL
+      tag = JAN
    }
    pal_agnes_hohenstaufen = {
       first_name = { name = name_agnes }
@@ -83103,7 +83103,7 @@ character_db = {
       death_date = 1204.5.9
       birth = heidelberg
       dynasty = hohenstaufen_dynasty
-      tag = PAL
+      tag = JAN
    }
    # Line of the Counts Palatines of the Rhine
    pal_heinrich_v_welf = {
@@ -83143,7 +83143,7 @@ character_db = {
       death_date = 1267.1.1
       birth = heidelberg
       dynasty = welfen_dynasty # Should be welfen_palatinate_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    # HOUSE OF WITTELSBACH (Dukes of Bavaria, Electors Palatines & Others)
    bav_otto_iv_scheyern = {
@@ -83161,7 +83161,7 @@ character_db = {
       #father = Eckhard von Scheyern
       #mother = Richgard von Krain
       dynasty = wittelsbach_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    bav_otto_i_wittelsbach = {
       first_name = { name = name_otto }
@@ -83181,7 +83181,7 @@ character_db = {
       birth = landshut
       #mother = Heilika von Legenfeld
       dynasty = wittelsbach_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    bav_ludwig_i_wittelsbach = {
       first_name = { name = name_louis }
@@ -83205,7 +83205,7 @@ character_db = {
       birth = landshut
       #mother = Agnes van Loon
       dynasty = wittelsbach_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    # Grandfather of the Holy Roman Emperor & Duke of Upper Bavaria & Former Duke of Bavaria
    bav_otto_ii_wittelsbach = {
@@ -83225,7 +83225,7 @@ character_db = {
       birth = landshut
       #mother = Ludmilla of Bohemia
       dynasty = wittelsbach_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    # Father of the Holy Roman Emperor & Duke of Upper Bavaria & Grandfather of the Elector Palatine & Former Duke of Upper Bavaria & Elector Palatine
    ubv_ludwig_ii_wittelsbach = { #Father of Upper danube_bavarian Ruler
@@ -83246,7 +83246,7 @@ character_db = {
       death_date = 1294.2.2
       birth = heidelberg
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    bra_agnes_wittelsbach = {
       first_name = { name = name_agnes }
@@ -83782,7 +83782,7 @@ character_db = {
       birth_date = 1287.1.1
       birth = dresden
       dynasty = askanier_dynasty
-      tag = PSS
+      tag = JAN
    }
    #Grafenau
    grf_johann_von_hals = { #Ruler
@@ -83793,7 +83793,7 @@ character_db = {
       birth_date = 1285.1.1
       birth = grafenau
       dynasty = hals_dynasty
-      tag = GRF
+      tag = JAN
    }
    grf_leopold_von_hals = { #Heir of Ruler
       first_name = { name = name_leopold }
@@ -83804,7 +83804,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = grafenau
       dynasty = hals_dynasty
-      tag = GRF
+      tag = JAN
    }
    #Regensburg
    reg_nikolaus_von_ybbs = { #Bishop of Regensburg
@@ -83814,7 +83814,7 @@ character_db = {
       religion = catholic
       birth_date = 1270.1.1
       birth = melk #Ybbs an der Donau
-      tag = UBV
+      tag = JAN
    }
    #Parsberg
    #https://de.wikipedia.org/wiki/Parsberg_(Adelsgeschlecht)
@@ -83826,7 +83826,7 @@ character_db = {
       birth_date = 1283.1.1
       birth = parsberg
       dynasty = parsberg_dynasty
-      tag = UBV
+      tag = JAN
    }
    #Freising
    #fre_konrad_von_klingenberg = { #Ruler in exile
@@ -83836,7 +83836,7 @@ character_db = {
    #	birth_date = 1279.1.1
    #	birth = freising
    #	#dynasty = klingenberg_dynasty
-   #	tag = UBV
+   #	tag = JAN
    #}
    ubv_johannes_von_gottingen = { #Ruler
       first_name = { name = Johannes_Hake }
@@ -83845,7 +83845,7 @@ character_db = {
       religion = catholic
       birth_date = 1280.1.1
       birth = freising
-      tag = UBV
+      tag = JAN
    }
    #Eichst?tt
    eic_heinrich_v_schenk_von_reicheneck = { #Ruler
@@ -83856,7 +83856,7 @@ character_db = {
       religion = catholic
       birth_date = 1295.1.1
       birth = eichstatt
-      tag = EIC
+      tag = JAN
    }
    #Berchtesgaden
    brc_heinrich_iv = { #Ruler
@@ -83867,7 +83867,7 @@ character_db = {
       religion = catholic
       birth_date = 1296.1.1
       birth = berchtesgaden
-      tag = BRC
+      tag = JAN
    }
    #Henneberg
    hnb_berthold_iv_henneberg_schleusingen = { #Ruler
@@ -84178,7 +84178,7 @@ character_db = {
       birth = balingen
       #mother = Unknown
       dynasty = hohenzollern_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_konrad_i_von_nurnberg = {
       first_name = { name = name_conrad }
@@ -84199,7 +84199,7 @@ character_db = {
       birth = balingen
       #mother = Sophia von Raabs
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Grandfather of the Burgrave of N?rnberg & Former Burgrave
    ans_friedrich_iii_von_nurnberg = {
@@ -84221,7 +84221,7 @@ character_db = {
       birth = nuremberg
       #mother = Adelheid von Frontenhausen
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Father of the Burgrave of N?rnberg & Previous Burgrave
    ans_friedrich_iv_von_nurnberg = {
@@ -84243,7 +84243,7 @@ character_db = {
       birth = nuremberg
       #mother = Helena von Sachsen
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Mother of the Count of Leuchtenberg & Sister of the Burgrave of N?rnberg
    leu_anna_von_nurnberg = {
@@ -84263,7 +84263,7 @@ character_db = {
       birth_date = 1314.1.1
       birth = nuremberg
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = LBV
+      tag = JAN
    }
    leu_ulrich_ii_leuchtenberg = { #Ruler
       first_name = { name = name_ulrick }
@@ -84384,7 +84384,7 @@ character_db = {
       death_date = 1308.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_konrad_ii_schlusselberg = { #Ruler
       first_name = { name = name_conrad }
@@ -84395,7 +84395,7 @@ character_db = {
       birth_date = 1277.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_agnes_schlusselberg = { #Daughter of Ruler
       first_name = { name = name_agnes }
@@ -84407,7 +84407,7 @@ character_db = {
       birth_date = 1320.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_anna_schlusselberg = { #Daughter of Ruler
       first_name = { name = name_anna }
@@ -84419,7 +84419,7 @@ character_db = {
       birth_date = 1323.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_beatrix_schlusselberg = { #Daughter of Ruler
       first_name = { name = name_beatrix }
@@ -84431,7 +84431,7 @@ character_db = {
       birth_date = 1326.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_agnes_von_wurttemberg_helfenstein = { #Second Spouse of Ruler
       first_name = { name = name_conrad }
@@ -84445,7 +84445,7 @@ character_db = {
       birth_date = 1305.1.1
       birth = stuttgart
       dynasty = wurttemberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_hildegard_schlusselberg = { #Daughter of Ruler
       first_name = { name = name_hildegard }
@@ -84458,7 +84458,7 @@ character_db = {
       birth_date = 1327.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_sophia_schlusselberg = { #Daughter of Ruler
       first_name = { name = name_sophia }
@@ -84471,7 +84471,7 @@ character_db = {
       birth_date = 1330.1.1
       birth = leuchtenberg
       dynasty = schlusselberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    #T?bingen
    tub_wilhelm_ii_tubingen = { #Father of Ruler
@@ -84959,7 +84959,7 @@ character_db = {
       death_date = 1290.2.3
       birth = heidelberg
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty # Founder of the Lower Bavaria line of the House of Wittelsbach
-      tag = LBV
+      tag = JAN
    }
    # Father of the Duke of Lower Bavaria & Former Duke
    lbv_stephan_wittelsbach = {
@@ -84976,7 +84976,7 @@ character_db = {
       birth = landshut
       #mother = Ersz?bet ??rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    gor_beatrix_of_lower_bavaria = {
       first_name = { name = name_beatrix }
@@ -85225,7 +85225,7 @@ character_db = {
       death_date = 1260.1.1
       birth = feldkirch
       dynasty = montfort_feldkirch_dynasty
-      tag = MFK
+      tag = JAN
    }
    mfk_rudolf_iii_montfort = { #Grandfather of Ruler
       first_name = { name = name_rudolf }
@@ -85237,7 +85237,7 @@ character_db = {
       death_date = 1314.1.1
       birth = feldkirch
       dynasty = montfort_feldkirch_dynasty
-      tag = MFK
+      tag = JAN
    }
    #Montfort-Feldkirch branch
    mfk_hugo_iv_montfort = { #Father of Ruler
@@ -85250,7 +85250,7 @@ character_db = {
       death_date = 1310.2.1
       birth = feldkirch
       dynasty = montfort_feldkirch_dynasty
-      tag = MFK
+      tag = JAN
    }
    mfk_rudolf_iv_montfort = { #Ruler
       first_name = { name = name_rudolf }
@@ -85261,7 +85261,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = feldkirch
       dynasty = montfort_feldkirch_dynasty
-      tag = MFK
+      tag = JAN
    }
    #Montfort-Bregenz branch
    mbz_ulrich_montfort = { #Father of Ruler
@@ -85274,7 +85274,7 @@ character_db = {
       death_date = 1287.1.1
       birth = feldkirch
       dynasty = montfort_bregenz_dynasty
-      tag = MBZ
+      tag = JAN
    }
    mbz_hugo_montfort = { #Ruler
       first_name = { name = name_hugh }
@@ -85285,7 +85285,7 @@ character_db = {
       birth_date = 1280.1.1
       birth = bregenz
       dynasty = montfort_bregenz_dynasty
-      tag = MBZ
+      tag = JAN
    }
    #Werdenberg
    #Werdenberg-Heiligenberg branch
@@ -85298,7 +85298,7 @@ character_db = {
       death_date = 1305.1.1
       birth = werdenberg
       dynasty = werdenberg_dynasty
-      tag = WER
+      tag = JAN
    }
    wer_albrecht_werdenberg = { #Ruler
       first_name = { name = name_albert }
@@ -85309,7 +85309,7 @@ character_db = {
       birth_date = 1305.1.1
       birth = werdenberg
       dynasty = werdenberg_dynasty
-      tag = WER
+      tag = JAN
    }
    #Freiburg
    fbg_egino_ii_freiburg = { #Father of Ruler
@@ -85425,7 +85425,7 @@ character_db = {
       birth_date = 1260.1.1 #unknown
       death_date = 1334.3.28
       birth = st_gallen
-      tag = BCH
+      tag = JAN
    }
    bch_johann_von_pfefferhart = { #Previous Ruler
       first_name = { name = name_john }
@@ -85435,7 +85435,7 @@ character_db = {
       birth_date = 1290.1.1 #unknown before 1300
       death_date = 1331.5.23
       birth = konstanz
-      tag = BCH
+      tag = JAN
    }
    bch_ulrich_von_lenzburg = { #Ruler
       first_name = { name = name_ulrick }
@@ -85445,7 +85445,7 @@ character_db = {
       religion = catholic
       birth_date = 1297.1.1
       birth = chur
-      tag = BCH
+      tag = JAN
    }
    #Zurich
    zur_rudolf_brun = { #Ruler
@@ -85475,7 +85475,7 @@ character_db = {
       religion = catholic
       birth_date = 1294.1.1 #unknown
       birth = solothurn
-      tag = SLT
+      tag = JAN
    }
    slt_hugo_von_durrach = { #Relative of Ruler ruled in succession with above
       first_name = { name = name_hugh }
@@ -85489,7 +85489,7 @@ character_db = {
       religion = catholic
       birth_date = 1290.1.1 #unknown
       birth = solothurn
-      tag = SLT
+      tag = JAN
    }
    #Sion
    sit_boniface_de_challant = { #Previous Ruler
@@ -85500,7 +85500,7 @@ character_db = {
       birth_date = 1240.1.1 #unknown
       death_date = 1308.7.1
       birth = aosta
-      tag = SIT
+      tag = JAN
    }
    sit_aymon_de_chatillon = { #Previous Ruler
       first_name = { name = Aymon }
@@ -85510,7 +85510,7 @@ character_db = {
       birth_date = 1260.1.1 #unknown
       death_date = 1323.7.19
       birth = aosta
-      tag = SIT
+      tag = JAN
    }
    #https://fr.wikipedia.org/wiki/Liste_des_%C3%A9v%C3%AAques_de_Sion
    sit_aymon_iv_de_la_tour_dit_de_chatillon = { #Ruler
@@ -85521,7 +85521,7 @@ character_db = {
       religion = catholic
       birth_date = 1270.1.1
       birth = sion
-      tag = SIT
+      tag = JAN
    }
    #Basel
    bas_gerhard_von_wippingen = { #Previous Ruler
@@ -85652,7 +85652,7 @@ character_db = {
       birth_date = 1259.1.1
       death_date = 1309.7.30
       birth = yverdon_les_bains
-      tag = LSA
+      tag = JAN
    }
    lsa_pierre_de_oron = { #Ruler
       first_name = { name = name_peter }
@@ -85662,7 +85662,7 @@ character_db = {
       birth_date = 1260.1.1 #unknown
       death_date = 1323.3.27
       birth = montreux
-      tag = LSA
+      tag = JAN
    }
    lsa_jean_de_roussillon = { #Ruler
       first_name = { name = name_john }
@@ -85672,7 +85672,7 @@ character_db = {
       religion = catholic
       birth_date = 1280.1.1
       birth = lausanne
-      tag = LSA
+      tag = JAN
    }
    #Metz
    mtz_aymar_adhemar_de_la_garde = { #Ruler
@@ -85695,7 +85695,7 @@ character_db = {
       death_date = 1276.1.1
       birth = frutigen
       dynasty = turn_dynasty
-      tag = TRN
+      tag = JAN
    }
    trn_peter_ii_turn = { #Father of Ruler
       first_name = { name = name_peter }
@@ -85707,7 +85707,7 @@ character_db = {
       death_date = 1308.1.1
       birth = frutigen
       dynasty = turn_dynasty
-      tag = TRN
+      tag = JAN
    }
    trn_johann_turn = { #Father of Ruler
       first_name = { name = name_john }
@@ -85719,7 +85719,7 @@ character_db = {
       death_date = 1324.1.1
       birth = frutigen
       dynasty = turn_dynasty
-      tag = TRN
+      tag = JAN
    }
    trn_peter_iii_turn = { #Ruler
       first_name = { name = name_peter }
@@ -85730,7 +85730,7 @@ character_db = {
       birth_date = 1299.1.1
       birth = frutigen
       dynasty = turn_dynasty
-      tag = TRN
+      tag = JAN
    }
    trn_agnes_von_grandson = { #Spouse of Ruler
       first_name = { name = name_agnes }
@@ -85745,7 +85745,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = frutigen
       dynasty = grandson_dynasty
-      tag = TRN
+      tag = JAN
    }
    trn_anton_turn = { #Heir
       first_name = { name = name_anthony }
@@ -85757,7 +85757,7 @@ character_db = {
       birth_date = 1336.1.1
       birth = frutigen
       dynasty = turn_dynasty
-      tag = TRN
+      tag = JAN
    }
    #Kyburg (Neu-Kyburg)
    kyb_eberhard_i_kyburg = { #Grandfather of Ruler
@@ -85769,7 +85769,7 @@ character_db = {
       death_date = 1284.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_hartmann_kyburg = { #Father of Ruler
       first_name = { name = name_hartmann }
@@ -85781,7 +85781,7 @@ character_db = {
       death_date = 1301.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_hartmann_ii_kyburg = { #Previous Ruler
       first_name = { name = name_hartmann }
@@ -85793,7 +85793,7 @@ character_db = {
       death_date = 1322.10.31
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_eberhard_ii_kyburg = { #Ruler
       first_name = { name = name_everard }
@@ -85804,7 +85804,7 @@ character_db = {
       birth_date = 1299.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_anastasia_von_signau = { #Spouse of Ruler
       first_name = { name = name_anastasia }
@@ -85817,7 +85817,7 @@ character_db = {
       birth_date = 1302.1.1
       birth = burgdorf_emmental
       #dynasty = signau_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_eberhard_iii_kyburg = { #Son of Ruler
       first_name = { name = name_everard }
@@ -85829,7 +85829,7 @@ character_db = {
       birth_date = 1328.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = KYB
+      tag = JAN
    }
    kyb_egon_kyburg = { #Son of Ruler
       first_name = { name = Egon }
@@ -85841,7 +85841,7 @@ character_db = {
       birth_date = 1330.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = TRN
+      tag = JAN
    }
    kyb_hartmann_iii_kyburg = { #Son of Ruler
       first_name = { name = name_hartmann }
@@ -85853,7 +85853,7 @@ character_db = {
       birth_date = 1333.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = TRN
+      tag = JAN
    }
    kyb_margaretha_kyburg = { #Daughter of Ruler
       first_name = { name = name_margaret }
@@ -85866,7 +85866,7 @@ character_db = {
       birth_date = 1335.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = TRN
+      tag = JAN
    }
    wer_katharina_kyburg = { #Sister of Ruler
       first_name = { name = name_catherine }
@@ -85880,7 +85880,7 @@ character_db = {
       birth_date = 1301.1.1
       birth = burgdorf_emmental
       dynasty = neu_kyburg_dynasty
-      tag = WER
+      tag = JAN
    }
    #Neuch?tel
    neu_bertoldo_i_neuchatel = { #Father of Ruler
@@ -86264,7 +86264,7 @@ character_db = {
       death_date = 1322.8.24
       birth = munich
       dynasty = piast_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Line of the Dukes of Upper Bavaria & later United Bavaria & scions, Electors of Brandenburg & Counts of Hainaut & Holland
    ubv_ludwig_iv_wittelsbach = { #Ruler of Upper Bavaria, Emperor of the HRE
@@ -86285,7 +86285,7 @@ character_db = {
       birth_date = 1282.4.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Margravine Consort of Meissen & Daughter of the Holy Roman Emperor & Duke of Upper Bavaria
    mei_mathilde_von_bayern = {
@@ -87339,7 +87339,7 @@ character_db = {
       birth_date = 1311.1.1
       birth = valenciennes
       dynasty = avesnes_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Countess Consort of J?lich & Daughter of the Count of Hainaut, Holland & Zeeland
    jul_jeanne_de_hainaut = {
@@ -87632,7 +87632,7 @@ character_db = {
       birth_date = 1313.7.8
       birth = prague
       dynasty = luxembourg_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Duchess Consort of Normandy & Daughter of the King of Bohemia & Count of Luxembourg
    fra_jutta_luxembourg = {
@@ -88006,7 +88006,7 @@ character_db = {
       death_date = 1320.11.15
       birth = swidnica
       dynasty = piast_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Sister of the Duke of Lower Bavaria
    hab_elisabeth_wittelsbach = {
@@ -88398,7 +88398,7 @@ character_db = {
       birth = nuremberg
       #mother = Helena von Sachsen
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Sister of the Burgrave of N?rnberg
    wma_helena_von_nurnberg = {
@@ -88417,7 +88417,7 @@ character_db = {
       #mother = ans_margarete_gorizia
       #spouse = wma_otto_v_weimar_orlamunde
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Burgrave of N?rnberg
    ans_johann_ii_von_nurnberg = {
@@ -88437,7 +88437,7 @@ character_db = {
       birth = nuremberg
       #mother = ans_margarete_gorizia
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Burgrave Consort of N?rnberg
    ans_elisabeth_von_henneburg = {
@@ -88457,7 +88457,7 @@ character_db = {
       birth = coburg
       #mother = Adelheit von Hessen
       dynasty = henneberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Son & Heir of the Burgrave of N?rnberg
    ans_friedrich_v_von_nurnberg = {
@@ -88474,7 +88474,7 @@ character_db = {
       birth_date = 1333.3.3
       birth = nuremberg
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    # Daughter of the Burgrave of N?rnberg
    ans_anna = {
@@ -88492,7 +88492,7 @@ character_db = {
       birth_date = 1335.1.1
       birth = nuremberg
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    #City of N?rnberg
    nur_rappold_von_kulsheim = { #Reichsschulthei? (Imperial Advocate) of N?rnberg
@@ -88526,7 +88526,7 @@ character_db = {
       #mother = ans_margarete_gorizia
       #spouse = Adolf von Nassau-Wiesbaden-Idstein
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Brother of the Burgrave of N?rnberg
    ans_friedrich_von_nurnberg = {
@@ -88543,7 +88543,7 @@ character_db = {
       birth = nuremberg
       #mother = ans_margarete_gorizia
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = REG
+      tag = JAN
    }
    # Siblings of the Burgrave of N?rnberg
    ans_albrecht_von_nurnberg = {
@@ -88557,7 +88557,7 @@ character_db = {
       birth_date = 1319.1.1
       birth = nuremberg
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    ans_berthold_von_nurnberg = {
       first_name = { name = name_berthold }
@@ -88572,7 +88572,7 @@ character_db = {
       birth_date = 1320.1.1
       birth = nuremberg
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    hab_agnes_von_nurnberg = {
       first_name = { name = name_agnes }
@@ -88608,7 +88608,7 @@ character_db = {
       #mother = ans_margarete_gorizia
       #spouse = Adolf von Nassau-Wiesbaden-Idstein
       dynasty = hohenzollern_nurnberg_dynasty
-      tag = ANS
+      tag = JAN
    }
    hoh_gotfried_von_zimmern = {
       first_name = { name = name_godfrey }
@@ -89827,7 +89827,7 @@ character_db = {
       birth = ravensburg
       #mother = Judith of Flanders
       dynasty = welfen_dynasty # Should be dynasty = welfen_altdorf_dynasty
-      tag = UBV # Should be BAV
+      tag = JAN # Should be BAV
    }
    sic_konrad_altdorf = {
       first_name = { name = name_conrad }
@@ -89860,7 +89860,7 @@ character_db = {
       death_date = 1214.4.26
       birth = heidelberg
       dynasty = welfen_dynasty # Should be welfen_palatinate_dynasty
-      tag = PAL
+      tag = JAN
    }
    # Emperor Otto IV of the Holy Roman Empire
    ogk_otto_iv_welf = {
@@ -90660,7 +90660,7 @@ character_db = {
       death_date = 1319.8.12
       birth = basel
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate # Founder of the Palatinate line of the House of Wittelsbach
-      tag = UBV
+      tag = JAN
    }
    pal_mechthild_von_nassau = { #Mother of Palatinate Ruler
       first_name = { name = name_matilda }
@@ -90675,7 +90675,7 @@ character_db = {
       death_date = 1323.6.19
       birth = wiesbaden
       dynasty = nassau_dynasty
-      tag = PAL
+      tag = JAN
    }
    # Dead brother of the Elector Palatine
    pal_adolf_wittelsbach = {
@@ -90690,7 +90690,7 @@ character_db = {
       death_date = 1327.1.29
       birth = tolz #Wolfratshausen
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate
-      tag = PAL
+      tag = JAN
    }
    # Dead Brother's Widow
    pal_irmengard_oettingen = {
@@ -90703,7 +90703,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = oettingen
       dynasty = oettingen_dynasty
-      tag = PAL
+      tag = JAN
    }
    # Nephew of the Elector Palatine
    pal_ruprecht_ii_wittelsbach = {
@@ -90717,7 +90717,7 @@ character_db = {
       birth_date = 1325.5.12
       birth = amberg
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate
-      tag = PAL
+      tag = JAN
    }
    # Elector Palatine
    pal_rudolf_ii_wittelsbach = {
@@ -90735,7 +90735,7 @@ character_db = {
       birth_date = 1306.8.4
       birth = tolz #Wolfratshausen
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate
-      tag = PAL
+      tag = JAN
    }
    pal_anna_von_tirol = { #Spouse of Ruler
       first_name = { name = name_anna }
@@ -90749,7 +90749,7 @@ character_db = {
       birth_date = 1300.1.1
       birth = merano
       dynasty = gorz_dynasty
-      tag = PAL
+      tag = JAN
    }
    # Daughter of the Elector Palatine
    pal_anna_wittelsbach = {
@@ -90764,7 +90764,7 @@ character_db = {
       birth_date = 1329.9.26
       birth = merano
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate
-      tag = PAL
+      tag = JAN
    }
    # Brother & Heir of the Elector Palatine
    pal_ruprecht_wittelsbach = {
@@ -90783,7 +90783,7 @@ character_db = {
       birth_date = 1309.6.9
       birth = tolz #Wolfratshausen
       dynasty = wittelsbach_dynasty # Should be wittelsbach_palatinate
-      tag = PAL
+      tag = JAN
    }
    # Sister of the Elector Palatine
    pal_mechthild_wittelsbach = {
@@ -90816,7 +90816,7 @@ character_db = {
       religion = catholic
       birth_date = 1287.1.1
       birth = guildford
-      tag = UBV
+      tag = JAN
    }
    ubv_michael_cesena = { #https://de.wikipedia.org/wiki/Michael_von_Cesena
       first_name = { name = name_michael }
@@ -90834,7 +90834,7 @@ character_db = {
       religion = catholic
       birth_date = 1270.1.1
       birth = cesena
-      tag = UBV
+      tag = JAN
    }
    # Elector of Brandenburg, Son & Heir of the Duke of Upper Bavaria
    bra_ludwig_v_wittelsbach = {
@@ -90881,7 +90881,7 @@ character_db = {
       birth_date = 1319.1.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Son of the Co-Heir of the Duke of Upper Bavaria
    ubv_stephen_iii_wittelsbach = {
@@ -90895,7 +90895,7 @@ character_db = {
       birth_date = 1337.1.1
       birth = munich
       dynasty = wittelsbach_dynasty # Should be wittelsbach_ingolstadt_dynasty # Founder of the Ingolstadt line of the Wittelsbachs
-      tag = UBV
+      tag = JAN
    }
    # Daughter of the Holy Roman Emperor & Duke of Upper Bavaria
    ubv_margarete_wittelsbach = {
@@ -90910,7 +90910,7 @@ character_db = {
       birth_date = 1325.1.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Duchess Consort of Lower Bavaria & Daughter of the Holy Roman Emperor & Duke of Upper Bavaria
    ubv_anna_wittelsbach = {
@@ -90927,7 +90927,7 @@ character_db = {
       birth_date = 1326.1.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Son & Co-Heir of the Duke of Upper Bavaria
    ubv_ludwig_vi_wittelsbach = {
@@ -90945,7 +90945,7 @@ character_db = {
       birth_date = 1328.5.7
       birth = rome
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Daughter of the Holy Roman Emperor & Duke of Upper Bavaria
    ubv_elisabeth_wittelsbach = {
@@ -90960,7 +90960,7 @@ character_db = {
       birth_date = 1329.1.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Son & Co-Heir of the Duke of Upper Bavaria
    ubv_wilhelm_wittelsbach = {
@@ -90978,7 +90978,7 @@ character_db = {
       birth_date = 1330.5.12
       birth = frankfurt
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Daughter of the Holy Roman Emperor & Duke of Upper Bavaria
    ubv_agnes_wittelsbach = {
@@ -90993,7 +90993,7 @@ character_db = {
       birth_date = 1335.1.1
       birth = munich
       dynasty = wittelsbach_dynasty
-      tag = UBV
+      tag = JAN
    }
    # Son & Co-Heir of the Duke of Upper Bavaria
    ubv_albrecht_wittelsbach = {
@@ -91012,7 +91012,7 @@ character_db = {
       birth_date = 1336.7.25
       birth = munich
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_hainaut_dynasty # Founder of the Hainaut-Holland line of the House of Wittelsbach
-      tag = UBV
+      tag = JAN
    }
    # Uncle of the Duke of Lower Bavaria & Former Duke
    lbv_otto_iii_wittelsbach = {
@@ -91032,7 +91032,7 @@ character_db = {
       birth = ried
       #mother = Erzs?bet ??rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Cousin of the Duke of Lower Bavaria & Former Duke
    lbv_heinrich_xv_wittelsbach = {
@@ -91047,7 +91047,7 @@ character_db = {
       birth = landshut
       #mother = Agnes of Glogau
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Uncle of the Duke of Lower Bavaria & Former Duke
    lbv_ludwig_iii_wittelsbach = {
@@ -91064,7 +91064,7 @@ character_db = {
       birth = landshut
       #mother = Erzs?bet ??rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Duke of Lower Bavaria
    lbv_heinrich_xiv_wittelsbach = {
@@ -91080,7 +91080,7 @@ character_db = {
       birth_date = 1305.9.29
       birth = landshut
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Son & Heir of the Duke of Lower Bavaria
    lbv_johann_i_wittelsbach = {
@@ -91094,7 +91094,7 @@ character_db = {
       birth_date = 1329.11.29
       birth = landshut
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    # Brother of the Duke of Lower Bavaria & Previous Duke
    lbv_otto_iv_wittelsbach = {
@@ -91109,7 +91109,7 @@ character_db = {
       death_date = 1334.12.14
       birth = landshut
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
-      tag = LBV
+      tag = JAN
    }
    mai_konrad_i_wittelsbach = {
       first_name = { name = name_conrad }

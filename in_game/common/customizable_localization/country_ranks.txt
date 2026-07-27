@@ -1660,18 +1660,6 @@
 	}
 
 	text = {
-		localization_key = rank_duchy_palatinate
-		trigger = {
-			tag = PAL
-
-			OR = {
-				country_rank_is_duchy = yes
-				country_rank_is_county = yes
-			}
-		}
-	}
-
-	text = {
 		localization_key = rank_duchy_principality
 		trigger = {
 			OR = {

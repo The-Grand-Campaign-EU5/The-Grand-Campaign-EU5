@@ -127,23 +127,7 @@ character_address = {
 			}
 		}
 	}
-
-	text = {
-		localization_key = character_address_lordship
-
-		trigger = {
-			is_ruler = yes
-			any_ruling_countries = {
-				government_type = government_type:monarchy
-				OR = {
-					tag = LOI
-					tag = MNN
-					tag = PAL
-				}
-			}
-		}
-	}
-
+	
 	text = {
 		localization_key = character_address_royal_highness
 

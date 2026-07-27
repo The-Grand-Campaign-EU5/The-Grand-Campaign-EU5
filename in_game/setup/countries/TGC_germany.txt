@@ -502,3 +502,82 @@ KNP = {
 	culture_definition = lower_saxon
 	religion_definition = catholic
 }
+
+HAB = {
+	color = map_HAB_AUS
+	color2 = rgb { 220  220  220 }	#Like in EU4
+
+	unit_color0 = rgb {	200 200 200 }
+	unit_color1 = rgb {	157 48 28 }
+	unit_color2 = rgb {	19 20 25 }
+
+	culture_definition = danube_bavarian
+	religion_definition = catholic
+	
+	description_category = diplomatic
+	difficulty = 3
+}
+
+BOH = {
+	color = map_BOH
+	color2 = rgb { 161 139 40 }
+	
+	culture_definition = czech
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 1
+}
+
+MVA = {
+	color = map_MVA
+	color2 = rgb { 232 149 18 }
+	
+	culture_definition = moravian
+	religion_definition = catholic
+}
+
+TIR = {
+	color = rgb { 170 43 21 }
+	
+	culture_definition = southern_bavarian
+	religion_definition = catholic
+}
+
+SLZ = {
+	color = rgb { 129 109 9 }
+	
+	culture_definition = danube_bavarian
+	religion_definition = catholic
+}
+
+STY = {
+	color = rgb { 59 126 59 }
+	
+	culture_definition = southern_bavarian
+	religion_definition = catholic
+}
+
+CRH = {
+	color = rgb { 201 185 40 }
+	
+	culture_definition = southern_bavarian
+	religion_definition = catholic
+}
+
+SWI = {
+	color = map_SWI
+	color2 = rgb { 153 122 108 }	#Like in EU4
+
+	culture_definition = high_alemannic
+	religion_definition = catholic
+	is_historic = yes
+}
+
+NEU = {
+	color =map_NEU
+	
+	culture_definition = franc_comtois
+	religion_definition = catholic
+}
+
