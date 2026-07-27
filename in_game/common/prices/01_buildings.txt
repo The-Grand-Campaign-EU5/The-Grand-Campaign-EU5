@@ -48,22 +48,7 @@ remove_panaqa_early= {
 ###################################
 # generic costs per age
 ###################################
-p_building_age_1_traditions = {
-	gold = build_price_age_of_tradition
-}
-p_building_age_2_renaissance = {
-	gold = build_price_age_of_renaissance
-}
-p_building_age_3_discovery = {
-	gold = build_price_age_of_discovery
-}
-p_building_age_4_reformation = {
-	gold = build_price_age_of_reformation
-}
-p_building_age_5_absolutism = {
-	gold = build_price_age_of_absolutism
-}
-p_building_age_6_revolutions = {
+p_building_age_7_industry = {
 	gold = build_price_age_of_revolution
 }
 
@@ -71,21 +56,6 @@ p_building_age_6_revolutions = {
 ###################################
 # expensive costs per age
 ###################################
-p_expensive_building_age_1_traditions = {
-	gold = expensive_build_price_age_of_tradition
-}
-p_expensive_building_age_2_renaissance = {
-	gold = expensive_build_price_age_of_renaissance
-}
-p_expensive_building_age_3_discovery = {
-	gold = expensive_build_price_age_of_discovery
-}
-p_expensive_building_age_4_reformation = {
-	gold = expensive_build_price_age_of_reformation
-}
-p_expensive_building_age_5_absolutism = {
-	gold = expensive_build_price_age_of_absolutism
-}
-p_expensive_building_age_6_revolutions = {
+p_expensive_building_age_7_industry = {
 	gold = expensive_build_price_age_of_revolution
 }

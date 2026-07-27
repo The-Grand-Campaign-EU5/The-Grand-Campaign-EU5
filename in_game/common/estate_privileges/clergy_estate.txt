@@ -724,38 +724,6 @@ promotion_of_muslim_scholars = {
 	}
 }
 
-autonomous_kadiluks = {
-	estate = clergy_estate
-	
-	potential = {
-		has_or_had_tag = TUR
-		OR = {
-			current_age = age_4_reformation
-			current_age = age_5_absolutism
-			current_age = age_6_revolutions
-		}
-	}
-	allow = {
-		OR = {
-			has_advance = ottoman_tax_farming
-			custom_tooltip = {
-				text = has_enabled_kadiluks_privilege
-				has_variable = autonomous_kadiluks_flag
-			}
-		}
-	}
-	can_revoke = {
-		"estate_power(estate_type:crown_estate)" > 0.5
-	}
-	
-	country_modifier = {
-		monthly_towards_jurisprudence = societal_value_monthly_move
-		clergy_estate_target_satisfaction = medium_privilege_target_satisfaction
-		monthly_towards_decentralization = societal_value_monthly_move
-		global_clergy_estate_power = 0.2
-	}
-}
-
 ira_clerical_aristocracy = {
 	estate = clergy_estate
 

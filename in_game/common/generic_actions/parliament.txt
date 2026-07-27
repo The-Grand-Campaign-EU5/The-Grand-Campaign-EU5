@@ -761,15 +761,6 @@ force_parliament_issue = {
 				type = has_forced_parliament_issue
 				years = 5
 			}
-			if = {
-				limit = {
-					current_age_or_later = { age = age_5_absolutism }
-				}
-				change_societal_value = {
-					type = absolutism_vs_liberalism
-					value = societal_value_move_to_left
-				}
-			}
 		}
 	}
 	ai_tick = daily

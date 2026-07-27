@@ -1072,54 +1072,6 @@ unlock_current_subject_type = {
 	}
 }
 
-nudge_towards_isolationism = {
-	custom_tooltip = isolationism_tt
-	change_societal_value = {
-		type = traditionalist_vs_innovative
-		value = societal_value_minor_move_to_left
-	}
-	change_societal_value = {
-		type = individualism_vs_communalism
-		value = societal_value_minor_move_to_right
-	}
-	if = {
-		limit = {
-			NOR = {
-				current_age = age_1_traditions
-				current_age = age_2_renaissance
-			}
-		}
-		change_societal_value = {
-			type = outward_vs_inward
-			value = societal_value_minor_move_to_right
-		}
-	}
-}
-
-nudge_towards_openness = {
-	custom_tooltip = openness_tt
-	change_societal_value = {
-		type = traditionalist_vs_innovative
-		value = societal_value_minor_move_to_right
-	}
-	change_societal_value = {
-		type = individualism_vs_communalism
-		value = societal_value_minor_move_to_left
-	}
-	if = {
-		limit = {
-			NOR = {
-				current_age = age_1_traditions
-				current_age = age_2_renaissance
-			}
-		}
-		change_societal_value = {
-		type = outward_vs_inward
-		value = societal_value_minor_move_to_left
-	}
-	}
-}
-
 add_decree_monthly_celestial_authority_loss = {
 	custom_tooltip = decree_monthly_celestial_authority_loss_tt
 	international_organization:middle_kingdom = {

@@ -150,15 +150,6 @@
 			tag = VEN
 		}
 	}
-	text = {
-		localization_key = country_flavor_parliament_senate
-		trigger = {			
-			tag = VEN
-			NOR = {
-				current_age = age_1_traditions
-				current_age = age_2_renaissance
-			}
-		}
 	}
 
 	text = {
@@ -363,16 +354,6 @@
 		localization_key = country_flavor_parliament_uijeongbu
 		trigger = {
 			culture.language = language:korean_language
-		}
-	}
-	text = {
-		localization_key = country_flavor_parliament_rogati
-		trigger = {
-			culture = culture:venetian
-			OR = {
-				current_age = age_1_traditions
-				current_age = age_2_renaissance
-			}
 		}
 	}
 

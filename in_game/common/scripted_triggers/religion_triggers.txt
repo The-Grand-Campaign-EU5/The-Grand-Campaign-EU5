@@ -7,10 +7,6 @@ is_excommunicated = {
 	}
 }
 excommunicate_allow_trigger = {
-	OR = {
-		current_age = age_1_traditions
-		current_age = age_2_renaissance
-	}
 }
 excommunicate_target_trigger = {
 	religion ?= religion:catholic
@@ -34,11 +30,6 @@ was_recently_under_interdict = {
 
 crusade_potential_trigger = {
 	game_is_initialized = yes
-	OR = {
-		current_age = age_1_traditions
-		current_age = age_2_renaissance
-		religion:catholic = { has_religion_modifier = illius_qui_se_pro_divini }
-	}
 }
 
 crusade_allow_trigger = {

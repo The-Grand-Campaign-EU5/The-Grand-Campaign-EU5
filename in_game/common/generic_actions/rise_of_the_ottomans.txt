@@ -244,7 +244,7 @@ raise_bey_fortress = {
 	ai_tick = monthly
 	ai_tick_frequency = 12
 
-	price = price:p_building_age_2_renaissance
+	price = price:p_building_age_7_industry
 
 	
 	cooldown = { 

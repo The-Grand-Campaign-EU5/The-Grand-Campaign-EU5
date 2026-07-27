@@ -4937,7 +4937,7 @@ revoke_town_rights_cost_modifier={
 }
 
 
-p_building_age_1_traditions_cost_modifier={
+p_building_age_7_industry_cost_modifier={
 	color=bad
 	percent=yes
 	game_data={
@@ -4945,87 +4945,7 @@ p_building_age_1_traditions_cost_modifier={
 	}
 }
 
-p_building_age_2_renaissance_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_building_age_3_discovery_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_building_age_4_reformation_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_building_age_5_absolutism_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_building_age_6_revolutions_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_1_traditions_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_2_renaissance_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_3_discovery_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_4_reformation_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_5_absolutism_cost_modifier={
-	color=bad
-	percent=yes
-	game_data={
-		category=country
-	}
-}
-
-p_expensive_building_age_6_revolutions_cost_modifier={
+p_expensive_building_age_7_industry_cost_modifier={
 	color=bad
 	percent=yes
 	game_data={

@@ -2549,41 +2549,11 @@ global_rural_build_buildings_cost = {
 		positive = "gfx/interface/icons/modifier_types/small_rural_building_cost_modifier.dds"
 }
 
-p_building_age_1_traditions_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
-}
-p_building_age_2_renaissance_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
-}
-p_building_age_3_discovery_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
-}
-p_building_age_4_reformation_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
-}
-p_building_age_5_absolutism_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
-}
-p_building_age_6_revolutions_cost_modifier = {
+p_building_age_7_industry_cost_modifier = {
 		positive = "gfx/interface/icons/modifier_types/small_foreign_building_cost_modifier.dds"
 }
 
-p_expensive_building_age_1_traditions_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
-}
-p_expensive_building_age_2_renaissance_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
-}
-p_expensive_building_age_3_discovery_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
-}
-p_expensive_building_age_4_reformation_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
-}
-p_expensive_building_age_5_absolutism_cost_modifier = {
-		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
-}
-p_expensive_building_age_6_revolutions_cost_modifier = {
+p_expensive_building_age_7_industry_cost_modifier = {
 		positive = "gfx/interface/icons/modifier_types/capital_building_cost_modifier.dds"
 }
 

@@ -41,8 +41,6 @@ italy.2 = {
 	option = {
 		name = italy.2.a
 
-		ruler = { remove_ruler = root }
-
 		c:MAS = {
 			make_subject_of = {
 				target = c:MOD

@@ -24,7 +24,11 @@
 			"events/religion",
 			"events/situations",
 			"common/goods",
-			"common/diseases"
+			"common/diseases",
+			"common/institution",
+			"common/advances",
+			"common/diseases",
+			"gfx/images"
  		]
 	}
 }
